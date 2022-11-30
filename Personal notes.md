@@ -1,0 +1,2 @@
+- Where to talk about the advantages of applying to startups vs. Big Tech - based on your background?? This isn't a part of qualifying ("fit" in this section only has to do with whether you can create value for this company or not, nothing else - because if you believe you can, it's on you to sell effectively to that company), this is a part of the "Approach" strategy - ought to be a chapter at the start of the "Approach section". This is valuable information.
+- 

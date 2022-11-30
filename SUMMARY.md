@@ -7,10 +7,9 @@
 * [How companies hire](rules-of-the-game/how-companies-hire.md)
 * [What companies look for](rules-of-the-game/what-companies-look-for.md)
 * [Job hunting is sales](rules-of-the-game/job-hunting-is-sales.md)
-* [Finding & qualifying companies](rules-of-the-game/finding-and-qualifying-companies.md)
 
 ## Prepare
-
+* [Finding & qualifying companies](prepare/finding-and-qualifying-companies.md)
 * [Pitch](prepare/pitch.md)
 * [Resume](prepare/resume.md)
 * [Website](prepare/website.md)
