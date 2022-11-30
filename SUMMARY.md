@@ -1,5 +1,7 @@
+# Summary
+
 ## Rules of the game
-* [How companies hire](How companies hire.md)
+* [How companies hire](/How companies hire.md)
 
 ## Preparation
 
