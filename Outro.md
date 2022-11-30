@@ -1,0 +1,2 @@
+While this playbook is proven to work for me and others, if you disagree with some of the strategies outlined above, I'd greatly appreciate your feedback so that we can make this resource even better.
+- You can provide feedback via email / Twitter DMs.

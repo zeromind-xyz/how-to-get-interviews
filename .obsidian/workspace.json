@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "Outro.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "Outro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "Outro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md"
+                "file": "Outro.md"
               }
             }
           }
@@ -163,15 +163,15 @@
   },
   "active": "f37c318e2a86c038",
   "lastOpenFiles": [
-    "Intro.md",
+    "Confidence.md",
+    "Outro.md",
     "SUMMARY.md",
+    "Intro.md",
     "finding-and-qualifying-companies.md",
     "job-hunting-is-sales.md",
     "how-companies-hire.md",
     "\"How.md",
     "How.md",
-    "what-companies-look-for.md",
-    "Confidence.md",
-    "Make it easy to help you.md"
+    "what-companies-look-for.md"
   ]
 }
