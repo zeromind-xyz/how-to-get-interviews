@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "131be8f822c5f725",
+    "type": "split",
+    "children": [
+      {
+        "id": "088bfb970aba0698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09678e28a895903f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06e9486e042be482",
+    "type": "split",
+    "children": [
+      {
+        "id": "db251b5cd8f1a612",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e4ef7de007eac92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "c6d2d1f90566dc7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a35da3eaba9ab18",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d6fed44b275469d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f92bd6661cc54390",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02375e371bb362f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "773deb6142b52daf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "006571a04a319683",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9952f9016cc281c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "09678e28a895903f",
+  "lastOpenFiles": [
+    "How companies hire.md",
+    "What companies look for.md",
+    "Job hunting is sales.md",
+    "Intro.md",
+    "Confidence.md",
+    "Make it easy to help you.md",
+    "Handling rejection.md",
+    "Thinking long-term.md",
+    "Resources.md",
+    "Outro.md"
+  ]
+}
