@@ -21,6 +21,8 @@ I recommend prioritizing companies on two factors: **urgency** (how badly they n
 
 Let's understand the possible combinations and then see how to actually measure urgency and fit - in order to prioritize well.
 
+![[company-priority.png]]
+
 **High urgency and high fit**. The company is growing quickly and is trying to hire engineers they needed to hire yesterday. AND you have the skills to actually create value at this company. A dream come true best case scenario.
 
 **High fit and low urgency**. This is mostly Big Tech companies and smaller companies that aren't growing at breakneck pace. These companies don't need to hire like crazy today, but have certain hiring goals they're trying to hit. 
