@@ -1,5 +1,7 @@
 # Summary
 
+* [Intro](Intro.md)
+
 ## Rules of the game
 * [How companies hire](how-companies-hire.md)
 * [What companies look for](what-companies-look-for.md)
