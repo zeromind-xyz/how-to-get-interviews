@@ -1,4 +1,3 @@
-
 I think it's helpful to have some cognitive dissonance: allow yourself to be humbled by the greats on a regular basis and let your "feel" for the average climb. But when it's time to job hunt, turn that system off and have a more realistic gauge of your competence. If in doubt, bias towards greater confidence.
 	* More tips to increase confidence that I've found to be super helpful:
 		* I've found that relentless practice is a great way to boost confidence in anything: whether it's taking the game winning shot, giving a speech in front of a large audience, and interviewing at companies.

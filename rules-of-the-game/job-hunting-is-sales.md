@@ -8,7 +8,7 @@ When I say "sales" you might think of the sleazy car salesperson that's relentle
 The best salespersons are great listeners. They start by understanding what the customer needs, then they gauge whether their product can actually help this person, and IF they believe their product can help, they work to convince the potential customer to buy the product using evidence. (TODO: need to talk about the sales channels that are used **to REACH** the customer. customers aren't just going to come to you all the time).
 **--> Create a visual to express the components of the sales process and then come back here. The visualization will help you organize thinking around this.**
 
-![[job-hunting-steps.png]]
+![[images/job-hunting-steps.png]]
 **Smart prioritization is the foundation of successful sales** because you don't have an infinite amount of time to spend. Oftentimes, getting an interview at a company can be a multi-week long process that can sink hours of your time. If you're not careful about which companies you put that effort towards, you'll have little to show for all your efforts.
 
 You want to maximize your time on the companies where you have the greatest chance of getting an interview.
@@ -21,7 +21,7 @@ I recommend prioritizing companies on two factors: **urgency** (how badly they n
 
 Let's understand the possible combinations and then see how to actually measure urgency and fit - in order to prioritize well.
 
-![[company-priority.png]]
+![[images/company-priority.png]]
 
 **High urgency and high fit**. The company is growing quickly and is trying to hire engineers they needed to hire yesterday. AND you have the skills to actually create value at this company. A dream come true best case scenario.
 
