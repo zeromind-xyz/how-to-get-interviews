@@ -5,7 +5,7 @@
 
 ## Qualifying
 
-**Smart prioritization is the foundation of successful sales** because you don't have an infinite amount of time to spend. Oftentimes, getting an interview at a company can be a multi-week long process that can sink hours of your time. If you're not careful about which companies you put that effort towards, you'll have little to show for all your efforts.
+**Smart prioritization is important** because you don't have infinite time. Oftentimes, getting an interview at a company can be a multi-week long process that can sink hours, if not days. If you're not careful about which companies you put that effort towards, you'll have little to show for all your efforts.
 
 You want to maximize your time on the companies where you have the greatest chance of getting an interview.
 

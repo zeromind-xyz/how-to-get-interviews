@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bdd3a1cb7377cdee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules-of-the-game/job-hunting-is-selling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rules-of-the-game/job-hunting-is-selling.md",
+                "file": "rules-of-the-game/how-companies-hire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rules-of-the-game/job-hunting-is-selling.md",
+                "file": "rules-of-the-game/how-companies-hire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rules-of-the-game/job-hunting-is-selling.md"
+                "file": "rules-of-the-game/how-companies-hire.md"
               }
             }
           }
@@ -149,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bdd3a1cb7377cdee",
+  "active": "bc99f0aa8905d89f",
   "lastOpenFiles": [
-    "SUMMARY.md",
-    "what compn.md",
-    "rules-of-the-game/job-hunting-is-selling.md",
-    "rules-of-the-game/how-companies-hire.md",
-    "Personal notes.md",
-    "prepare/pitch.md",
+    "prepare/high-effort-projects.md",
+    "prepare/resume.md",
+    "prepare/positioning.md",
+    "prepare/projects.md",
+    "prepare/website.md",
+    "prepare/finding-and-qualifying-companies.md",
     "prepare/your-pitch.md",
-    "Sc.md",
-    "Resources.md",
-    "mindset/thinking-long-term.md"
+    "SUMMARY.md",
+    "README.md",
+    "prepare/pitch.md"
   ]
 }
