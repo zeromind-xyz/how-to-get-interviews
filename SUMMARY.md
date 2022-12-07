@@ -5,7 +5,6 @@
 ## Rules of the game
 
 * [How companies hire](rules-of-the-game/how-companies-hire.md)
-* [What companies look for](your-pitch.md)
 * [Job hunting is sales](job-hunting-is-selling.md)
 
 ## Prepare
