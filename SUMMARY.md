@@ -5,12 +5,12 @@
 ## Rules of the game
 
 * [How companies hire](rules-of-the-game/how-companies-hire.md)
-* [What companies look for](rules-of-the-game/what-companies-look-for.md)
+* [What companies look for](your-pitch.md)
 * [Job hunting is sales](job-hunting-is-selling.md)
 
 ## Prepare
 * [Finding & qualifying companies](prepare/finding-and-qualifying-companies.md)
-* [Pitch](prepare/pitch.md)
+* [Pitch](prepare/your-pitch.md)
 * [Resume](prepare/resume.md)
 * [Website](prepare/website.md)
 * [Projects](prepare/projects.md)

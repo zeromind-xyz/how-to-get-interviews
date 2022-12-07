@@ -64,11 +64,11 @@ On the other hand, if you don't look great on paper in the traditional sense, yo
 
 ### There are no rules
 
-Hiring processes aren't set in stone. Remember, a company WANTS to hire great engineers. If you can demonstrate that you're a great engineer to the people in the company that have a say in hiring and can interrpet your pitch well, then you'll be hired. 
+Hiring processes aren't set in stone. Remember, a company WANTS to hire great engineers. If you can demonstrate that you're a great engineer to the people in the company that have a say in hiring and can interrpet your pitch well, then you'll be hired.
 
 ### Smaller startups
 
-The process we went over usually exists once a company reaches a certain scale: i.e. post 20 - 30 employees.  At smaller startups, usually the founders themselves / engineering leads will carry out the hiring process. 
+The process we went over usually exists once a company reaches a certain scale: i.e. post 20 - 30 employees.  At smaller startups, usually the founders themselves / engineering leads will carry out the hiring process.
 
 ### Hiring during recessions
 
