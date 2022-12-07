@@ -11,11 +11,28 @@
             "id": "bc99f0aa8905d89f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "rules-of-the-game/how-companies-hire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdd3a1cb7377cdee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules-of-the-game/job-hunting-is-selling.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "rules-of-the-game/job-hunting-is-selling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "rules-of-the-game/job-hunting-is-selling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "rules-of-the-game/job-hunting-is-selling.md"
+              }
             }
           }
         ]
@@ -128,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bc99f0aa8905d89f",
+  "active": "bdd3a1cb7377cdee",
   "lastOpenFiles": [
+    "rules-of-the-game/how-companies-hire.md",
+    "rules-of-the-game/job-hunting-is-selling.md",
+    "Personal notes.md",
     "SUMMARY.md",
     "prepare/pitch.md",
     "prepare/your-pitch.md",
-    "rules-of-the-game/how-companies-hire.md",
     "what compn.md",
-    "Personal notes.md",
     "Sc.md",
     "Resources.md",
-    "rules-of-the-game/job-hunting-is-selling.md",
     "mindset/thinking-long-term.md"
   ]
 }

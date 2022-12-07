@@ -70,9 +70,16 @@ Hiring processes aren't set in stone. Remember, a company WANTS to hire great en
 
 The process we went over usually exists once a company reaches a certain scale: i.e. post 20 - 30 employees.  At smaller startups, usually the founders themselves / engineering leads will carry out the hiring process.
 
+- Startups are far more likely to subvert the common hiring process with interviewing styles that differs from the standard coding puzzles, etc. 
+	- E.g. show some interview processes at the latest breed of top tier startups (Replit, Linear, Raycast).
+	- (Just straight up post job process examples from various companies).
+
 ### Hiring during recessions
 
 During economic downturns, companies tend to care more about what you can bring to the table TODAY, vs. how good you'll be a year or so down the line.
 
 Companies cut job openings for "junior" / "new grad" positions, making it even tougher for newcomers to get opportunities.
+
+**During easy times people are willing to bet on your potential.
+During tough times people only bet on what you can do today.**
 

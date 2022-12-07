@@ -1,3 +1,7 @@
+<figure><img width="200px" src="https://res.cloudinary.com/dgxdbpyfy/image/upload/v1669808824/job-hunting-steps_sjktze.png" alt=""></figure> (copy this format to paste images that you don't want to take the entire width).
+
+----
+
 Outline for opening:
 - Basic economics of a company.
 - Why does a company hire?
@@ -6,9 +10,6 @@ Outline for opening:
 - Understanding roles: Recruiter, Hiring manager, engineer
 - Recruiters have to rely on proxy signals of competence (define this and give examples)
 - What if you don't have the signals recruiters look for? The most effective way is to bypass the recruiter screen entirely. 
-- 
-
-
 
 -----
 
