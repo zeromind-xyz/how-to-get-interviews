@@ -38,19 +38,17 @@ On the other hand, simply creating a complicated product that doesn't have any u
 
 Most companies aren't going to spend that time vetting your repos and projects. 
 
-The golden rule of pitching yourself is: **Uncertainty creates doubt in the human mind. If you want to get interviews, you must minimize uncertainty and doubt in the minds of potential employers.**
+The golden rule of pitching yourself is: **Uncertainty creates doubt. If you want to get interviews, you must minimize uncertainty in the minds of potential employers.**
 
 Let's tweak that pitch again to:
 
 "Helped create Pico (mobile app for teens), successfully launched it internally at (some big tech company), scaling the product to 1 million users.".
 
-This pitch creates SO MUCH DOUBT. What the hell does "helped" mean? Did you fix one bug in the entire product and your stellar teammate was the one who actually architected, designed and built the entire thing? When your team scaled it to users, did you actually engage with users to understand what they need and improved your product with that understanding, or were you fetching your team Pizzas every day so they can do the impressive, difficult work?
+This pitch creates SO MUCH DOUBT. What does "helped" mean? Did you fix one bug in the entire product and your stellar teammate was the one who actually architected, designed and built the entire thing? When your team scaled it to users, did you actually engage with users to understand what they need and improved your product with that understanding, or were you fetching your team Pizzas every day so they can do the impressive, difficult work?
 
 The only way for someone at the company to evaluate this pitch is to have a long, long conversation with this candidate to really dig into their true contribution, and then they'd have to also grill them on the technical bits to verify whether this candidate actually did this or is making it up. And even after all of that, the company would need to put the candidate through a long technical interview process to actually verify their ability in case they were BSing earlier.
 
 This is a tough pitch. So much uncertainty that requires companies to spend a great deal of time (and assume they won't) to validate your true competence.
-
-(In later sections we'll cover how to minimize uncertainty in your sales assets: pitch, resume, application, etc.)
 
 And now put yourself in the shoes of a recruiter that is not technical, and he reads "Helped create Pico (mobile app for teens), successfully launched it internally at (some big tech company), scaling the product to 1 million users". If he doens't recognize the name of the tech company / the product you built, you're done.
 

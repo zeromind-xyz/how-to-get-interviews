@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c5f0dc1956e78f40",
+        "id": "a08207db6d51bbd9",
         "type": "tabs",
         "children": [
           {
-            "id": "948e3c1492fe6454",
+            "id": "77a926c65423322d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "42d1b89930960fe0",
+            "id": "ef34f4afd35d4424",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal notes.md",
+                "file": "rules-of-the-game/what-companies-look-for.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 237.5
   },
   "right": {
     "id": "d6fed44b275469d3",
@@ -148,17 +148,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "948e3c1492fe6454",
+  "active": "77a926c65423322d",
   "lastOpenFiles": [
-    "Personal notes.md",
-    "rules-of-the-game/how-companies-hire.md",
     "rules-of-the-game/what-companies-look-for.md",
-    "rules-of-the-game/job-hunting-is-sales.md",
-    "prepare/finding-and-qualifying-companies.md",
-    "SUMMARY.md",
+    "rules-of-the-game/how-companies-hire.md",
+    "what compn.md",
+    "Personal notes.md",
+    "Sc.md",
     "Resources.md",
+    "rules-of-the-game/job-hunting-is-selling.md",
+    "mindset/thinking-long-term.md",
     "mindset/make-it-easy-to-help-you.md",
-    "mindset/confidence.md",
-    "README.md"
+    "mindset/handling-rejection.md"
   ]
 }

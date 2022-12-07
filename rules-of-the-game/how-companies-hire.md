@@ -1,53 +1,78 @@
-Companies exist to create long-term economic value for its shareholders. The way it does this is by creating a product / service that it sells to customers in exchange for money. The more money it makes, the more value it creates.
+A "company" is a fictional entity that's approximately valued by how much profits it can generate. 
 
-A company values you proportional to your ability to positively impact its bottom line. Therefore job hunting is essentially the process of selling your abilities. When applying for an opportunity, it's your job to convince the company that you have the ability to create more value than you're getting paid.
+It creates value by making something people want and selling it to them & hires people to enable the company to create greater value.
 
-After all, if you don't seem like you're going to create more value than the compensation you take, why should a company hire you?
+Therefore, fundamentally, convincing a company to hire you is all about demonstrating your ability to create value.
 
-**Job hunting is a sales process**. You must convince companies that hiring you is a solid **business** decision. 
+I think it's incredibly interesting to be in this position if you ask me.
 
-Treating job hunting as a sales process is especially important during recessions, hiring freezes and difficult times - when companies may not have the leeway to train you for years before you actually create value.
+Generally, when you apply to an open role at a company, you go through the following steps:
+1. Added the the Applicant Tracking System (ATS).
+2. Screened by a recruiter.
+3. Screened by the hiring manager.
+4. Technical screening.
+5. Interviews with engineers.
+6. Behavioral interview (usually with the hiring manager)
+7. Offer.
 
-**During easy times people are willing to bet on your potential.
-During tough times people only bet on what you can do today.**
+(TODO: clean, minimal flow diagram with these steps).
 
-Prepare your mind for tough times and learn to pitch yourself so well to minimize the negative impact of your external hiring environment.
+A recruiter is someone who's usually not technical and is responsible for managing the hiring process from sourcing candidates, setting up interviews with the technical team, to handing the offer to the candidate and answering any question they may have. Basically, at any step of your interview process with a company, the recruiter you're working with will be your primary point of contact with that company.
 
-How does a company hire? There's no standard hiring process that fits all the shapes and sizes of companies you'll encounter. 
+Companies hire recruiters to manage this hiring process because it's an incredibly time consuming and involved skill. While at early stage companies, often the engineers or the founders themselves will identify the right candidates and go through the entire hiring process to interview them and bring them onboard, as the company scales it becomes increasingly difficult to put the burden of recruiting on the engineering team themselves - after all, engineers are hired to... engineer, not spend all their time on the hiring pipeline.
 
-A recruiter is a person whose job is to enlist or enroll people as employees.
+While recruiters manage the entire process, they typically don't have significant say in the final decision of whether to hire you or not - that's up to the team that you'll actually work with. Yet, I've seen cases in which recruiters can veto a candidate because they were disrespectful to the recruiter or had some other major red flag that didn't have anything to do with their engineering competence. Be respectful human being. 
 
-The larger the company becomes, the more it tends to rely on a team of recruiters to drive the hiring process: from finding candidates, adminstration work (setting up interviews, etc.), handling offers, answering any questions the candidate has in order to close the deal. 
+A hiring manager for a job opening is usually the manager for the team that the role is in. They're the ones you'll be working with if you get and accept the offer from this company. In order to make the final decision on whether to hire you, the hiring manager helps the team synthesize their evaluations of you (based on your technical interviews with the team), in order to reach a decision.
 
-Eventually, as a company scales, its recruiters do everything in the hiring process except for the actual technical interviews.
+Some larger Tech companies (like Google) have hiring committees that also include engineers that didn't actually interview you to help make the final hiring decision, in order to reduce bias in their decision making.
 
-As companies grow they increasingly rely on recruiters to drive the hiring process because an engineer's minute costs a company a lot more than a recruiter's minute. Companies want to minimize distracting engineers with any tasks that aren't related to working on the actual money making product.
+An ATS is the system that companies use to keep track of their applicant pool. It collects applicant information, lets the company sort and search for candidates that have particular skills / experience. Some ATS systems also have "intelligent" filtering that rejects applicants based on the lack of specific terms that the team is looking for in candidates, without even letting the application get to the recruiter / hiring manager for a human review. 
 
-But investing in an in-house recruiting team only makes financial sense when companies reach a certain scale. Therefore you generally see a growing internal recruiter presence as a company scales, with smaller startups (< 30 employees) typically having no recruiters, to larger tech companies having a mature internal recruitment team with a clearly defined process.
+While this the most common process you'll encounter, there's quite a bit of variance in how this plays out at companies based on factors like size, location, culture, etc. Let's understand these nuances so that we can develop a strategy to maximize chance of getting interviews at any company.
 
-Having to deal with a recruiter may or may not be beneficial to you depending on whether you look "traditionally good" on paper. 
+### What companies look for
 
-"Traditionally good" = you have a degree from a well known computer science college program, 
-you worked at a well-known company.
+It's incredibly difficult to evaluate actual competence. The only way to do so is to have the candidate work at the company on a trial period for a month (ideally longer) and then evaluate how they performed. A completely infeasible approach to interviewing candidates.
 
-From a recruiter's perspective, their main aim is to fill open positions as quickly as possible, with the minimum number of candidates interviewed. Interviewing a candidate is quite expensive. It takes an engineer's time to set up interviews, and evaluate a candidate's performance. Smaller companies especially feel the pain when a candidate goes through the entire interview process only to not get an offer at the end of the day, or reject an offer - valuable resources wasted for a company.
+Even multiple technical interviews are incredibly expensive for a company.
 
-Therefore, not only is a recruiter trying to fill a spot quickly, they're also trying to maximize the probability of a candidate actually passing the interview and accepting an offer. Companies want you to pass their interviews! Once they give you an interview that is. 
+Therefore companies look for "signals" of competence: achievements / qualities of a job candidate that correlate with competence and reduces the risk of the candidate lacking the skills needed to create value at the company.
 
-OK but a recruiter isn't technical, so how can they tell if you have the competence to pass an interview or not? This is where it gets tough if you don't look "traditionally good" on paper.
+Due to the huge cost of interviewing a candidate, and the even larget cost of hiring someone who's not good enough, companies focus on **minimizing risk** in hiring. 
 
-(something about how the recruiter ends up being the first screening point).
+For most companies, it's OK if they pass diamonds in the rough who don't look great on paper, but have actual skills, as long as they don't hire someone who's actually bad. 
 
-If you look traditionally good on paper then a recruiter knows you're low risk since many people with the same credentials as you have performed well in the industry. Not only is it low risk for the recruiter, it's also not their fault if you fail the interview because who can blame the recruiter for passing on someone who worked at, say, Google. 
+From a company's perspective, what reduces the risk in taking a bet on a candidate? This actually depends on who in the company is screening your application. 
 
-On the other hand if you don't look "traditionally good" in your resume and a recruiter passes you on to the engineering team asking them to take a look at you, the recruiter runs the risk of looking bad if the engineering team doesn't like your profile - because the recruiter went against the grain to vouch for you.
+Recruiters are usually non-technical, so they primarily look at whether a candidate:
+1. Graduated from a presitious institution that has a track record for producing strong software engineers.
+2. Previously worked at a company with a strong reputation.
+3. Is recommended by someone at the company.
+4. Has any notable awards related to tech / engineering.
 
-Companies that filter on this inadequate definition of "traditionally good" will miss out on a lot of talent in the world, but that will only matter to these companies if the pool of "traditionally good" candidates dries up or if they can't afford this pool anymore.
+Engineers on the other hand are also able to look at parts of your application that recruiters usually find it difficult to gauge:
+- Projects that you've worked on in the past.
+- Your open source contributions.
+- Your public blog / essays / videos in which you talk about things that are relevant to what this company is working on.
 
-The world operates on risk minimization - increasingly so as an organization gets bigger. Companies aren't out to actively discriminate against you because you didn't go to a top CS program (or don't have a degree). They aren't evil masterminds making sure that only Stanford grads rule the world. They're simply minimizing risk.
+**This is why many talented engineers from non-traditional backgrounds get screened out of the hiring process at the ATS / recruiter stage before their application ever gets to engineers: they don't have the signals that recruiters know how to make sense of!**
 
-A company is designed to generate $. If interviewing someone from a particular background enables the company to hire quickly and get back to building product, they're going to hire them because that's what their incentives push them to do. 
+Therefore how you approach applying to companies should depend on what your strengths are: if you've already worked at great companies and were educated at world class institutions, you'll do well engaging directly with recruiters when applying.
 
-Therefore when pitching yourself to companies, pitch yourself in a way that minimizes the perceived risk in hiring you.
+On the other hand, if you don't look great on paper in the traditional sense, you ought to find ways to connect with engineers at companies who're able to make sense of your work that falls outside of the traditional signals. (Later in the playbook we'll go through effective strategies to do this).
 
-Don't worry though, I'll show you how to penetrate into companies with recruiters screening for "traditionally good". I'll also show you how to identify companies that don't filter in this way.
+### There are no rules
+
+Hiring processes aren't set in stone. Remember, a company WANTS to hire great engineers. If you can demonstrate that you're a great engineer to the people in the company that have a say in hiring and can interrpet your pitch well, then you'll be hired. 
+
+### Smaller startups
+
+The process we went over usually exists once a company reaches a certain scale: i.e. post 20 - 30 employees.  At smaller startups, usually the founders themselves / engineering leads will carry out the hiring process. 
+
+### Hiring during recessions
+
+During economic downturns, companies tend to care more about what you can bring to the table TODAY, vs. how good you'll be a year or so down the line.
+
+Companies cut job openings for "junior" / "new grad" positions, making it even tougher for newcomers to get opportunities.
+
