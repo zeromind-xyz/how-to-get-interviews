@@ -1,18 +1,46 @@
-
-## Finding companies
-- All the sources to find companies
-- Personal network
-
 ## Qualifying
 
-**Smart prioritization is important** because you don't have infinite time. Oftentimes, getting an interview at a company can be a multi-week long process that can sink hours, if not days. If you're not careful about which companies you put that effort towards, you'll have little to show for all your efforts.
+**Prioritization is important** because you don't have infinite time. There are many ways to approach a company to apply: and some approaches take significantly more effort than others. If you're not careful about which companies you put that effort towards, you won't have great results.
 
 You want to maximize your time on the companies where you have the greatest chance of getting an interview.
 
 I recommend prioritizing companies on two factors: **urgency** (how badly they need to hire) and **fit** (how well your abilities align with what the company is looking for).
 
-(TODO: expand on urgency and fit right here before moving on). **How do you know if a company has urgency?** **How do you know if you're a good fit for a company?**
+### Urgency
+You can tell if a company needs to urgently hire if they're growing fast and are barely able to keep up with the demand for their product. You can determine this by whether the company has job openings **across the board** (not just engineering). When a company grows quickly they're not just looking for engineers to build product, but also need to hire for roles like customer support, product, design, sales, legal, etc. This is a great sign that the demand for their product is growing rapidly.
 
+On the other hand, if a company only has one or two openings for engineers, they're not likely to be growing rapidly, and therefore their open roles are less urgent.
+
+### Fit
+Fit is inversely proportional to how long it will take you to create value at the company. 
+
+This depends on 2 factors:
+1. How closely aligned your experience is with the role description.
+2. How well you can do the work.
+
+In the best case scenario, you have extensive experience with the kind of work the company needs to be done, and have deep experience using the tools that the role asks for. If hired, you should be able to hit the ground running with minimal time getting up to speed with the way things work.
+
+Being a high fit for the role you're applying to doesn't necessarily mean you know the exact framework / language that they're using, but rather you've done similar work and can therefore pick up the specific frameworks they're using, quickly. For example, let's say the role asks for knowledge of React, but you're an expert at another web framework similar to React, then your understanding is likely transferrable. Within a couple of weeks you should be able to create value in React.
+
+On the other hand, if you're only familiar with building for the web, then applying to a machine learning engineer position is a low fit: you'll need a lot more time to build the skills to actually create value.
+
+There are also companies with more generalist "full stack" engineering roles. These companies recognize the transerability of strong software engineering skills to any engineering task and are therefore less particular about the exact technology stack you're familiar with. Treat those roles as a medium fit.
+
+Unlike seeing how well you're aligned with the role you're applying to, it's tougher to gauge your actual competence in work. 
+
+I believe most of you reading this are underestimating your abilities.
+
+We tend to overestimate the average and underestimate the extremes. It's both true that the best engineer is 1000x more productive than the average and that the average engineer can't build a meaningful application on their own, without major bugs, in a reasonable amount of time.
+
+If you have baseline competence in software engineering, communication skills, the right attitude (ability to handle feedback well, always working to improve), and some common sense, you're well ahead of the pack. Of course, you'll always have a huge room for improvement and that's what you should focus on, but when it's time to job hunt, don't sell yourself short - it's not a helpful mindset.
+
+I wish everyone reading this gets an opportunity to process hundreds of software engineer job applications from around the world. You'll quickly realize what I mean by overestimating the mean.
+
+Another contributing factor is that those who are dedicated to learning will often consume content from great programmers on Youtube / TikTok / Twitch / Hackernews, etc. When you constantly consume from people who are really good (outliers), it's natural for you to feel inadequate compared to them (I definitely felt this way). Those that are actually learning a lot might be the ones most susceptible to undervaluing their skills. This is great for learning, bad for selling.
+
+I think it's helpful to have some cognitive dissonance: allow yourself to be humbled by the greats on a regular basis and let your "feel" for the average climb. But when it's time to job hunt, turn that system off and have a more realistic gauge of your competence. If in doubt, bias towards greater confidence.
+
+### Urgency <> fit
 Let's understand the possible combinations and then see how to actually measure urgency and fit - in order to prioritize well.
 
 <figure><img src="https://res.cloudinary.com/dgxdbpyfy/image/upload/v1669808824/company-priority_n7hw8a.png" alt=""><figcaption></figcaption></figure>
@@ -21,7 +49,7 @@ Let's understand the possible combinations and then see how to actually measure 
 
 **High fit and low urgency**. This is mostly Big Tech companies and smaller companies that aren't growing at breakneck pace. These companies don't need to hire like crazy today, but have certain hiring goals they're trying to hit.
 
-Hunting for companies in this section can be fruitful, but also time consuming because there's no strong incentive for the company to move fast. Like humans, companies move fast when it's driven by the fear of survival: i.e. when an opportunity to capture a market exists, but there's a pressure to dominate the market or be left with nothing.
+Hunting for companies in this section can be fruitful, but also time consuming because there's no strong incentive for the company to move fast. Like humans, companies move fast when it's driven by the fear of survival: i.e. when an opportunity to capture a market exists, and there's pressure to dominate the market or be left with nothing.
 
 This is usually where you'll run into processes that take week(s) - month(s) to result in a decision (assuming you're a decent fit). You should definitely pursue these opportunities if you find companies in this quadrant that you want to work at, but temper your expectations on the speed of the process. There are ways to speed this up which we'll cover later (TODO: link to the section).
 
@@ -43,49 +71,22 @@ Many companies that have high urgency also have a wildcard job listing that welc
 
 Wildcard listings are becoming more popular these days because of the nature of creating value in Tech: oftentimes the greatest creators of value operate at poorly defined intersection of roles: e.g. the salesperson who can code, the designer who can code, the salesperson who loves design, the engineer who has a strong product sense.
 
-If you have an inclination for such intersections, you might find it easier to operate at intersections at fast growing companies with a high urgency to hire.
+If you have an inclination for such intersections, you might find it easier to operate at intersections of roles at fast growing companies with a high urgency to hire.
 
-**(TODO: really need to expand on this quadrant: this is also the quadrant for people that want to navigate into roles they have no experience for... CHAOS is the place where you can have the greatest leeway and opportunity to create cross division value).**
+Lastly, avoid **low urgency, low fit**.
 
-***
+And of course filter for any other obvious requirements you have: i.e. if you're only willing to work remotely, then... don't apply to an in-person company (and vice-versa).
 
-My **conflict** here is: for really desparate people, they need to prioritize their existing warm introductions above all else since that's their most effective channel. -> this makes sense. Actually, put this in the sourcing companies section. That's totally fine. But how does it fit into the "urgent" & "good fit" matrix? It doesn't.
-
-The two ways to process the matrix:
-
-* Actually, the advice is more of a heuristic. You still have the leeway to break the advice for a company you do want to work at. Quite simple.
-* Need to make the point that in this playbook, I'm trying my best not to be opinionated about which companies you're applying to. That's an important, nuanced topic worthy of another playbook altogether, beyond the scope of this one.
-
-**A. Understand what a company wants**
-
-* Different types of engineering (while the fundamentals of working on a map vs. a payments API do require the same fundamental software engineering principles, they are radically different expressions).
-* Iterating quickly on a web app with React is a very different game than building a database and optimizing it with clever data structures & algorithms. One isn't better than the other, they require a different way of using your mind.
-* By understanding which flavor of engineer this company is looking for, you can understand 1. whether you're a good fit for that role, and if so, 2. which of your past experiences you can highlight in all of your interactions with this company.
-* If you have a background building web apps and a company is building a database in C++ and other low-level engineering techniques and optimizations, you're probably not going to get far with this company. Sure apply online and see what happens, but don't dedicate a lot of time trying to convince the company to interview you, it's not going to be fruitful.
-* Selling a product that isn't a good fit for customer isn't going to be very fruitful. Focus energies on the opportunities that you are a good fit for.
-* (Something something overestimate the average point - need to instill confidence in those that actually have the skills).
-* I'm not saying don't apply to a position that asks for Python but you only know Javascript. The reality is that it's relatively easy for a person competent in one language to pick up another and good companies understand this. But I am saying that you should avoid companies that need a very different flavor of engineering, unless you're prepared to spend time learning before you actually work there.
-  * Funny story: my email interaction with George Hotz: (LOL, this is a great email interaction). https://mail.google.com/mail/u/0/#search/george+hotz/FMfcgxmRRSkQTxvhWvpXZDLNTgfjmnfk (HAHAHAHA).
-    * This is actually a perfect representation of what not to do.
-
-**B. Gauge your ability to create value for the company**
-
-* I believe most of you reading this are underestimating your abilities.
-* We tend to overestimate the average and underestimate the extremes. It's both true that the best engineer is 1000x more productive than the average and that the average engineer can't build a meaningful application on their own, without major bugs, in a reasonable amount of time.
-* If you have baseline competence in software engineering, communication skills, the right attitude (ability to handle feedback well, always working to improve), and some common sense, you're well ahead of the pack. Of course, you'll always have a huge room for improvement and that's what you should focus on, but when it's time to job hunt, don't sell yourself short - it's not a helpful mindset.
-* I wish everyone reading this gets an opportunity to process hundreds of software engineer job applications from around the world. You'll quickly realize what I mean by overestimating the mean.
-* Another contributing factor is that those who are dedicated to learning will often consume content from great programmers on Youtube / TikTok / Twitch / Hackernews, etc. When you constantly consume from people who are really good (outliers), it's natural for you to feel inadequate compared to them (I definitely felt this way). Those that are actually learning a lot might be the ones most susceptible to undervaluing their skills. This is great for learning, bad for selling.
-* I think it's helpful to have some cognitive dissonance: allow yourself to be humbled by the greats on a regular basis and let your "feel" for the average climb. But when it's time to job hunt, turn that system off and have a more realistic gauge of your competence. If in doubt, bias towards greater confidence.
-  * More tips to increase confidence that I've found to be super helpful:
-    * I've found that relentless practice is a great way to boost confidence in anything: whether it's taking the game winning shot, giving a speech in front of a large audience, and interviewing at companies.
-    * I have stage fright, but I know with enough practice there comes a point when I'll be able to go out there and deliver a speech with confidence and ease.
-    * Depending on your level of fear / lack of confidence, I suggest putting even more effort into the practice.
-    * And you have to. Natalie Portman, Kobe Bryant, Steve Jobs all practiced for a stupid amount of time before their scenes / game-winning shots / world-class product presentations. They practiced so much that you & I felt like they were born to do this.
-    * **For job hunting, there are a variety of ways you'll need to practice:**
-      * Actual technical competence.
-      * Your pitch (I want a section in which I outline some strategies that I've found incredibly useful in my life to deal with lack of confidence and fears).
-
-**How badly a company needs to hire**
-
-* Imagine you're trying to sell a car. One potential customer is a couple who already have a car, but are considering another car to reduce the coordination hassle in sharing a car. They can make do with what they have, but it's be kind of nice to buy another car. Another potential customer doesn't have a car and needs one to commute every day to their new job 20 miles away. Who do you think you'll have an easier time selling a car to? (Need a better, more terse example, this is way too long). (UNNECESSARY ANALOGY. Just get straight to an example with companies).
-* Similarly, not all companies who list jobs have the same urgency to hire someone for a particular. One company might have a massive desire to hire because their product is growing at an alarming rate. Meanwhile another company might have an opening for a role that they don't reeallly need to fill today, but are hiring for it to meet some internal goal or because some engineering manager in the company was promised a certain team size and she's just hiring because she can.
+## Finding companies
+Thankfully there are many incredible job discovery sites out there. Here are a few approaches:
+- Personal network: make a list of every single person you know working in Tech, add their companies to list.
+- Gsheet containing 750 tech companies actively hiring https://docs.google.com/spreadsheets/d/1SMKjAgYxG1iAi_G4E3DJik17-EkO8QiTo6obeZCiBAQ/edit#gid=882540374
+- HN who's hiring posts
+- https://www.ycombinator.com/jobs -> YC's curated list of jobs.
+- NODESK - [https://nodesk.co/remote-jobs/](https://nodesk.co/remote-jobs/)
+- RemoteOK - [https://remoteok.io/](https://remoteok.io/)
+- WeWorkRemotely - [https://weworkremotely.com/](https://weworkremotely.com/)
+- AngelList - [https://angel.co/jobs](https://angel.co/jobs)
+- WorkinTech.io - [https://workintech.io/](https://workintech.io/)
+- VC portfolios: (add the companies in each portfolio)
+	- E.g. go to -   Sequoia Capital, Andreessen Horowitz, Accel, Kleiner Perkins, Bessemer Venture Partners, New Enterprise Associates, Benchmark, Greylock, etc. (and if you're huntin region specific find the VC firms that invest in your region) & add their portfolio companies to your list.

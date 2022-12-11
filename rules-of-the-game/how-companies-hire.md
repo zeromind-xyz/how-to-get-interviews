@@ -41,7 +41,7 @@ Therefore companies look for "signals" of competence: achievements / qualities o
 
 Due to the huge cost of interviewing a candidate, and the even larget cost of hiring someone who's not good enough, companies focus on **minimizing risk** in hiring. 
 
-For most companies, it's OK if they pass diamonds in the rough who don't look great on paper, but have actual skills, as long as they don't hire someone who's actually bad. 
+For most companies, it's OK if they pass diamonds in the rough who don't look great on paper, but have actual skills, as long as they don't hire someone who's terrible. 
 
 From a company's perspective, what reduces the risk in taking a bet on a candidate? This actually depends on who in the company is screening your application. 
 

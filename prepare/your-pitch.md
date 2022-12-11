@@ -1,11 +1,31 @@
-What does a company need to see to even give you the interview in the first place?
+- Your pitch is: demonstrating your competence in a way that minimizes perceived risk for a company you're applying to.
+- Crafting your pitch is the foundation for every resource you'll prepare (resume, website, projects), and the foundation for effectively engaging with companies (via cold emails, warm introductions, direct messages, etc.).
+- Pitching yourself boils down to demonstrating your competence in a way that minimizes the perceived risk for a company (bec. companies are about risk minimization (link to that piece of playbook)).
+- Characteristics of the best pitch: 
+	- Irrefutable demonstrations of competence.
+	- Succinct. (the signals of competence, the shorter your pitch).
+- In the coming chapters, you'll see how to express your pitch in various mediums.
+----
 
-Well, they want to know if you'd be great at the job. But evaluating this directly is very time consuming and difficult to do. The only way to truly understand someone's competence is by working with them over a long period of time (say, a project).
+Your pitch is communicating your ability to create value for a company, in a way that minimizes your perceived risk to the company. This is the foundation for every resource you'll prepare (resume, website, projects), and the foundation for effectively engaging with companies (via cold emails, warm introductions, direct messages, etc.).
 
-Because software engineering is far more involved than solving self-contained coding puzzles. It's also a team sport: and a person's ability to make their team more effective is also positively contributing to the bottom line.
+As we discussed earlier, for a company **hiring is about minimizing risk**. Rather than search for geniuses, companies want to minimize the risk of hiring someone not competent to do the job. A bad hire is incredibly expensive for a company and you'll have to work to demonstrate that you can be effective in your role at the company.
 
-But obviously companies can't spend all that time and effort to evaluate a candidate, so they look for "signals" of competence that correlate with actual competence, which saves them a lot of time and effort.
 
+
+
+
+Let's analyze some pitches to understand what makes an effective pitch:
+
+**"I'm a React engineer and have worked on 3 web applications. I love programming and want to keep learning "**
+
+This is a terrible pitch.
+
+1. "React engineer" - is unnecessarily restricting. Unless you're 100% certain 
+2. "worked on" - is vague and leaves room for doubt in the reader's mind: did you build these applications by yourself? Worked on a team of 5? Did you do anything meaningful or did you just write 1 test case and consider yourself a "contributor" as a result?
+3. "I love programming" - this is cool, but it isn't clear how this will help you create value at the company... Remember, your job is to show the company how you can create value for the company, not what you want to take away from this experience.
+
+----
 Look at the following "resumes":
 
 "Created the first prototype of Gmail, successfully launched it internally, and eventually led the team to scaling the product to 1 million users." [x]. I mean if we rule out outright lying (which is easier than you think) then there's really no doubt in this candidate's ability. Not only did they successfully build a highly complicated piece of technology, they also had a correct sense for what people want to use and had the social skills to champion their product within the company to gain support and the leadership skills to scale their product to a sizeable audience.

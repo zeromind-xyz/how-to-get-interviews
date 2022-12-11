@@ -1,4 +1,4 @@
-**Job hunting is similar to a sales process**. Your selling your ability to create value - to companies.
+**Job hunting is similar to a sales process**. You're selling your ability to create value - to companies.
 
 ### Process
 

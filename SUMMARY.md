@@ -9,7 +9,6 @@
 
 ## Prepare
 * [Finding & qualifying companies](prepare/finding-and-qualifying-companies.md)
-* [Pitch](prepare/your-pitch.md)
 * [Resume](prepare/resume.md)
 * [Website](prepare/website.md)
 * [Projects](prepare/projects.md)
