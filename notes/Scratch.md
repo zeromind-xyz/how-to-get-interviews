@@ -1,4 +1,172 @@
-I want a visual language to communicate 
+
+### Resume outline
+
+**Intro**
+- What is a resume (CV)?
+- Audience
+
+**Organization**
+- Overview w/ example resume
+- Experiences is the most important aspect of your resume and should come up front and center.
+	- Why education should come after.
+
+**Work experiences**
+- Why brand matters 
+- Titles are not as important as you think (unless the company is very well known). No consensus on the difference b/w Sr. engineer and engineer, not as important as you think.
+
+**How to describe an experience**
+- Maximize strength of your company brand to your audience.
+- Each bullet point:
+	- Tie to outcome (the **right** outcome).
+		- The further connected the outcome is from your action, the more doubt it creates in the mind of the reader.
+		- Direct business outcomes: users, revenue
+		- Indirect business outcomes: 
+			- Improved latency.
+			- Improved load times.
+			- Employee training material.
+	- Simple language.
+	- Terse.
+
+**Projects**
+- Don't call yourself a founder / ceo if it wasn't actually a company. If you've built something others have used, you have a lot to work with, you lose credibility if you just drop fancy sounding titles.
+
+**Design**
+- Design philosophy.
+	- Copy >>> design. Don't let bad design get in way of your copy. If you don't know what you're doing (w.r.t. design), don't implement your own design & just copy a template. Please.
+	- **Substance >>> flash**. In fact, unnecessary flash comes off as lacking competence: as if you're trying to cover up a lack of experience with colors and shit that doesn't correspond to competence in your work.
+- Please avoid any bar graphs, pie charts, etc. Your experiences is your primary pitch, not self-proclaimed proficiency (or lack thereof) of skills.
+- Link decorations.
+- Colors (how to draw the eye to what matters).
+- Just use a fucking template. Plz.
+- Web and PDF -> Have both (or rather, have pdf with links). 
+
+**What to avoid**
+- Cut "Objective".
+- self professed skills "great communicator". Demonstrate, don't tell.
+- Avoid jargon.
+
+**Tailor to region**
+
+
+-----
+
+**Outline**:
+- Put yourself in your audience's shoes: 
+	- Re-iterate what hiring managers, recruiters & engineers are looking for when they read your resume.
+	- They spend maybe **20 - 30 seconds on your resume** - you don't have much time to make your point.
+- Therefore, **goal** is to **demonstrate competence** while **reducing perceived risk**. Every word, sentence must aid in this goal. If it doesn't, cut it.
+- Put your most impressive work up front - screw chronology if your most impressive work is in the past, bring it to the front.
+- How to demonstrate competence?
+	1. Brand names.
+		- What is the strength of a brand?
+	2. Tangible, believable outcomes:
+		- Direct business outcomes: users, revenue
+		- Indirect business outcomes: 
+			- Improved latency
+			- Improved load times.
+	3. Social proof.
+		- Testimonials.
+		- Projects that others have used / popular somewhere. Anything!
+- How to describe an experience:
+	- 
+- Demonstrate value, not laundry list every single thing you've done.
+	- What to eliminate:
+- Tie **actions to outcomes** (if it makes sense!).
+	- The further connected the outcome is from your action, the more doubt it creates in the mind of the reader.
+- Use **simple language**. The more flowery language, the more insecure you appear: as if you're trying to cover up lack of competence by "sounding" more competent.
+- Verifiable, understandable, believable, relevant.
+- Keep it short. No one needs more than one page. In fact, as you gain more experience and have greater competence - your resume should get shorter. **The most powerful resume is not having one.** -> Amen.
+- Handling gaps in your resume?
+- Design & formatting (summarize advice & recommend the resume services).
+	- **Substance >>> flash**. In fact, unnecessary flash comes off as lacking competence: as if you're trying to cover up a lack of experience with colors and shit that doesn't correspond to competence in your work.
+	- Links to great resumes.
+- Have a web and pdf version. Web version should have links.
+- Lying is a poor strategy -> why (without any moral argument).
+
+**Resources**
+- https://old.reddit.com/r/recruitinghell/comments/qhg5jo/this_resume_got_me_an_interview/ (Power of {brandname} on resume) -> probably want to put this in the chapter 
+- "As a hiring manager, most of the “Increased revenue by 27%” type lines on tech resumes are clearly awkward attempts to implement generic Internet resume advice. When was the last time a company attributed sales growth to some developer making a change? Don’t try to take credit for things that the company, as a whole, accomplished." - this makes sense: randomly dropping numbers isn't the best way to approach it. He goes on to mention WHERE it makes sense:
+	- **The two places I like to see specific numbers are when communicating project scale or demonstrating some quantifiable change that was directly attributable to a person’s work** (this is a GREAT point - when you state outcomes further away from the work you did, the correlation b/w YOUR work and that outcome is more blurry => more doubt in what you actually did).
+		- “Reduced AWS bill by 40% by profiling server code and implementing strategic optimizations”
+		- “Architected cloud backend to support 500,000 daily users”
+		- “Reduced average page load time by 57% percent”
+- "You want something that indicates the scale, scope, and complexity of what you did. I don't care that you increased user engagement by X%. I care that you've designed and implemented the type of things that I need designef and implemented."
+	- "**Improved the performance of a rendering system from 10000 objects per second to 100000"**.
+		- "Super vague, means basically nothing. Maybe it should be written with a bit more detail about what kind of rendering system this is. Still I would be interested, and in the interview I would ask them to explain the system and what they did. However, if it was something stupid (the original code was just super bad) then they would look dumb for bringing it up. Basically, if you put something like this in your CV, it should be something you're proud of for a good reason, not a result of trying to think of _anything_ where you can reduce the impact of your work to a number."
+		- (This is really interesting)
+		- "**The impact of most work cannot be reduced to a number, so it's perfectly fine to not have any "measurable successes" like that in your CV**. In my experience, 75% of people don't, and 75% of people who do have stupid ones that just make them look worse (ie they read online resume-writing advice and put in something like the example this discussion is about). So there is no point in actively trying to think of something like that to put in your CV. If you _have_ something, put it in, if not, that's fine. There's a pretty good way to decide whether to include it: does imagining your interviewer reading it make you feel proud or embarrassed?"
+			- Beautiful point.
+- Lying is pointless (imo), but give a rational argument for why not to lie NOT a moral one (bec. there is no moral argument to not lying).
+- Rather than "reduce AWS cost by 30%", more effective is to state the absolute number it started at AND how it was critical to business to reduce it (drop in the revenue of the business at that moment to show the cost saving in relation to the business).
+	- Use absolute numbers rather than percentages when the absolute number tells a better story.
+- Testimonials: I think this can be a powerful tool especially when you don't have any personal brands to go off of - use the brand of someone else vouching for you.
+
+- Example resume on ShareLaTeX: [https://www.sharelatex.com/project/55db6ac384d1be370a7d4b9a](https://www.sharelatex.com/project/55db6ac384d1be370a7d4b9a) 
+	- **Treat it like an engineering problem. Analyze your funnel - what companies/opportunities are you starting with? What's your conversion rate between funnel steps? How can you increase that?**
+	- And, vitally, how can you **put yourself in the shoes of the person on the other side**? How can you simulate their perspective? At every point of interaction with you, if you were them, what would you think? And given that knowledge, how can you improve what you're doing?
+	-  Other things: check out @sehurlburt on Twitter, Stephanie gives great advice on this topic. Also search around and read threads like the following: [https://www.reddit.com/r/engineering/comments/23e4df/entry_l...](https://www.reddit.com/r/engineering/comments/23e4df/entry_level_engineers_who_are_now_hired_what_got/)
+- The words, layout and spacing of your resume is FAR more important than any other unnecessary, often distracting, cosmetic enhancements.
+	- (e.g. plain text, minimally formatted with the right spacing can work wonders).
+
+- https://twitter.com/GergelyOrosz/status/1279431439914762240?s=20
+- https://news.ycombinator.com/item?id=23780236
+	- I got my first two jobs probably as a result of my github activity.
+		That makes sense. You're showing small contributions which is what's expected of a junior engineer. It showcases that you can actually write some code. However, as you advance in your career, the expectation is that you will work on higher level concepts. Github profiles aren't really a place I've seen used to showcase architecture and design skills, nor how candidates work with others, and those things matter significantly more than a 20 line patch in an open source library for a Lead+ engineer.
+
+		The parent poster was asking for advice as a Principal Engineer. At that level, they aren't going to be writing much code on a daily basis, so their Github profile is not very relevant to the job at hand. That level is VP equivalent or higher at most companies, and most engineers will not achieve it. It comes without the people management, but is most definitely a leadership position.
+- https://www.overleaf.com/project/55db6ac384d1be370a7d4b9a -> Latex resume template by BreakoutList folks.
+- https://www.careercup.com/resume -> Gayle's resume advice.
+
+**Tools to recommend hunters**:
+- https://standardresume.co/ (This actually looks incredible! I'd recommend it over some Gdoc template for sure).
+
+MORE NOTES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----
+
+
+
+
+I think "Your pitch" is actually necessary & actually more important than the Resume chapter. Your pitch is used absolutely everywhere -> designing a powerful one-liner, blurb and short essay are incredibly important for every piece of communication you have with the world.
+
+Amen. Let's put that chapter back in at the top: Your pitch.
 
 ### Your Pitch outline
 - Your pitch is: demonstrating your competence in a way that minimizes perceived risk for a company you're applying to.

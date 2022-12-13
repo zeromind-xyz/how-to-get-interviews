@@ -4,16 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "05ce18db3ad9c96c",
+        "id": "2a2d9178ab2c8594",
         "type": "tabs",
+        "dimension": 59.69793322734499,
         "children": [
           {
-            "id": "6f1dd9ea4006928e",
+            "id": "2da9a08b9743a8eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "prepare/resume.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "437d40151c525cc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SUMMARY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "2e3427f14526c667",
+        "type": "tabs",
+        "dimension": 40.30206677265501,
+        "children": [
+          {
+            "id": "7edfbcfa59dc6349",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Scratch.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prepare/resume.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prepare/resume.md",
+                "file": "SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,28 +158,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prepare/resume.md"
+                "file": "SUMMARY.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "6f1dd9ea4006928e",
+  "active": "437d40151c525cc0",
   "lastOpenFiles": [
-    "rules-of-the-game/how-companies-hire.md",
-    "prepare/your-pitch.md",
-    "notes/Scratch.md",
-    "notes/TODO.md",
+    "prepare/resume.md",
     "SUMMARY.md",
-    "Untitled.md",
-    "rules-of-the-game/job-hunting-is-selling.md",
+    "prepare/projects.md",
+    "prepare/website.md",
+    "notes/Scratch.md",
+    "prepare/your-pitch.md",
     "prepare/finding-and-qualifying-companies.md",
-    "qulaif.md",
-    "prepare/resume.md"
+    "rules-of-the-game/how-companies-hire.md",
+    "rules-of-the-game/job-hunting-is-selling.md",
+    "notes/TODO.md"
   ]
 }
