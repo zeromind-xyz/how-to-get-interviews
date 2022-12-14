@@ -1,17 +1,16 @@
 Your resume (CV) is a one page document that demonstrates your competence for the role that you're applying to. It's a sales pitch, not a laundry list of everything you've ever done.
 
-Your resume, ideally, isn't the first things companies look at to determine whether to give you an interview (the best way to get interviews is through referrals), but it's almost guaranteed that people (recruiters, hiring managers, founders, engineers) will look at your resume as you move along in the hiring process at a company to see if you're a good fit and to determine which questions to ask you during interviews.
+Your resume, ideally, isn't the first thing companies look at to determine whether to give you an interview (the best way to get interviews is through referrals), but it's almost guaranteed that people (recruiters, hiring managers, founders, engineers) will look at your resume as you move along in the hiring process at a company to see if you're a good fit and to determine which questions to ask you during interviews.
 
 Write your resume assuming the reader won't spend more than 15 seconds on it. Even that's a generous estimate. You have to demonstrate competence right off the bat.
-
-As we discussed earlier, interviewing a bad candidate is expensive, and accidentally hiring an incompetent software engineer is terrible for a company, therefore a company is often willing to pass up interviewing someone that might be a gem, but is risky, and choose to interview the safer bet.
 
 ### Organization
 1. Name, contact, socials (at the top, taking up minimal real estate and out of the way).
 2. Experiences (i.e. "highlight reel")
 3. Education
 4. Technologies (Maybe)
-<figure><img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0491d74f-dac6-4a9c-81da-d8eb83b8e3f8/jane-doe-resume.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221213%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221213T051442Z&X-Amz-Expires=86400&X-Amz-Signature=307a80786c28c1c12ecf0900cfad654b20bdb4ec26907de5ae2ad592d513594c&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22jane-doe-resume.png%22&x-id=GetObject" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://res.cloudinary.com/dgxdbpyfy/image/upload/v1671035011/jane-doe-resume_fhbbzx.png" alt=""><figcaption></figcaption></figure>
 
 (TODO: update image reference).
 
@@ -148,13 +147,28 @@ Impressive aspects of your project that are worth pitching:
 - Great marketing / communication skills (show don't tell).
 
 ### Design
-- Design philosophy: used to emphasize what's important: humans don't just scan by reading every single thing top to bottom, they scan visually. Good design nudges eyes towards what you want them to focus on.
-	- Understanding primary (immediately relevant information) & secondary (can be used after the first pass / if the reader is convinced they want to spend more time on your resume).
-- Alignment
-- Fonts
-- Colors
-- Spacing
-- Links
+Think of design, in the context of your resume, as everything besides what the text is communicating: alignment, font colors, font sizes, spacing, link decorations, etc.
+
+When humans read resumes, they don't read every word from the top left all the way to the bottom right. They scan. In multiple passes. They're looking for highlights that they care about. '
+
+Passes through your resume:
+1. The first pass will be to find an experience that demonstrates competence (e.g. reputed brand name, impressive work at a job, or an impressive project). (5 - 10 seconds)
+2. If they find something that demonstrates the competence they're looking for, they'll double down on an experience or two that stand out - reading the entire description for it.
+3. THEN, if they're ready to move forward they'd look at your name / contact information to reach out to communicate next steps.
+
+Effectively design your resume to **nudge** the reader's eyes to the things in your resume that best demonstrate your abilities.
+
+This is why it's pointless to take up too much with your name and contact information at the top of your resume. That's usually the last thing readers will get to: if everything goes well. So, design your resume such that your name and contact info don't grab much attention and are tucked away at the top / a top corner.
+
+For each experience on your resume, the primary information is WHERE you worked, and WHAT you accomplished there. Secondary information: title, and date range (which only matter if the WHERE and WHAT are impressive). Hence, design an experience such that title and date range use secondary, lighter colors that don't draw much attention.
+
+Only use colors sparingly to draw attention to important aspects of your resume. Some people recommend using colors for section headers to help the reader break down the resume into sections. Personally I think the better approach is to remove the section header up top for Experiences and just get straight to the point with your most impressive work. Don't even waste the reader's time on the header.
+
+Similarly, don't make links too attention-grabbing. Use muted, secondary colors to distinguish links, so that they don't grab too much attention while still communicating that they are links.
+
+Alignment is important. The most important thing is to **keep things consistent**. If your date range is aligned right for one experience, it should be aligned right for all of them.
+
+Lastly, I highly, highly recommend using a popular software engineer resume template or using resume creation services such as: https://standardresume.co/ -> which take care of most design elements for you.
 
 ### What to avoid
 - Objective (usually a short sentence / blurb at the top describing yourself and the role you're looking for). This usually doesn't add value because which position you're applying to can be understood in other ways (from the application and from your experiences) & takes away prime real estate at the top. And sometimes people tend to use phrases like "fast learner", or "great communicator", or "product obsessed", or some other nice sounding phrase to describe themselves. That's worthless. Your experiences should paint that picture about yourself.
@@ -165,10 +179,8 @@ Impressive aspects of your project that are worth pitching:
 - Avoid pictures of yourself unless legally required because it introduces unnecessary bias.
 - You should have exactly ZERO spelling / grammatical errors. There are enough tools out there. You have no excuses.
 
-### Company specific 
-?? -> startups, Big Tech, legacy companies.
-
 ----
+EDITING NOTES
 
 Consider adding:
 - Tailor resume to the company you're applying to (and walk through the possible ways to tailor).
