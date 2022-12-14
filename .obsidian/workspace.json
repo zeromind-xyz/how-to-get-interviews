@@ -6,10 +6,9 @@
       {
         "id": "2a2d9178ab2c8594",
         "type": "tabs",
-        "dimension": 59.69793322734499,
         "children": [
           {
-            "id": "2da9a08b9743a8eb",
+            "id": "81a317bb5c185a81",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,32 +20,36 @@
             }
           },
           {
-            "id": "437d40151c525cc0",
+            "id": "2da9a08b9743a8eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "prepare/your-pitch.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "2e3427f14526c667",
-        "type": "tabs",
-        "dimension": 40.30206677265501,
-        "children": [
+          },
           {
-            "id": "7edfbcfa59dc6349",
+            "id": "b3cde40fe98592c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "notes/Scratch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3531fd832fb3c30c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "approach/in-person.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 215.5,
+    "collapsed": true
   },
   "right": {
     "id": "d6fed44b275469d3",
@@ -118,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "prepare/resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "prepare/resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md"
+                "file": "prepare/resume.md"
               }
             }
           }
@@ -170,17 +174,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "437d40151c525cc0",
+  "active": "81a317bb5c185a81",
   "lastOpenFiles": [
+    "notes/Scratch.md",
     "prepare/resume.md",
+    "prepare/your-pitch.md",
+    "approach/in-person.md",
     "SUMMARY.md",
     "prepare/projects.md",
     "prepare/website.md",
-    "notes/Scratch.md",
-    "prepare/your-pitch.md",
     "prepare/finding-and-qualifying-companies.md",
     "rules-of-the-game/how-companies-hire.md",
-    "rules-of-the-game/job-hunting-is-selling.md",
-    "notes/TODO.md"
+    "rules-of-the-game/job-hunting-is-selling.md"
   ]
 }

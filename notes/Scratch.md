@@ -3,16 +3,17 @@
 
 **Intro**
 - What is a resume (CV)?
-- Audience
+- Who is the audience?
 
 **Organization**
 - Overview w/ example resume
 - Experiences is the most important aspect of your resume and should come up front and center.
-	- Why education should come after.
+	- Why education should come after experiences.
 
 **Work experiences**
-- Why brand matters 
-- Titles are not as important as you think (unless the company is very well known). No consensus on the difference b/w Sr. engineer and engineer, not as important as you think.
+- Purpose of brand.
+- Titles are not as important as you think.
+	- (unless the company is very well known). No consensus on the difference b/w Sr. engineer and engineer, not as important as you think.
 
 **How to describe an experience**
 - Maximize strength of your company brand to your audience.
@@ -28,7 +29,7 @@
 	- Terse.
 
 **Projects**
-- Don't call yourself a founder / ceo if it wasn't actually a company. If you've built something others have used, you have a lot to work with, you lose credibility if you just drop fancy sounding titles.
+- Don't call yourself a founder / ceo if you didn't actually have any users for your project / didn't have the intention of building a business out of it. People tend to want to use the word "Founder" / "CEO" because it sounds more impressive than just saying you "created" a project, but it's totally fine to call it just that. It's easy to tell if your project was intended to be a project, or a company and it just sounds 
 
 **Design**
 - Design philosophy.
@@ -46,42 +47,14 @@
 - Avoid jargon.
 
 **Tailor to region**
+- Learn how to get feedback: reach out to engineers in your region to see if you need to do something region specific!
 
+**Tips**
+- Handling gaps in resume
+- Lying is a poor strategy
+- Effective templates you can use (references).
 
 -----
-
-**Outline**:
-- Put yourself in your audience's shoes: 
-	- Re-iterate what hiring managers, recruiters & engineers are looking for when they read your resume.
-	- They spend maybe **20 - 30 seconds on your resume** - you don't have much time to make your point.
-- Therefore, **goal** is to **demonstrate competence** while **reducing perceived risk**. Every word, sentence must aid in this goal. If it doesn't, cut it.
-- Put your most impressive work up front - screw chronology if your most impressive work is in the past, bring it to the front.
-- How to demonstrate competence?
-	1. Brand names.
-		- What is the strength of a brand?
-	2. Tangible, believable outcomes:
-		- Direct business outcomes: users, revenue
-		- Indirect business outcomes: 
-			- Improved latency
-			- Improved load times.
-	3. Social proof.
-		- Testimonials.
-		- Projects that others have used / popular somewhere. Anything!
-- How to describe an experience:
-	- 
-- Demonstrate value, not laundry list every single thing you've done.
-	- What to eliminate:
-- Tie **actions to outcomes** (if it makes sense!).
-	- The further connected the outcome is from your action, the more doubt it creates in the mind of the reader.
-- Use **simple language**. The more flowery language, the more insecure you appear: as if you're trying to cover up lack of competence by "sounding" more competent.
-- Verifiable, understandable, believable, relevant.
-- Keep it short. No one needs more than one page. In fact, as you gain more experience and have greater competence - your resume should get shorter. **The most powerful resume is not having one.** -> Amen.
-- Handling gaps in your resume?
-- Design & formatting (summarize advice & recommend the resume services).
-	- **Substance >>> flash**. In fact, unnecessary flash comes off as lacking competence: as if you're trying to cover up a lack of experience with colors and shit that doesn't correspond to competence in your work.
-	- Links to great resumes.
-- Have a web and pdf version. Web version should have links.
-- Lying is a poor strategy -> why (without any moral argument).
 
 **Resources**
 - https://old.reddit.com/r/recruitinghell/comments/qhg5jo/this_resume_got_me_an_interview/ (Power of {brandname} on resume) -> probably want to put this in the chapter 
@@ -99,7 +72,7 @@
 - Lying is pointless (imo), but give a rational argument for why not to lie NOT a moral one (bec. there is no moral argument to not lying).
 - Rather than "reduce AWS cost by 30%", more effective is to state the absolute number it started at AND how it was critical to business to reduce it (drop in the revenue of the business at that moment to show the cost saving in relation to the business).
 	- Use absolute numbers rather than percentages when the absolute number tells a better story.
-- Testimonials: I think this can be a powerful tool especially when you don't have any personal brands to go off of - use the brand of someone else vouching for you.
+- Testimonials: I think this can be a powerful tool especially when you don't have any personal brands to go off of - use the brand of someone else vouching for you. (NOPE - bec. w/out verification, they mean jack shite)
 
 - Example resume on ShareLaTeX: [https://www.sharelatex.com/project/55db6ac384d1be370a7d4b9a](https://www.sharelatex.com/project/55db6ac384d1be370a7d4b9a) 
 	- **Treat it like an engineering problem. Analyze your funnel - what companies/opportunities are you starting with? What's your conversion rate between funnel steps? How can you increase that?**
