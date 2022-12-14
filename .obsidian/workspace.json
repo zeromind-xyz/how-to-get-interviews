@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2a2d9178ab2c8594",
+        "id": "378594849c5fb1b8",
         "type": "tabs",
         "children": [
           {
-            "id": "81a317bb5c185a81",
+            "id": "29ae9bfc64de57dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prepare/resume.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "266ad568d7102d36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Scratch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ecbd41f6cf8f7477",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/TODO.md",
+                "file": "Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5,
-    "collapsed": true
+    "width": 215.5
   },
   "right": {
     "id": "d6fed44b275469d3",
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prepare/resume.md",
+                "file": "Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prepare/resume.md",
+                "file": "Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prepare/resume.md"
+                "file": "Intro.md"
               }
             }
           }
@@ -162,10 +137,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "81a317bb5c185a81",
+  "active": "29ae9bfc64de57dd",
   "lastOpenFiles": [
-    "notes/Scratch.md",
     "notes/TODO.md",
+    "notes/Scratch.md",
     "prepare/resume.md",
     "prepare/projects.md",
     "rules-of-the-game/job-hunting-is-selling.md",
