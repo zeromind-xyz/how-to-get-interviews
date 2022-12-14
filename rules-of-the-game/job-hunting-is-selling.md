@@ -35,5 +35,7 @@ Getting an offer (at a company you want to work at) is the goal state for your j
 
 Managing this entire job hunting process is tough... It helps to be organized so that you don't drop the ball 
 
+(TODO: need an overview for the entire playbook here: give a one-liner for each and every chapter that's to come. By the end of this chapter, reader should know exactly what to expect for the entire book).
+
 ----
 

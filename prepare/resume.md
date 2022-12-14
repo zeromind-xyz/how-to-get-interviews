@@ -9,18 +9,19 @@ As we discussed earlier, interviewing a bad candidate is expensive, and accident
 ### Organization
 1. Name, contact, socials (at the top, taking up minimal real estate and out of the way).
 2. Experiences (i.e. "highlight reel")
-4. Education
-5. Technologies (Maybe)
-
+3. Education
+4. Technologies (Maybe)
 <figure><img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0491d74f-dac6-4a9c-81da-d8eb83b8e3f8/jane-doe-resume.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221213%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221213T051442Z&X-Amz-Expires=86400&X-Amz-Signature=307a80786c28c1c12ecf0900cfad654b20bdb4ec26907de5ae2ad592d513594c&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22jane-doe-resume.png%22&x-id=GetObject" alt=""><figcaption></figcaption></figure>
 
-(TODO: update image reference)
+(TODO: update image reference).
 
 The meat of your resume is the **Experiences**: jobs and projects that you've worked on. This should be up front and center.
 
 It's actually a negative signal if you put anything above your highlight reel. It's tempting to put your education credentials up front, but what message does that send? That attending college is your most impressive accomplishment, not the work you've done / projects you've built? 
 
 If you really don't have anything else to show besides your college education, and you didn't go to a well known college, it's worth spending a few weeks building something that you can showcase as your primary experience. Having a project that you understand inside out and can talk about for hours (about how you designed, developed, deployed, got users, etc.) will help you get more interviews and do well in them (read more at: [[projects]]).
+
+Some folks prefer to have their projects as part of a separate section in their resume, but it's also fine to include as part of your experiences. The distinction between projects and experience isn't that rigid: your goal is to demonstrate competence and it could very well be the case that one of your projects does a better job than one of your past work experiences, in that case you ought to place the impressive project above that work experience. If you have separate sections for work experience and projects, you can no longer re-arrange according to impressiveness, which isn't helpful.
 
 ### Work experience
 
@@ -37,10 +38,9 @@ For example, Google is a company with a strong engineering brand that'll help yo
 Similarly if you worked at a company with a high reputation in Atlanta, Georgia, and are applying to companies in San Francisco, you should what context you can provide to help a reader from San Francisco gauge the reputation of the company brand.
 
 Potential contexts you can use:
+- Ranking in a category for that region: e.g. "#1 payment gateway in India", "2nd largest e-commerce player in Thailand", etc.
 - Annual recurring revenue (how much money the company makes every year on a recurring basis) - usually applicable for startups that aren't yet well known. 
 - Investor: If a popular VC firm that's known in the region you're applying to has invested in this company, then consider including it as context. E.g: "Acme Corp (Series B led by a16z)". A quick Google should help you uncover your company's fundraising round and which investor led that round.
-
-(TODO: add more notes on how to tailor resume based on audience).
 
 ### How to describe an experience
 1. Company name
@@ -110,8 +110,42 @@ Seamlessly embrace world-class imperatives and technically sound best practices.
 Cut this type of BS. "best practices", "leadership skills", "cutting-edge". It makes you sound incompetent.
 
 ### Projects
+Projects are incredibly effective tools to demonstrate competence - when presented well. (Read chapter on Projects before working it into your resume: <>).
 
+In your resume, use the same principles that you used to describe work experience to describe your projects: highlight your most important actions and connect them to outcomes.
 
+Once again, actions without outcomes might look / sound cool, but isn't impressive from the perspective of a hiring manager at a company you're applying to.
+
+Format:
+1. Project name w/ context
+2. Your title
+3. Date range
+4. Description (bullet points)
+
+It's important to provide context for what your project is at a high level (e.g. software library, mobile app, web app, AI face generator, etc), because a project name on its own likely means nothing to the reader, so you should give the reader enough context to build an intuition for what it could be about, before digging into the details.
+
+E.g. "Bingo! (web app to create custom bingo cards)".
+
+Link your project title to the project itself: either its landing page, or a page on your website that describes your project in detail (read more in [[projects]] & [[website]]). You should definitely link to your project: unlike a company work experience, you likely don't have confidentiality challenges in directly linking to your project.
+
+Therefore, not linking to the actual project creates doubt in the reader's mind over whether you actually built it. **Always be minimizing doubt!**
+
+There's no need to use fancy sounding titles like "CEO / Founder" for side projects that weren't widely used and projects that you didn't fully commit to for an extended period of time (or raised money for, etc.). If your project seems like a nice side project, not a significant effort that spanned months / years, then by calling yourself a founder / CEO you come off as naive. Just call yourself a "Creator" / "Co-creator" for your project.
+
+The project description is in the same format as your work experience description: bullet points tying actions to outcomes (when the outomes make sense).
+
+In projects you're less likely to have tangible outcomes when compared to your work experiences.
+
+Impressive aspects of your project that are worth pitching:
+- Usage 
+	- Actual, daily active users
+	- Downloads / installs
+	- Github stars
+- Technical complexity (what you built)
+- How you got users (very interesting - need to expand on this).
+- Novelty
+- Great user experience (show don't tell)
+- Great marketing / communication skills (show don't tell).
 
 ### Design
 - Design philosophy: used to emphasize what's important: humans don't just scan by reading every single thing top to bottom, they scan visually. Good design nudges eyes towards what you want them to focus on.
@@ -129,14 +163,12 @@ Cut this type of BS. "best practices", "leadership skills", "cutting-edge". It m
 - Minimize decorations on links: it highlights the wrong thing.
 - You don't need more than one page for your resume. No matter how much experience you have. Seriously. As you gain experience, your resume should in fact become more concise. The best resume is not needing a resume at all. The next best resume is a one-liner, e.g. "Built Acme.xyz and scaled to 1 million users, generating $X revenue.". Remember, your job is to demonstrate competence, not list out everything you've ever done. Your resume is a pitch.
 - Avoid pictures of yourself unless legally required because it introduces unnecessary bias.
-
-### Region specific
-(Note exceptions / make advice region specific for common regions)
-
-India:
-- jfkd
-
-Europe:
-- jfkds
+- You should have exactly ZERO spelling / grammatical errors. There are enough tools out there. You have no excuses.
 
 ### Company specific 
+?? -> startups, Big Tech, legacy companies.
+
+----
+
+Consider adding:
+- Tailor resume to the company you're applying to (and walk through the possible ways to tailor).

@@ -28,8 +28,7 @@ There are also companies with more generalist "full stack" engineering roles. Th
 
 Unlike seeing how well you're aligned with the role you're applying to, it's tougher to gauge your actual competence in work. 
 
-I believe most of you reading this are underestimating your abilities.
-
+### You're undervaluing your abilities!
 We tend to overestimate the average and underestimate the extremes. It's both true that the best engineer is 1000x more productive than the average and that the average engineer can't build a meaningful application on their own, without major bugs, in a reasonable amount of time.
 
 If you have baseline competence in software engineering, communication skills, the right attitude (ability to handle feedback well, always working to improve), and some common sense, you're well ahead of the pack. Of course, you'll always have a huge room for improvement and that's what you should focus on, but when it's time to job hunt, don't sell yourself short - it's not a helpful mindset.

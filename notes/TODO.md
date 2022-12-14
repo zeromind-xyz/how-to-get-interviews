@@ -1,3 +1,6 @@
+**To talk about**
+- It's important for readers to understand the different types of Tech companies and how they differ in what they look for (e.g. Big Tech vs. startups vs. legacy tech companies -> IBMs, SAPs of the world). -> Bec. the game plan is honestly different. Another route is to narrow the scope of the playbook to ignore legacy tech (or perhaps a disclaimer that talks about how).
+
 **Visual**
 - **Visual language for textual analysis** - want to use this throughout the playbook (esp in the Resume, cold emailing, warm introductions sections). This is absolutely essential to analyze sentences well.
 - https://getcoleman.com/ -> incredible way to present a morphing pitch. Might make sense to steal this format. If not, then at least present it in a beautiful way (Figma export rather than just as text in the page. Emphasize each pitch version and make it look beautiful).
