@@ -8,9 +8,9 @@
 ## Prepare
 * [Finding & qualifying companies](prepare/finding-and-qualifying-companies.md)
 * [Positioning](prepare/positioning.md)
+* [Projects](prepare/projects.md)
 * [Resume](prepare/resume.md)
 * [Website](prepare/website.md)
-* [Projects](prepare/projects.md)
 
 ## Approach
 * [Warm Introductions](approach/warm-introductions.md)
