@@ -100,7 +100,8 @@ Without a call to action, a visitor won't have a clear understanding of what to 
 
 ### Case studies
 
-![[Be-real-landing-page.png]]
+<figure><img src="https://res.cloudinary.com/dgxdbpyfy/image/upload/v1671304535/Be-real-landing-page_scgrxc.png" alt=""><figcaption></figcaption></figure>
+
 (landing page for the BeReal mobile app).
 
 Captivating main line: "Your Friends for Real". It quickly helps you understand the value of this product: unlike existing social media platforms where people show "fake" versions of themselves, this is an app where people are "real". Powerful.
