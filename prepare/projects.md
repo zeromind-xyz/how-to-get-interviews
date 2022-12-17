@@ -13,15 +13,13 @@ The most impressive projects create value: they're used by other people (even if
 - ability to **ship** something useful (most people are stuck in the planning, design phases and rarely ship something.)
 - ability to **communicate** your product to others well enough to get people to use it.
 
-These are impressive skills to have.
+These are impressive skills to have and correlate with being able to create value as a software engineer at most companies.
 
 When a project doesn't have users, doubt creeps into the minds of people evaluating you because it's incredibly easy to put together a few screens and "demo" something that looks like a product but actually doesn't work. By simply sending a video of a demo, or a link to a codebase, you make it really difficult for hiring managers to gauge the actual value of your work, and in most of these cases, your project will be ignored.
 
 **You should present your project as an actual product in the real world, instead of some kind of class project / academic project that looks really different from the kinds of products that companies build**. From a company's perspective, it's easier to gauge your skills when you've built something that they can understand, vs. some kind of fancy research project that requires reading a paper to make sense of it.
 
 You also don't need more than one impressive project! In fact, I think it helps to focus and create one stellar project, rather than have two average ones. You can spend the time and effort to craft a project that serves as an effective sales pitch for your abilities.
-
-If you don't already have a project, AND you haven't worked at a reputed Tech company, then I'd highly recommend investing time and effort to build a project you can pitch. Otherwise, why would anyone give you a shot if you've literally done nothing to tangibly demonstrate that you can create value at a company?
 
 Your project doesn't have to be "big"! E.g.: a simple tool to quickly search all open classes at your college that's used by 1000 students is WAY more impressive than some fancy sounding "Sub 3ms page loading optimizer built in Rooby" that's used by and appreciated by no one. 
 
