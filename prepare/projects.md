@@ -75,7 +75,7 @@ etc.
 
 The more trustworthy the source the better. For example: app store likes and Github stars are powerful becuase it's tough to make those up: actual other users have to perform an action on those platforms to generate the likes.
 
-If you're using testimonials, try to capture them on Twitter / YT / etc and aggregate them in your landing page. This way each testimonial can be verified on platforms that are trusted, rather than simply taking your word for them. You can also use tools like: https://testimonial.to/ to aggregate testimonials and embed into your landing page, or you can just manually embed tweets (which is free and probably the best way to get started - unless you have a ton of testimonials).
+If you're using testimonials, try to capture them on Twitter / YT / etc and aggregate them in your landing page. This way each testimonial can be verified on platforms that are trusted, rather than simply taking your word for them. You can also use tools like: [https://testimonial.to/](https://testimonial.to) to aggregate testimonials and embed into your landing page, or you can just manually embed tweets (which is free and probably the best way to get started - unless you have a ton of testimonials).
 
 Because social proof is the most important validation of your product, you should have some social proof in the hero itself. Let's say you have tens of reviews on the app store with 5 stars, you should mention that in the hero: perhaps as a link to the app store with the words "Users love us!", or "dozens of 5 star reviews!".
 
@@ -112,18 +112,18 @@ See how simple the landing page is? There are no crazy animations, no colors pop
 
 **Other great examples**
 More applications that I highly recommend studying:
-- https://www.notion.so/ (web app)
+- [Notion](https://www.notion.so/) (web app)
 	- Clear heading ("One workspace. Every team"), and Sub-heading ("We’re more than a doc. Or a table. Customize Notion to work the way you do"). You get a sense for what the product offers. Coupled with the clear screenshot in the hero, I see that the product lets me create a wiki / knowledge base for my entire team.
 - (Front-end component open source library):
 	- Font-end projects are great because you can literally show the end product: people should be able to play with the component you created. If they can't yet, then spend time to present it in a way that can be used.
-	- https://storybook.js.org/ (Use a tool like storybook to SHOW the actual UI component that you built).
-- https://www.nango.dev/: (non-UI software library or API):
+	- Use a tool like [Storybook](https://storybook.js.org/) to SHOW the actual UI component that you built).
+- [Nango.dev](https://www.nango.dev/): (non-UI software library or API):
 	- Heading: "# The easiest way to sync data from 3rd party APIs", Sub-heading: "Nango syncs data from 3rd party APIs to your local DB and keeps it up to date. It's open-source, self-contained and you can try it in 3 minutes". Easy to follow, clear what this product does.
 	- I also appreciated that they put a one line code snippet right in the hero to demonstrate exactly how to use their library. It communicates simplicity (one line to sync with an API endpoint).
-	- They have large buttons in the hero linking to their Github repo (https://github.com/NangoHQ/nango) that also has a detailed Readme page describing thier library in greater detail (more examples and clear screenshots).
-- https://stripe.com/en-in (API / library product). The golden standard for how to present an API product. Take careful notice of their demos in the landing page itself that makes it abundantly clear how to use their API in a programming environment and even the type of results to expect from hitting an API endpoint.
+	- They have large buttons in the hero linking to their [Github repo](https://github.com/NangoHQ/nango) that also has a detailed Readme page describing thier library in greater detail (more examples and clear screenshots).
+- [Stripe](https://stripe.com/en-in) (API / library product). The golden standard for how to present an API product. Take careful notice of their demos in the landing page itself that makes it abundantly clear how to use their API in a programming environment and even the type of results to expect from hitting an API endpoint.
 
-You can find more pages for products that did well across a variety of categories at: https://www.producthunt.com/products?order=best_rated&period=2022-12&topic=web-app, go to the landing pages and study them to see how they communicate their products.
+You can find more pages for products that did well across a variety of categories at: [Product Hunt](https://www.producthunt.com/products?order=best_rated&period=2022-12&topic=web-app) - go to the landing pages and study how they present their products.
 
 ### Demo
 I recommend having both:
@@ -131,12 +131,12 @@ I recommend having both:
 - Playable demo
 
 A video overview is usually a < 1 minute long video with you presenting your product. Great examples:
-- https://www.loom.com/share/9edb010ba5344833b48ef281380cedaa
-- https://retool.com/
+- [Loom](https://www.loom.com/share/9edb010ba5344833b48ef281380cedaa)
+- [Retool](https://retool.com/)
 
 A playable demo lets users actually play with your product.
 - Consider throwing a widget in the landing page with dummy data.
-- Use tools like https://appetize.io/ to embed your mobile app into your landing page.
+- Use tools like [Appetize](https://appetize.io/) to embed your mobile app into your landing page.
 - Make sure to bypass any login / signup forms, etc. and prepopulate with any data required to make the interaction meaningful. For example: if an article annotation app, start with some existing articles in the demo so that the user can open it up and start highlighting right way.
 - Nudge the user towards the actions you want them to take. If your app interaction isn't straightforward, build into your app an onboarding flow so that users aren't confused about what to do.
 - TEST WITH YOUR FRIENDS! Don't have a broken demo. Please.
@@ -203,10 +203,10 @@ Be prepared to answer any question about your project. Some common questions:
 You really shouldn't be building a landing page from scratch and hosting it - it's (usually) a waste of time. There are incredible tools out there to help you build landing pages that enable you to communicate your project with an impressive level of polish.
 
 Free options:
-- Notion: https://www.notion.so/templates/product-launch-landing-page -> you don't even need to build a website, a simple Notion page can also do the trick as long as you have a clear hero, and great assets (screenshots, etc.).
-- Use a landing page starter template (https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template), tweak and deploy.
+- [Notion template](https://www.notion.so/templates/product-launch-landing-page) -> you don't even need to build a website, a simple Notion page can also do the trick as long as you have a clear hero, and great assets (screenshots, etc.).
+- Use a landing page [starter template on Github](https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template). Tweak and deploy.
 Paid:
-- Framer: https://www.framer.com/templates/category/landing-page/
-- Webflow: https://webflow.com/templates/tag/landing-page-websites
+- [Framer](https://www.framer.com/templates/category/landing-page/)
+- [Webflow](https://webflow.com/templates/tag/landing-page-websites)
 
-**Get a custom domain for your project**. Linking to a domain that represents your product adds a level of legitimacy. You find great domains for $12 USD at https://domains.google.com.
+**Get a custom domain for your project**. Linking to a domain that represents your product adds a level of legitimacy. You find great domains for $12 USD at [Google Domains](https://domains.google.com).
