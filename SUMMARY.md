@@ -8,7 +8,6 @@ r# Table of contents
 
 ## Prepare
 * [3s-30s-30m Rule](prepare/3s-30s-30m-rule)
-* [Positioning](prepare/positioning.md)
 * [Projects](prepare/projects.md)
 * [Resume](prepare/resume.md)
 * [Website](prepare/website.md)

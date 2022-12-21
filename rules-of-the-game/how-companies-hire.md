@@ -4,8 +4,6 @@ It creates value by making something people want and selling it to them & hires 
 
 Therefore, fundamentally, convincing a company to hire you is all about demonstrating your ability to create value.
 
-I think it's incredibly interesting to be in this position if you ask me.
-
 Generally, when you apply to an open role at a company, you go through the following steps:
 1. Added the the Applicant Tracking System (ATS).
 2. Screened by a recruiter.
