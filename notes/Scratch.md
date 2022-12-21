@@ -1,3 +1,32 @@
+Pitch chapter (now removed)
+
+Your pitch is a quick demonstration of your abilities, usually shared in written format and is likely the first thing people see.
+
+There are 3 variations of your pitch - following the 3-30-30 rule:
+1. One-liner (reader spends 3 seconds)
+2. Blurb (reader spends 30 seconds)
+3. Link to website with all of your work (30m).
+
+### One-liner
+Your one-liner is the most important string of words you'll craft. If it doesn't hook the reader in a few seconds, they'll likely not read anything that follows. It should quickly demonstrate your most impressive work.
+
+"I've built products at Acme (link) & Bacme (link) that directly increased revenue by millions. I specialize in search and recommendations".
+
+"I designed, developed and marketed a note taking app (link to app) that has dozens of active users."
+
+### Blurb
+
+- I've also 
+
+### Links
+
+### Putting it all together
+
+
+
+
+
+----
 
 ### Resume outline
 

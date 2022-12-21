@@ -1,4 +1,4 @@
-# Table of contents
+r# Table of contents
 * [Intro](README.md)
 
 ## Rules of the game
@@ -12,7 +12,6 @@
 * [Projects](prepare/projects.md)
 * [Resume](prepare/resume.md)
 * [Website](prepare/website.md)
-* [Pitch](prepare/your-pitch)
 
 ## Approach
 * [Warm Introductions](approach/warm-introductions.md)
