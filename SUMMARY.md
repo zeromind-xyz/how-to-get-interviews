@@ -4,7 +4,7 @@ r# Table of contents
 ## Rules of the game
 * [How companies hire](rules-of-the-game/how-companies-hire.md)
 * [Job hunting is sales](job-hunting-is-selling.md)
-* [Finding & qualifying companies](finding-and-qualifying-companies.md)
+* [Finding & qualifying companies](rules-of-the-game/finding-and-qualifying-companies.md)
 
 ## Prepare
 * [3s-30s-30m Rule](prepare/3s-30s-30m-rule)

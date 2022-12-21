@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prepare/positioning.md",
+                "file": "rules-of-the-game/finding-and-qualifying-companies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4532d60349a68796",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules-of-the-game/finding-and-qualifying-companies.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prepare/positioning.md",
+                "file": "rules-of-the-game/finding-and-qualifying-companies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prepare/positioning.md",
+                "file": "rules-of-the-game/finding-and-qualifying-companies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prepare/positioning.md"
+                "file": "rules-of-the-game/finding-and-qualifying-companies.md"
               }
             }
           }
@@ -137,17 +150,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "858aecdd89ad3576",
+  "active": "4532d60349a68796",
   "lastOpenFiles": [
-    "notes/TODO.md",
     "SUMMARY.md",
+    "rules-of-the-game/job-hunting-is-selling.md",
+    "rules-of-the-game/finding-and-qualifying-companies.md",
     "prepare/positioning.md",
+    "notes/TODO.md",
     "prepare/resume.md",
     "prepare/3s-30s-30m-rule.md",
     "prepare/projects.md",
     "prepare/website.md",
-    "notes/Scratch.md",
-    "prepare/your-pitch.md",
-    "rules-of-the-game/finding-and-qualifying-companies.md"
+    "notes/Scratch.md"
   ]
 }
