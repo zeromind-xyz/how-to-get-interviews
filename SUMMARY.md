@@ -13,7 +13,7 @@ r# Table of contents
 * [Website](prepare/website.md)
 
 ## Approach
-* [Warm Introductions](approach/warm-introductions.md)
+* [Referrals](referrals.md)
 * [Cold email](approach/cold-email.md)
 * [Direct message](approach/direct-message.md)
 * [LinkedIn](approach/linkedin.md)

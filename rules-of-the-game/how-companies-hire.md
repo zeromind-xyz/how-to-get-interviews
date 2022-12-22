@@ -2,9 +2,9 @@ A "company" is a fictional entity that's approximately valued by how much profit
 
 It creates value by making something people want and selling it to them & hires people to enable the company to create greater value.
 
-Therefore, fundamentally, convincing a company to hire you is all about demonstrating your ability to create value.
+Therefore, fundamentally, convincing a company to hire you boils demonstrating your ability to SHOW the company that you can create value for them.
 
-Generally, when you apply to an open role at a company, you go through the following steps:
+Generally, you'll go through the following steps when you apply to a company:
 1. Added the the Applicant Tracking System (ATS).
 2. Screened by a recruiter.
 3. Screened by the hiring manager.
@@ -12,8 +12,6 @@ Generally, when you apply to an open role at a company, you go through the follo
 5. Interviews with engineers.
 6. Behavioral interview (usually with the hiring manager)
 7. Offer.
-
-(TODO: clean, minimal flow diagram with these steps).
 
 A recruiter is someone who's usually not technical and is responsible for managing the hiring process from sourcing candidates, setting up interviews with the technical team, to handing the offer to the candidate and answering any question they may have. Basically, at any step of your interview process with a company, the recruiter you're working with will be your primary point of contact with that company.
 
@@ -54,30 +52,32 @@ Engineers on the other hand are also able to look at parts of your application t
 - Your open source contributions.
 - Your public blog / essays / videos in which you talk about things that are relevant to what this company is working on.
 
-**This is why many talented engineers from non-traditional backgrounds get screened out of the hiring process at the ATS / recruiter stage before their application ever gets to engineers: they don't have the signals that recruiters know how to make sense of!**
+This is why many talented engineers from non-traditional backgrounds get screened out of the hiring process at the ATS / recruiter stage before their application ever gets to engineers: they don't have the signals that recruiters know how to make sense of!
 
-Therefore how you approach applying to companies should depend on what your strengths are: if you've already worked at great companies and were educated at world class institutions, you'll do well engaging directly with recruiters when applying.
+### Referrals are the best
 
-On the other hand, if you don't look great on paper in the traditional sense, you ought to find ways to connect with engineers at companies who're able to make sense of your work that falls outside of the traditional signals. (Later in the playbook we'll go through effective strategies to do this).
+A referral is an application that is proposed by a current employee at a company. A referral carries great weight, often strong enough to guarantee an interview for the candidate referred.
 
-### There are no rules
+But because of the weight a referral carries, it requires the engineer referring a candidate to spend social capital: if they keep referring bad candidates, not only will their referrals be ignored, but they'll be looked at negatively by teammates because their precious time is wasted interviewing incompetent candidates.
 
-Hiring processes aren't set in stone. Remember, a company WANTS to hire great engineers. If you can demonstrate that you're a great engineer to the people in the company that have a say in hiring and can interrpet your pitch well, then you'll be hired.
+On the other hand, referring candidates that are great improves an engineer's social capital: they're seen as a more valuable asset to the team and company.
+
+Therefore, there's an art to asking people you know for referrals that maximizes the chance of them giving you a strong referral. We'll go over this in detail in [[referrals]].
+
+### Pitch to engineers
+
+If you're not hearing back when you apply to companies online, then you need to find a way to pitch yourself to a hiring manager / engineer directly. They are the ones that have the background necessary to be able to evaluate your competence by looking at your pitch from an engineer's perspective.
+
+With the right pitch, you can effectively reach engineers and hiring managers through warm introductions and cold messaging them. We'll craft your pitch in the "prepare" section that we'll use for this direct-to-engineer outreach in the "approach" section.
+
+Hiring processes aren't set in stone. Remember, a company WANTS to hire great engineers. If you can demonstrate that you're a great engineer to the people in the company that have a say in hiring, then you'll be given an interview. 
 
 ### Smaller startups
 
 The process we went over usually exists once a company reaches a certain scale: i.e. post 20 - 30 employees.  At smaller startups, usually the founders themselves / engineering leads will carry out the hiring process.
 
-- Startups are far more likely to subvert the common hiring process with interviewing styles that differs from the standard coding puzzles, etc. 
-	- E.g. show some interview processes at the latest breed of top tier startups (Replit, Linear, Raycast).
-	- (Just straight up post job process examples from various companies).
+Hiring is a lot tougher for un-established, not well known startups than it is for more recognized companies. Therefore they're more likely to respond to competent candidates that pitch themselves well.
 
-### Hiring during recessions
+Smaller startups are also often more creative when it comes to their interview processes: there's a growing trend of startups not asking programming puzzles and focusing more on what you can actually do - via take home projects / building software during an interview that resembles the kind of work you'd actually do on the job.
 
-During economic downturns, companies tend to care more about what you can bring to the table TODAY, vs. how good you'll be a year or so down the line.
-
-Companies cut job openings for "junior" / "new grad" positions, making it even tougher for newcomers to get opportunities.
-
-**During easy times people are willing to bet on your potential.
-During tough times people only bet on what you can do today.**
-
+If you're competent at software engineering, but suck at "programming puzzles", I'd suggest increasing the number of smaller startups you apply to (if they're places you'd want to work at ofc).
