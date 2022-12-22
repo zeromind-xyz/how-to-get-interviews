@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c35cdd53ada3838c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rules-of-the-game/how-companies-hire.md",
+                "file": "Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rules-of-the-game/how-companies-hire.md",
+                "file": "Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rules-of-the-game/how-companies-hire.md"
+                "file": "Intro.md"
               }
             }
           }
@@ -137,17 +150,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0e5699ffe3729c86",
+  "active": "c35cdd53ada3838c",
   "lastOpenFiles": [
+    "rules-of-the-game/how-companies-hire.md",
+    "Intro.md",
+    "SUMMARY.md",
     "rules-of-the-game/job-hunting-is-selling.md",
     "rules-of-the-game/finding-and-qualifying-companies.md",
-    "rules-of-the-game/how-companies-hire.md",
-    "SUMMARY.md",
     "README.md",
     "Resources.md",
     "prepare/positioning.md",
     "prepare/website.md",
-    "notes/TODO.md",
-    "prepare/resume.md"
+    "notes/TODO.md"
   ]
 }
