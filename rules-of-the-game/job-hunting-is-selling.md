@@ -1,8 +1,4 @@
-**Job hunting is similar to a sales process**. You're selling your ability to create value - to companies.
-
-### Process
-
-You'll walk through the following steps of the job hunting process in order to 
+**Job hunting is similar to sales**. You're selling your ability to create value - to companies.
 
 The "Hiring process" we covered in the previous chapter is the steps a company takes to hire a candidate. This job hunting process is for you to follow to get interviews at companies.
 
@@ -29,13 +25,4 @@ F. **Final round interviews**
 
 G: **Offer**
 Getting an offer (at a company you want to work at) is the goal state for your job hunting process.
-
-### Tooling
-(Link to a Notion template that enables you to )
-
-Managing this entire job hunting process is tough... It helps to be organized so that you don't drop the ball 
-
-(TODO: need an overview for the entire playbook here: give a one-liner for each and every chapter that's to come. By the end of this chapter, reader should know exactly what to expect for the entire book).
-
-----
 
