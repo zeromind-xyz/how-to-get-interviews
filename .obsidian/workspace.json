@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules-of-the-game/qualifying-companies.md",
+                "file": "rules/qualifying-companies.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules-of-the-game/qualifying-companies.md",
+                "file": "rules/qualifying-companies.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,13 +162,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bcfa9d1e72ef9007",
+  "active": "8e4ef7de007eac92",
   "lastOpenFiles": [
-    "rules-of-the-game/qualifying-companies.md",
+    "rules/qualifying-companies.md",
     "SUMMARY.md",
-    "rules-of-the-game/How to find companies.md",
-    "rules-of-the-game/job-hunting-is-selling.md",
-    "rules-of-the-game/how-companies-hire.md",
+    "rules/How to find companies.md",
+    "rules/job-hunting-is-selling.md",
+    "rules/how-companies-hire.md",
     "Intro.md",
     "approach/referrals.md",
     "README.md",

@@ -2,10 +2,10 @@ r# Table of contents
 * [Intro](README.md)
 
 ## Rules of the game
-* [How companies hire](rules-of-the-game/how-companies-hire.md)
-* [Job hunting is sales](job-hunting-is-selling.md)
-- [How to find companies](rules-of-the-game/how-to-find-companies)
-* [Qualifying companies](qualifying-companies.md)
+* [How companies hire](rules/how-companies-hire.md)
+* [Job hunting is sales](rules/job-hunting-is-selling.md)
+- [How to find companies](rules/how-to-find-companies)
+* [Qualifying companies](rules/qualifying-companies.md)
 
 ## Prepare
 * [3s-30s-30m Rule](prepare/3s-30s-30m-rule)
