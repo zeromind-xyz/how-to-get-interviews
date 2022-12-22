@@ -1,6 +1,6 @@
 **Job hunting is similar to sales**. You're selling your ability to create value - to companies.
 
-The "Hiring process" we covered in the previous chapter is the steps a company takes to hire a candidate. This job hunting process is for you to follow to get interviews at companies.
+The "Hiring process" we covered in the previous chapter is the steps a company takes to hire a candidate. This is the process to get interviews.
 
 A. **Find companies & qualify**.
 Discover companies to apply to, and prioritize them such that the bulk of your effort goes towards companies that need you, and where you're a good fit.

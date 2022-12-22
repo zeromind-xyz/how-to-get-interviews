@@ -3,7 +3,7 @@
 
 ## Rules of the game
 * [How companies hire](rules/how-companies-hire.md)
-* [Job hunting is sales](rules/job-hunting-is-selling.md)
+* [How to get an interview](rules/get-interview.md)
 - [How to find companies](rules/how-to-find-companies.md)
 * [Qualifying companies](qualifying-companies.md)
 
@@ -24,7 +24,6 @@
 
 ## Close
 * [Convert losses to wins](convert-losses-to-wins.md)
-* 
 
 ## Mindset
 * [Confidence](mindset/confidence.md)
