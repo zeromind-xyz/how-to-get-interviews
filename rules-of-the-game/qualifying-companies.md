@@ -9,7 +9,7 @@ I recommend prioritizing companies on two factors: **urgency** (how badly they n
 ### Urgency
 You can tell if a company needs to urgently hire if they're growing fast and are barely able to keep up with the demand for their product. You can determine this by whether the company has job openings **across the board** (not just engineering). When a company grows quickly they're not just looking for engineers to build product, but also need to hire for roles like customer support, product, design, sales, legal, etc. This is a great sign that the demand for their product is growing rapidly.
 
-On the other hand, if a company only has one or two openings for engineers, they're not likely to be growing rapidly, and therefore their open roles are less urgent.
+On the other hand, if a company only has one or two openings for engineers, they're not likely to be growing rapidly, and therefore their open roles are less urgent for them to fill.
 
 ### Fit
 Fit is inversely proportional to how long it will take you to create value at the company. 
@@ -75,17 +75,3 @@ If you have an inclination for such intersections, you might find it easier to o
 Lastly, avoid **low urgency, low fit**.
 
 And of course filter for any other obvious requirements you have: i.e. if you're only willing to work remotely, then... don't apply to an in-person company (and vice-versa).
-
-## Finding companies
-Thankfully there are many incredible job discovery sites out there. Here are a few approaches:
-- Personal network: make a list of every single person you know working in Tech, add their companies to list.
-- Gsheet containing 750 tech companies actively hiring https://docs.google.com/spreadsheets/d/1SMKjAgYxG1iAi_G4E3DJik17-EkO8QiTo6obeZCiBAQ/edit#gid=882540374
-- HN who's hiring posts
-- https://www.ycombinator.com/jobs -> YC's curated list of jobs.
-- NODESK - [https://nodesk.co/remote-jobs/](https://nodesk.co/remote-jobs/)
-- RemoteOK - [https://remoteok.io/](https://remoteok.io/)
-- WeWorkRemotely - [https://weworkremotely.com/](https://weworkremotely.com/)
-- AngelList - [https://angel.co/jobs](https://angel.co/jobs)
-- WorkinTech.io - [https://workintech.io/](https://workintech.io/)
-- VC portfolios: (add the companies in each portfolio)
-	- E.g. go to -   Sequoia Capital, Andreessen Horowitz, Accel, Kleiner Perkins, Bessemer Venture Partners, New Enterprise Associates, Benchmark, Greylock, etc. (and if you're huntin region specific find the VC firms that invest in your region) & add their portfolio companies to your list.

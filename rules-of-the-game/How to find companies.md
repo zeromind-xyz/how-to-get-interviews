@@ -1,0 +1,12 @@
+Thankfully there are many incredible job discovery sites out there. Here are a few approaches:
+- Personal network: make a list of every single person you know working in Tech, add their companies to list.
+- Gsheet containing 750 tech companies actively hiring https://docs.google.com/spreadsheets/d/1SMKjAgYxG1iAi_G4E3DJik17-EkO8QiTo6obeZCiBAQ/edit#gid=882540374
+- HN who's hiring posts
+- https://www.ycombinator.com/jobs -> YC's curated list of jobs.
+- NODESK - [https://nodesk.co/remote-jobs/](https://nodesk.co/remote-jobs/)
+- RemoteOK - [https://remoteok.io/](https://remoteok.io/)
+- WeWorkRemotely - [https://weworkremotely.com/](https://weworkremotely.com/)
+- AngelList - [https://angel.co/jobs](https://angel.co/jobs)
+- WorkinTech.io - [https://workintech.io/](https://workintech.io/)
+- VC portfolios: (add the companies in each portfolio)
+	- E.g. go to -   Sequoia Capital, Andreessen Horowitz, Accel, Kleiner Perkins, Bessemer Venture Partners, New Enterprise Associates, Benchmark, Greylock, etc. (and if you're huntin region specific find the VC firms that invest in your region) & add their portfolio companies to your list.
