@@ -8,7 +8,7 @@
 * [Qualifying companies](qualifying-companies.md)
 
 ## Prepare
-* [3s-30s-30m Rule](prepare/3s-30s-30m-rule)
+* [3s-30s-30m Rule](prepare/3s-30s-30m-rule.md)
 * [Projects](prepare/projects.md)
 * [Resume](prepare/resume.md)
 * [Website](prepare/website.md)
