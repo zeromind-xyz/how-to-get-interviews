@@ -6,6 +6,7 @@
       {
         "id": "2edf3fe1a00b9370",
         "type": "tabs",
+        "dimension": 41.67753150803998,
         "children": [
           {
             "id": "789ed09c59908747",
@@ -26,6 +27,26 @@
               "type": "markdown",
               "state": {
                 "file": "rules/get-interview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b13f05b68b1e7635",
+        "type": "tabs",
+        "dimension": 58.322468491960024,
+        "children": [
+          {
+            "id": "e353b1b70d907cb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/how-companies-hire.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,12 +170,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "789ed09c59908747",
+  "active": "e353b1b70d907cb9",
   "lastOpenFiles": [
-    "approach/warm-introductions.md",
-    "rules/how-companies-hire.md",
-    "prepare/resume.md",
     "rules/get-interview.md",
+    "rules/how-companies-hire.md",
+    "approach/warm-introductions.md",
+    "prepare/resume.md",
     "SUMMARY.md",
     "approach/approaching-strangers.md",
     "close/convert-losses-to-wins.md",

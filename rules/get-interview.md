@@ -1,7 +1,5 @@
 Job hunting is similar to sales. You're selling your ability to create value - to companies. The best strategy is to bypass the direct application process by convincing a hiring manager / engineer directly that you're worth interviewing.
 
-The "Hiring process" we covered in the previous chapter is the steps a company takes to hire a candidate. This is the process to get interviews.
-
 The rest of the playbook will elaborate on the steps outline below:
 
 A. **Find & qualify companies**.
@@ -38,6 +36,6 @@ Congrats!
 
 ----
 
-This playbook will help you get the interview. After that, check out resources that I recommend to learn how to ace your interview. That's outside the scope of this playbook.
+This playbook will help you get the interview. After that, check out resources for links to books / videos / essays that will help you crack the actual interview. That's outside the scope of this playbook.
 
 All the best.

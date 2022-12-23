@@ -54,23 +54,21 @@ Engineers on the other hand are also able to look at parts of your application t
 
 This is why many talented engineers from non-traditional backgrounds get screened out of the hiring process at the ATS / recruiter stage before their application ever gets to engineers: they don't have the signals that recruiters know how to make sense of!
 
+Therefore, unless you have a strong brand on your resume, the best way to apply to a company is to reach engineers / hiring managers directly, bypassing the recruiter screening entirely. With the right preparation and pitch, this is an excellent approach to generating interviews consistently.
+
+The goal of the application process is to generate an "internal referral": 
+
 ### Internal referrals
 
-A referral is an application that is proposed by a current employee at a company. A referral carries great weight, often strong enough to guarantee an interview for the candidate referred.
+An internal referral is an application to a company that's boosted by an internal champion: someone at the company who believes in the potential of the applicant and vouches for them.
 
-But because of the weight a referral carries, it requires the engineer referring a candidate to spend social capital: if they keep referring bad candidates, not only will their referrals be ignored, but they'll be looked at negatively by teammates because their precious time is wasted interviewing incompetent candidates.
+Usually if the internal champion vouches strongly for a candidate, the candidate will be given an interview.
 
-On the other hand, referring candidates that are great improves an engineer's social capital: they're seen as a more valuable asset to the team and company.
+But because of the weight that such a referral carries, the engineer that is referring a candidate has to spend social capital: if they keep referring bad candidates, they'll be despised by their team becuase of the time and effort wasted interviewing incompetent candidates.
 
-Therefore, there's an art to asking people you know for referrals that maximizes the chance of them giving you a strong referral. We'll go over this in detail in [Warm introductions](../approach/warm-introductions).
+On the other hand, when an engineer refers great candidates, their social capital increases: they're seen as a more valuable asset to the team and company, and their future referrals are received more eagerly.
 
-### Bypass recruiters
-
-If you're not hearing back when you apply to companies online, then you need to find a way to pitch yourself to a hiring manager / engineer directly. They are the ones that have the background necessary to be able to evaluate your competence by looking at your pitch from an engineer's perspective.
-
-With the right pitch, you can effectively reach engineers and hiring managers through warm introductions and cold messaging them. We'll craft your pitch in the "prepare" section that we'll use for this direct-to-engineer outreach in the "approach" section.
-
-Hiring processes aren't set in stone. Remember, a company WANTS to hire great engineers. If you can demonstrate that you're a great engineer to the people in the company that have a say in hiring, then you'll be given an interview. 
+The goal of your process to get interviews boils down to effectively generating internal referrals which you do by convincing an engineer / manager at the company that referring you will increase their social capital. We'll cover exactly how to do this in detail in the "Approach" section.
 
 ### Smaller startups
 
