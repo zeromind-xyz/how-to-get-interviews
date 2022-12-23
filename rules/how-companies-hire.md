@@ -62,7 +62,7 @@ But because of the weight a referral carries, it requires the engineer referring
 
 On the other hand, referring candidates that are great improves an engineer's social capital: they're seen as a more valuable asset to the team and company.
 
-Therefore, there's an art to asking people you know for referrals that maximizes the chance of them giving you a strong referral. We'll go over this in detail in [Warm introductions](/approach/warm-introductions).
+Therefore, there's an art to asking people you know for referrals that maximizes the chance of them giving you a strong referral. We'll go over this in detail in [Warm introductions](/how-to-get-interviews/approach/warm-introductions).
 
 ### Bypass recruiters
 
