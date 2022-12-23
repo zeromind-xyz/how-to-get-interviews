@@ -14,16 +14,15 @@
 * [Website](prepare/website.md)
 
 ## Approach
-* [Referrals](referrals.md)
+* [Warm introductions](approach/warm-introductions.md)
 * [Cold email](approach/cold-email.md)
 * [Direct message](approach/direct-message.md)
-* [LinkedIn](approach/linkedin.md)
-* [Github](approach/github.md)
 * [Offices, Events, Fairs](approach/offices-events-fairs.md)
-* [In person](approach/in-person.md)
+* [Approaching strangers](approach/approaching-strangers.md)
 
 ## Close
-* [Convert losses to wins](convert-losses-to-wins.md)
+- (TODO: talk about persistently following up)
+* [Convert losses to wins](close/convert-losses-to-wins.md)
 
 ## Mindset
 * [Confidence](mindset/confidence.md)

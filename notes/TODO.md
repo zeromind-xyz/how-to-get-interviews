@@ -6,10 +6,12 @@
 - Rework "projects" chapter w/ far more hand holding. It's too intimidating as it stands right now.
 - Have to explain how to choose most impressive past work. That's tough to do, and currently I haven't even talked about how that decision is made.
 - Using your GPA / previous accomplishments unrelated to engineering could be useful in demonstrating competence - in the absence of more relevent engineering experiences. Need to address this somewhere. Definitely in one of intro chapters: it needs to clearly communicate 
+- You don't need to build a "hard" technical problem to be impressive in the eyes of companies. Value = the use it provides others, NOT how difficult it was to build. You must adjust mental model of what is valuable to this.
 
 **Visual**
 - **Visual language for textual analysis** - want to use this throughout the playbook (esp in the Resume, cold emailing, warm introductions sections). This is absolutely essential to analyze sentences well.
 - https://getcoleman.com/ -> incredible way to present a morphing pitch. Might make sense to steal this format. If not, then at least present it in a beautiful way (Figma export rather than just as text in the page. Emphasize each pitch version and make it look beautiful).
+- https://twitter.com/nandafyi/status/1605975563902279681?s=20&t=heu7sezE4zpfErjD8P04hA -> Amen. More Framer Motion genius.
 
 **Landing page**
 - Have a section to showcase the visual design in the playbook (this is a major selling point. Encapsulate each "major" point in a diagram and showcase in this section of the landing page) - do this AFTER the beta reader feedback. Amen.
