@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3cbfcefdeb882086",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/get-interview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "789ed09c59908747",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "rules/how-companies-hire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4eb80017d152b41f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/get-interview.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rules/get-interview.md",
+                "file": "rules/how-companies-hire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rules/get-interview.md",
+                "file": "rules/how-companies-hire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rules/get-interview.md"
+                "file": "rules/how-companies-hire.md"
               }
             }
           }
@@ -149,11 +149,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3cbfcefdeb882086",
+  "active": "789ed09c59908747",
   "lastOpenFiles": [
+    "approach/warm-introductions.md",
     "rules/how-companies-hire.md",
     "rules/get-interview.md",
-    "approach/warm-introductions.md",
     "SUMMARY.md",
     "approach/approaching-strangers.md",
     "close/convert-losses-to-wins.md",

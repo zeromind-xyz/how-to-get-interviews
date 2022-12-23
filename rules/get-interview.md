@@ -5,10 +5,10 @@ The "Hiring process" we covered in the previous chapter is the steps a company t
 The rest of the playbook will elaborate on the steps outline below:
 
 A. **Find & qualify companies**.
-Discover companies to apply to, and prioritize them such that the bulk of your effort goes towards companies that need you, and where you're a good fit.
+Framework for how to find companies and prioritize them so that you spend your precious time on the ones where you're most likely to get interviews.
 
 B. **Prepare**: 
-Tell a story with your pitch, resume, personal website, projects, etc. that demonstrates your ability to create value.
+Learn how to pitch a compelling story with your projects, resume, personal website that demonstrates your ability to create value.
 
 C. **Approach**:
 Applying online and waiting to hear back from a company is the weakest way to apply to a company - especially if you don't "look good" on paper - because, as we discussed earlier, you'll be screened out by either the ATS or the recruiter before your application ends up in the hands of engineers.

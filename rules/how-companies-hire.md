@@ -54,7 +54,7 @@ Engineers on the other hand are also able to look at parts of your application t
 
 This is why many talented engineers from non-traditional backgrounds get screened out of the hiring process at the ATS / recruiter stage before their application ever gets to engineers: they don't have the signals that recruiters know how to make sense of!
 
-### Referrals are the best
+### Internal referrals
 
 A referral is an application that is proposed by a current employee at a company. A referral carries great weight, often strong enough to guarantee an interview for the candidate referred.
 
@@ -62,9 +62,9 @@ But because of the weight a referral carries, it requires the engineer referring
 
 On the other hand, referring candidates that are great improves an engineer's social capital: they're seen as a more valuable asset to the team and company.
 
-Therefore, there's an art to asking people you know for referrals that maximizes the chance of them giving you a strong referral. We'll go over this in detail in [[warm-introductions]].
+Therefore, there's an art to asking people you know for referrals that maximizes the chance of them giving you a strong referral. We'll go over this in detail in [Warm introductions](/approach/warm-introductions).
 
-### Pitch to engineers
+### Bypass recruiters
 
 If you're not hearing back when you apply to companies online, then you need to find a way to pitch yourself to a hiring manager / engineer directly. They are the ones that have the background necessary to be able to evaluate your competence by looking at your pitch from an engineer's perspective.
 
