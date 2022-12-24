@@ -1,4 +1,5 @@
 **To talk about**
+- Tooling: walking through the Notion template for the CRM (that readers can duplicate). I think this goes in the "approach" section, as its own chapter (or part of an "Intro" chapter).
 - It's important for readers to understand the different types of Tech companies and how they differ in what they look for (e.g. Big Tech vs. startups vs. legacy tech companies -> IBMs, SAPs of the world). -> Bec. the game plan is honestly different. Another route is to narrow the scope of the playbook to ignore legacy tech (or perhaps a disclaimer that talks about how).
 	- This definitely needs to be in "How companies hire" -> Go into decent depth there and reference that section in other areas. (I want # link to each header of this playbook - for more specific linking to the right sections).
 - **Steering conversation**: I think I'll talk about this in the "in-person approach". An important general philosophy on how to approach any conversation really. A fascinating topic.

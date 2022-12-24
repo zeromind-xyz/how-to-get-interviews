@@ -34,8 +34,6 @@ Usually multiple hours of interviews either solving software engineering challen
 G: **Offer**
 Congrats!
 
-----
-
 This playbook will help you get the interview. After that, check out resources for links to books / videos / essays that will help you crack the actual interview. That's outside the scope of this playbook.
 
 All the best.

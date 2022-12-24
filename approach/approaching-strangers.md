@@ -1,5 +1,30 @@
-# In person
+- Where to hunt?
+	- High density, ideally a Tech hub.
+- Who to approach
+	- (Depends heavily on context: e.g. party vs. cafe vs. events).
+	- They're not obviously occupied with a task.
+	- Don't have ears plugged. 
+	- Not actively typing (Aim for scrollers, not typers)
+	- Not on laptop.
+- How to approach
+	- Smile -> it'll lighten the mood (for them AND you)
+	- Focus on how your body is tensing up. Don't try to actively "Not tense" it, it'll only make it worse. Our bodies are like 
+- You're going to suck.
+	- It's going to be awkward at times. You're going to be sweating and tense as a result. It might be one of the most nerve-wracking things you'll do, but do your best to keep doing it. It'll get easier over time. I promise.
+	- How to practice:
+		- Mirror
+		- Record yourself
+		- Natural muscle memory
+- Allocate a budget to this if you can. It's a powerful way to build relationships. Nothing beats in person.
+	- Hobbies in a Tech hub can be incredibly effective:
+		- My first internship was through a conversation on a basketball court right before a pickup game.
+		- My first consulting gig with a Big Tech company was through a friend I made at a volunteering event.
+		- My first job at a startup was through a warm introduction.
+		- (Competence in one skill translates to competence in another. Playing basketball well actually opened up conversations w/ folks way better than me in Tech bec. they respected my skills on the court -> it's a subconscious way the human mind operates).
+- 
 
+
+----
 "Here's what I did. I found a couple of engineering firms that I would be interested in working for and I went in for a visit, resume in hand. When I did, I didn't ask for the hiring manager, because often they would be an HR person with no background in engineering and no interest in talking to me. I would ask for one of the head engineers that would be give a me a couple minutes to tell me about the company.
 
 Sometimes I would get to sit down right then, sometimes no one would have the time but I would schedule a sit down at a later date, sometimes they only had the time to shake my hand and say hello. In any case, I made sure that I gave them my resume and let them know that I was out of college and looking for a position. All of them told me that they didn't have anything available and probably wouldn't upon first meeting.

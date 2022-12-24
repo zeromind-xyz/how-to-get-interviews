@@ -26,7 +26,7 @@ On the other hand, if you already have a project, and / or impressive previous w
 
 It's tough to give concrete timelines because of differences between individuals in learning rate, but I'd bet that if you know how to build simple applications, then you should be able to create an impressive project in 2 - 6 weeks of intense, focused, dedicated effort. 
 
-Before you start creating / fine-tuning your project, you ought to first understand how companies hire, what they look for and what makes a project impressive in the eyes of those looking to hire engineers. With this knowledge, you'll save a lot of time building what actually matters rather than wasting time creating a project that no one cares about. The first two sections of this playbook ("Rules of the game", and "prepare") will give you this foundational understanding. 
+Before you start creating / fine-tuning your project, you ought to first understand how companies hire, what they look for and what makes a project impressive in the eyes of those looking to hire engineers. With this knowledge, you'll save a lot of time building what actually matters rather than wasting time creating a project that no one cares about. The first two sections of this playbook ("Rules of the game", and "prepare") will help you understand this. 
 
 ### Why me?
 

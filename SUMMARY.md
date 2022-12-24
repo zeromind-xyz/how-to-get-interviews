@@ -14,6 +14,7 @@
 * [Website](prepare/website.md)
 
 ## Approach
+- [Overview](approach/overview.md)
 * [Warm introductions](approach/warm-introductions.md)
 * [Cold email](approach/cold-email.md)
 * [Direct message](approach/direct-message.md)
