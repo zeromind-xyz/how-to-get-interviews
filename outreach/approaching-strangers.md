@@ -21,8 +21,6 @@
 		- My first consulting gig with a Big Tech company was through a friend I made at a volunteering event.
 		- My first job at a startup was through a warm introduction.
 		- (Competence in one skill translates to competence in another. Playing basketball well actually opened up conversations w/ folks way better than me in Tech bec. they respected my skills on the court -> it's a subconscious way the human mind operates).
-- 
-
 
 ----
 "Here's what I did. I found a couple of engineering firms that I would be interested in working for and I went in for a visit, resume in hand. When I did, I didn't ask for the hiring manager, because often they would be an HR person with no background in engineering and no interest in talking to me. I would ask for one of the head engineers that would be give a me a couple minutes to tell me about the company.
@@ -37,3 +35,4 @@ After a few months, most of my contacts knew me by sight and/or by name. My resu
 
 And I did. After about 6 months, I walked into a firm and my contact said "I was just thinking about you." Two weeks later I had a job." - graffsquatch (https://www.reddit.com/r/engineering/comments/23e4df/entry_level_engineers_who_are_now_hired_what_got/)
 
+-> https://www.psypost.org/2022/12/psychology-researchers-find-that-a-simple-talking-to-strangers-intervention-is-surprisingly-effective-64561 (lol, what timing).

@@ -1,4 +1,4 @@
-# Table of contents
+ # Table of contents
 * [Intro](README.md)
 
 ## Rules of the game
@@ -14,12 +14,11 @@
 * [Website](prepare/website.md)
 
 ## Approach
-- [Overview](approach/overview.md)
-* [Warm introductions](approach/warm-introductions.md)
-* [Cold email](approach/cold-email.md)
-* [Direct message](approach/direct-message.md)
-* [Offices, Events, Fairs](approach/offices-events-fairs.md)
-* [Approaching strangers](approach/approaching-strangers.md)
+- [Overview](overview.md)
+* [Introductions](introductions.md)
+* [Cold message](cold-message.md)
+* [Offices, Events, Fairs](offices-events-fairs.md)
+* [Approaching strangers](approaching-strangers.md)
 
 ## Close
 - (TODO: talk about persistently following up)

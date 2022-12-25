@@ -8,7 +8,7 @@ Framework for how to find companies and prioritize them so that you spend your p
 B. **Prepare**: 
 Learn how to pitch a compelling story with your projects, resume, personal website that demonstrates your ability to create value.
 
-C. **Approach**:
+C. **Outreach**:
 Applying online and waiting to hear back from a company is the weakest way to apply to a company - especially if you don't "look good" on paper - because, as we discussed earlier, you'll be screened out by either the ATS or the recruiter before your application ends up in the hands of engineers.
 
 You have to find a way to get to the hiring manager / engineer at the company that has influence over the hiring process for the open position you want to apply for.
