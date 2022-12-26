@@ -4,8 +4,8 @@
 ## Rules of the game
 * [How companies hire](rules/how-companies-hire.md)
 * [How to get an interview](rules/get-interview.md)
-- [How to find companies](rules/how-to-find-companies.md)
-* [Qualifying companies](qualifying-companies.md)
+- [Find companies](rules/how-to-find-companies.md)
+* [Qualify](qualifying-companies.md)
 
 ## Prepare
 * [3s-30s-30m Rule](prepare/3s-30s-30m-rule.md)
@@ -15,10 +15,10 @@
 
 ## Approach
 - [Overview](overview.md)
-* [Introductions](introductions.md)
+* [Milk your network](introductions.md)
 * [Cold message](cold-message.md)
-* [Offices, Events, Fairs](offices-events-fairs.md)
-* [Approaching strangers](approaching-strangers.md)
+* [Drop into offices](offices-events-fairs.md)
+* [Approach strangers](approaching-strangers.md)
 
 ## Close
 - (TODO: talk about persistently following up)

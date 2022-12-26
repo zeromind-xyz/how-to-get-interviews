@@ -30,30 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "45f5f0d13c284e63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SUMMARY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb22f003fbf0db52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "outreach/cold-message.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -176,15 +152,15 @@
   },
   "active": "5a4c79a825bcf5a2",
   "lastOpenFiles": [
-    "SUMMARY.md",
     "outreach/cold-message.md",
     "outreach/overview.md",
-    "rules/get-interview.md",
-    "notes/TODO.md",
-    "outreach/approaching-strangers.md",
+    "outreach/building-relationships.md",
     "outreach/introductions.md",
-    "wram.md",
-    "outreach/direct-message.md",
-    "outreach/offices-events-fairs.md"
+    "outreach/approaching-strangers.md",
+    "prepare/resume.md",
+    "prepare/3s-30s-30m-rule.md",
+    "prepare/projects.md",
+    "prepare/website.md",
+    "rules/get-interview.md"
   ]
 }

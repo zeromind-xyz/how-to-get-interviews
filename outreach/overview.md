@@ -32,7 +32,7 @@ It really is a small world. A single, well crafted, cold email really can change
 
 ### Asks
 
-When you reach out to someone, you must have a specific ask. 
+When you reach out to someone, you must have a specific ask. A generic "let's grab coffee" is one of the least effective ways to reach out to someone who you don't know really well.
 
 What your ask is depends on how close you are to them, and whether they work at a company that you’re planning to apply to, or they know people that do work at such companies.
 
@@ -45,8 +45,36 @@ I like to categorize asks into 4 buckets:
 | Request time to get their advice on job hunting, how they’ve made their career decisions, and feedback on your thought process. | Warm up an existing connection. Can then follow-up with a more direct ask: for introductions & pitch for interview. | In-network, but haven’t caught up in a while. |
 | Request time to connect over mutual interest. | No outcome in the short term. Build relationship for the long-run. | In-network / out-of-network with shared interest. |
 
-
+This section will show you the 3 main channels to utilize and grow your network to earn interviews:
+1. Milk your network
+2. Cold message
+3. Approach people in person (Approach strangers, Drop into offices)
 
 ### Managing the outreach process
 
-(Link to Notion template right here)
+It's important to have some kind of system that helps you keep track of who you need to reach out to, who you need to follow-up with, what the next steps are, etc.
+
+It would be sad to put in all the effort to pitch yourself to someone only to forget to follow-up, forget to respond, or completely miss their reply because it went into spam (sadly happened to me once).
+
+Your system doesn't have to be anything special or fancy. I recommend creating a spreadsheet on Notion / Airtable / Google sheets in which you have the following tabs:
+
+Tabs:
+1. **People**: Every single person you're planning to reach out to / have reached out to.
+2. **Companies**: The companies you're interested in applying to.
+
+In the People tab, have (at least) the following columns:
+1. **Name**
+2. **Contact** (either email / the platform where you'll reach out)
+3. **Role** (e.g. "engineer", "designer")
+4. **LinkedIn** (or other relevant profile)
+5. **Status** ("To reach out", "Waiting for reply", "Ongoing conversation", "Succcess" / "Fail")
+6. **Next actions** (After you've chatted with the person you reached out to, use this column to keep track of what you have to do next. E.g. "Follow-up with request for introduction to Alice".)
+7. **Intro path** (Do you have a way to get connected to this person through people you know? E.g. "Alice -> Bob -> John" would be a way of representing that you can reach this person John, through Bob, who you can reach through your contact Alice.)
+8. **Notes** (Take notes of every single conversation you have with anyone! Summarize what you talked about, any links / resources they shared, etc. This is generally a great habit because you can revise this before your next conversation with them )
+
+Feel free to duplicate this Notion template for your outreach use: (TODO: link template).
+
+Let the outreach begin!
+
+
+

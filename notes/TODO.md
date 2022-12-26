@@ -10,6 +10,8 @@
 - Using your GPA / previous accomplishments unrelated to engineering could be useful in demonstrating competence - in the absence of more relevent engineering experiences. Need to address this somewhere. Definitely in one of intro chapters: it needs to clearly communicate 
 - You don't need to build a "hard" technical problem to be impressive in the eyes of companies. Value = the use it provides others, NOT how difficult it was to build. You must adjust mental model of what is valuable to this.
 - Special projects: https://twitter.com/pie6k/status/1606371846219304961?s=20&t=SKoB2GzGXpdEmxtlUbi4_w (really cool.)
+- The power of writing essays: https://perell.com/podcast/patrick-mckenzie-internet-famous/ 
+	- "But if the only thing you got out of writing an essay about whatever the topic is for you is that the next time you’re doing a job search when you are writing cold emails to hiring managers for whatever the position is that you’re going after, you can use that one essay that you wrote back in the as a proof-of-work on like, “Hey, I have clearly thought about this more than most people who are sending you a cold email with a link to a resume that you’re gonna skim for 30 seconds.” -> this is genius.
 
 **Visual**
 - **Visual language for textual analysis** - want to use this throughout the playbook (esp in the Resume, cold emailing, warm introductions sections). This is absolutely essential to analyze sentences well.
@@ -26,4 +28,5 @@
 **Landing page**
 - Have a section to showcase the visual design in the playbook (this is a major selling point. Encapsulate each "major" point in a diagram and showcase in this section of the landing page) - do this AFTER the beta reader feedback. Amen.
 - Emphasize that recruiters chimed in on the playbook (and they did! I had at least 5 - 10 conversations with recruiters in 2019 about this).
+
 
