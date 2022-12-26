@@ -15,10 +15,10 @@
 
 ## Approach
 - [Overview](overview.md)
-* [Milk your network](introductions.md)
+* [Milk your network](milk-your-network.md)
 * [Cold message](cold-message.md)
-* [Drop into offices](offices-events-fairs.md)
-* [Approach strangers](approaching-strangers.md)
+* [Drop into offices](drop-into-offices.md)
+* [Approach strangers](approach-strangers.md)
 
 ## Close
 - (TODO: talk about persistently following up)
