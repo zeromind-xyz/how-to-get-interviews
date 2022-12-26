@@ -1,8 +1,16 @@
-"I know somebody that knows somebody that knows somebody". This is how the world works. It's a lot more connected than we feel.
+"I know somebody that knows somebody that knows somebody". The world is a lot more connected than it feels.
 
-- Build a list of literally everyone you know from school, college, life, etc. Everyone. Go through your Instagram, Snapchat, Contacts app, Email, etc. - and make a list of all of these people.
-- Research for each person: look at their connection on Linkedin, who follows them on Twitter, who else works at their company that you'd want to get in touch with.
-	- Everyone knows somebody that knows somebody. You'd be surprised how deep your network actually is once you know how to milk it.
+Your network is incredibly powerful if you know how to leverage it correctly.
+
+The first step to milking your network is to add everyone you know to your People tab in your spreadsheet. Don't leave anyone out: from school, college, life. Everyone. Even people that you lost contact with. Even people that you might have only met once playing pickup basketball 6 months ago. 
+
+Go through your Instagram, Snapchat, Contacts app, Email, etc. exhaust all of your sources for your contacts.
+
+This is the foundation for you network. This is what you must build upon.
+
+
+
+* For each person, figure out the companies they work at.
 - Craft a personalized message. Be genuine.
 	- Have a clear ask.
 	- What exactly to share and ask for.
