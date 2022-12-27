@@ -28,5 +28,12 @@
 **Landing page**
 - Have a section to showcase the visual design in the playbook (this is a major selling point. Encapsulate each "major" point in a diagram and showcase in this section of the landing page) - do this AFTER the beta reader feedback. Amen.
 - Emphasize that recruiters chimed in on the playbook (and they did! I had at least 5 - 10 conversations with recruiters in 2019 about this).
+- https://rauno.me/ ... omg, the font, the background color, spacing. It oozes a premium feel. I'm in love with it. Amen.
+- https://twitter.com/cristicrtu/status/1530986605862952961?s=20&t=mMNYmTuiz3FVi0DDqhPZQA (study their thought process on how they designed their site. Could use some principles for this playbook presentation).
 
+**Fonts**
+- https://klim.co.nz/buy/soehne/
+- https://paco.me/ (the above font is in this site)
 
+**Search** (obv not for the playbook, but once there is enough content):
+- https://cmdk.paco.me/ (Using hte command+k interface to search for any piece of content that I've created. This would be powerful).
