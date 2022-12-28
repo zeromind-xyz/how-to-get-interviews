@@ -2,8 +2,6 @@
 
 Your network is incredibly powerful if you know how to leverage it correctly.
 
-Leveraging your network is the process of __.
-
 The first step to leveraging your network is to add everyone you know, that works at a Tech company, to the People tab in your spreadsheet. 
 
 Don't leave anyone out: from school, college, life. Everyone. Even people that you lost contact with. Even people that you might have only met once playing pickup basketball 6 months ago. Go through your Emails, Instagram, Snapchat, Contacts app, etc. exhaust searching every communication channel you can think of.
@@ -16,23 +14,29 @@ For each person, there are 2 possible outcomes to work towards:
 
 If the person is an engineer, or engineering manager, (or CTO if the company is a smaller startup), then you can pursue both outcomes. If they're not engineers themselves (/ don't have influence over engineering hiring), then you'd want to pursue only the second outcome: get introduced to their engineer friends.
 
-Unless you already know them really well, and have been in touch on a regular basis, and know for a fact that they are willing to introduce you to someone / willing to give you an internal referral - you're not ready to push directly for the outcomes above. Pitching for an internal referral and asking for introductions are HUGE asks. They take time and effort on their end, and are best asked after warming up your relationship. (TODO: rephrase the crap out of this, sounds wayyy too formal).
+But, unless you know them really well, and have been in touch on a regular basis, and know for a fact that they are willing to introduce you to someone / willing to give you an internal referral - you're not ready to ask for anything. Pitching for an internal referral and asking for introductions are HUGE asks. You need to first warm up your relationship with them.
 
-I've found that the best first step is to engage with each person in your network in a more casual way so that you can first understand their lives, their constraints, what they're excited about, how they're doing, what work is like, how their company is, etc., and to also ask for feedback on the job hunting process in general and for job hunting tips and advice. If they're working at companies you respect, then clearly they did certain things right to earn them those positions, which you can learn from. 
+I've found that the best first step is to establish an **emotional connection** with those in your network. I define an emotional connection as that mutual feeling of wanting to see the other person do well and be happy. The magnitude of the connection is proportional to the depth of that feeling.
 
-I call this a "warm-up" meeting: a meeting with a less direct agenda with room for casual conversation to understand each other. This is a critical step that establishes your relationships and enables you to gain supporters: people that want to see you succeed and are willing to help you in that cause.
+Think about your relationship with your close friends and family where you have a mutual desire to see each other do well in life and be happy. You have a strong emotional connection with them. That's the kind of feeling you want to work towards for those in your network. Not only does this lead to a more powerful network where you can help and ask for help, you'll also be much happier having a network of people you want to see do well, and feel their warmth as well.
 
-Having supporters is critical. If you don't first establish a relationship with someone and directly ask them for specific help (e.g. introductions / internal referral), then your relationship remains transactional. Transactional is the only path when there's no opportunity for a deeper relationship (e.g. when the person you want to connect with is way too busy), but if possible you should try to build a meaningful relationship.
+On the other end of the spectrum are purely transactional relationships: you know that one person in your life always seems to remember you only when they need something? Having some transactional relationships is unavoidable, but I think it's a big mistake to design all of your relationships this way.
 
-By "establish relationship", I don't mean wait weeks chatting with someone before you ask them for specific help, but to at least have a baseline understanding of this person, what they're going through in life, what they're excited about, etc. before pitching yourself or asking for introductions.
+Working towards a strong emotional connection (like you have with close friends and family) is also likely not feasible, because that takes a lot of time and alignment, but it is possible to create a baseline emotional connection quickly: over the course of a single meeting.
 
-When I first moved to San Francisco right after dropping out of college, looking to join an exciting startup, I was shocked, surprised and deeply moved by how complete strangers were willing to listen to my weird ideas, offer their feedback and extend help. I felt I didn't deserve it, and I didn't even understand why they'd take time out of their busy lives to help me with anything. Therefore I'd feel nervous to even ask for help.
+In my experience, the best way to establish this connection is to:
 
-As I gained experience and found myself able to offer feedback & advice to others, I learned that supporting others and being able to help others on their paths is a deeply fulfilling and satisfying experience. If I had experientially understood the benefits of supporting others sooner in my career, I would have asked a lot more people for feedback and help, knowing that I wasn't weighing them down.
+**Follow the energy**
+Find the shared passions and dig deep into it. These passions are anything that arouse emotion: e.g. hatred towards the mainstream interview process of solving coding puzzles to get jobs, or excitment for a new book that's coming out, or sadness over the impact of a pandemic.
 
-And that's what I hope you're able to do. Asking others for feedback, advice, help on something you're working to achieve is usually a fulfiling experience for both parties. Some of my closest relationships in life started off as me asking for feedback on something I was working on. If you're feeling nervous about reaching out to everyone you know for advice and help, keep this principle in mind and try to feel more at peace with it.
+We all have topics that make us feel. In a conversation when you find a certain topic is something they feel strongly about, lean into it.
 
-Sooner or later, you'll be able to offer help in return, and I hope as you build your fulfilling career, you too will find the joy in helping those that are earlier than you in their careers.
+Of course, it's still necessary to prepare for a "warm-up" meeting, but any agenda / talking points you have are merely suggestions and nudges to find the shared passions to dig deep into
+
+**Understand their life**
+Have a sense for what's at the top of their mind these days. This could be a desire to move out of their current city, company, etc. Ask why and understand their core motivations for what they're trying to do. For example, more important than knowing that they work at a specific company is to understand why they chose to work there, what drew them in, and how they find their work meaningful.
+
+This kind of context is important to be able to offer any help. You might be too early in your career to be able to offer them any kind of career help, but you can definitely help them pack their belongings for a move. But how would you even know you can offer that help if you don't understand their lives at least a little bit.
 
 ### Asking for a warm-up meeting
 
@@ -81,27 +85,26 @@ Some questions I love to ask (of course tailor to their particular situation):
 - What's at the top of your mind these days?
 - What led you to joining your Acme (insert their company)? How did you decide where to work?
 
-### How to run a warm-up meeting
-
-**Logistics**
+### Logistics
 If your meeting is in-person and at a cafe, make sure to get there 10 minutes early. This gives you time to get settled into the environment and be there to receive the person you're meeting.
 
 2 minutes before the scheduled meeting time, send them a message: "Hey, is there anything you'd like to drink? I can order now since I'm in line.". You want to be the one buying the coffee / whatever they want. 
 
 This gesture is important because it implicitly signals that you greatly appreciate their time and are thanking them for their time. You can't have a trace of entitlement during this process. These are people that you want to genuinely connect with and have their support as you progress in your career and life. No one wants to support someone that feels entitled to support. 
 
-Showing gratitude with actions is more powerful than simply saying "I'm so grateful that you were able to spend time earlier today" later in the day. Getting there early, holding down a table, buying them coffee and setting it on the table perfectly waiting for them as they arrive is a gesture that will be received well.
+Showing gratitude with actions is more powerful than simply saying "I'm so grateful that you were able to spend time earlier today". Getting there early, holding down a table, buying them coffee and setting it on the table perfectly waiting for them as they arrive is a gesture that demonstrates your gratitude, and will be received well.
 
-If the meeting is a video call, join the meeting 5 minutes in advance and greet them with a warm smile :). Always be there early. From their perspective: joining a call to help someone out only to see that you're the first person is annoying.
+If the meeting is a video call, join the meeting 5 minutes in advance and greet them with a warm smile :). Always be there early. From their perspective: joining a call to help someone only to be the first one in the call is annoying.
 
-**The conversation**
-Start with some small talk. This gives you both time to settle. 
+### Conversation
+- Aim is to create an emotional connection.
+- Follow the excitement.
+- Present, and let them choose.
+- Read their body language and make adjustments accordingly.
 
-Then, based on your research, nudge the conversation towards what they do, how work is, what they're excited about, etc. Your goal is to get to the topic that's most exciting for them, not necessarily what you want to talk about. In fact, if the conversation is going well, completely abandon nudging it any pre-meditated direction. 
-
-Bu if it feels natural, also ask questions about their job hunting process: i.e. how they went about it, what they wish they'd done differently, etc. 
 
 ### What NOT to do
+- Just
 
 ### Follow-up
 
