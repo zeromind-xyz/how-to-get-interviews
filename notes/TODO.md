@@ -1,5 +1,5 @@
 **To talk about**
-- Rename "Approach" to "Outreach". 
+- Need a chapter on "**moving to a Tech hub for your job hunt**". This is actually really important. And there are definitely hacks to reducing the cost of living in a Tech hub. Seriously. Super impoortant. 
 - Tooling: walking through the Notion template for the CRM (that readers can duplicate). I think this goes in the "approach" section, as its own chapter (or part of an "Intro" chapter).
 - It's important for readers to understand the different types of Tech companies and how they differ in what they look for (e.g. Big Tech vs. startups vs. legacy tech companies -> IBMs, SAPs of the world). -> Bec. the game plan is honestly different. Another route is to narrow the scope of the playbook to ignore legacy tech (or perhaps a disclaimer that talks about how).
 	- This definitely needs to be in "How companies hire" -> Go into decent depth there and reference that section in other areas. (I want # link to each header of this playbook - for more specific linking to the right sections).
@@ -14,6 +14,7 @@
 	- "But if the only thing you got out of writing an essay about whatever the topic is for you is that the next time you’re doing a job search when you are writing cold emails to hiring managers for whatever the position is that you’re going after, you can use that one essay that you wrote back in the as a proof-of-work on like, “Hey, I have clearly thought about this more than most people who are sending you a cold email with a link to a resume that you’re gonna skim for 30 seconds.” -> this is genius.
 
 **Visual**
+- I definitely need to have a separate visual language to point out feedback on text such as email templates, etc. I don't see a way around designing this in Figma and exporting. It's such a huge explanation value-add, that it's worth the additional effort. Done.
 - **Visual language for textual analysis** - want to use this throughout the playbook (esp in the Resume, cold emailing, warm introductions sections). This is absolutely essential to analyze sentences well.
 - https://getcoleman.com/ -> incredible way to present a morphing pitch. Might make sense to steal this format. If not, then at least present it in a beautiful way (Figma export rather than just as text in the page. Emphasize each pitch version and make it look beautiful).
 - https://twitter.com/nandafyi/status/1605975563902279681?s=20&t=heu7sezE4zpfErjD8P04hA -> Amen. More Framer Motion genius.

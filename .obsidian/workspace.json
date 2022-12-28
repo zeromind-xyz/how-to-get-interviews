@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5d7b7da512c771a9",
+        "id": "ea16685dfd00077b",
         "type": "tabs",
         "children": [
           {
-            "id": "8e146113d4a6f91c",
+            "id": "3ba49cc6bf68d89e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "outreach/milk-your-network.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "outreach/milk-your-network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "outreach/milk-your-network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "outreach/milk-your-network.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -137,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8e146113d4a6f91c",
+  "active": "3ba49cc6bf68d89e",
   "lastOpenFiles": [
-    "notes/TODO.md",
-    "outreach/milk-your-network.md",
     "outreach/approach-strangers.md",
+    "mindset/general-tips.md",
+    "notes/TODO.md",
+    "outreach/leverage-your-network.md",
+    "poop.md",
+    "SUMMARY.md",
     "outreach/cold-message.md",
     "outreach/overview.md",
     "outreach/drop-into-offices.md",
-    "rules/get-interview.md",
-    "SUMMARY.md",
-    "prepare/website.md",
-    "outreach/building-relationships.md"
+    "rules/get-interview.md"
   ]
 }
