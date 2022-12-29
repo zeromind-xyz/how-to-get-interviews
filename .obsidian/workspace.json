@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "outreach/the-introduction.md",
+                "file": "outreach/leverage-your-network.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,12 +162,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0969aa08b4ca5db5",
+  "active": "72f784b1e7f7bf68",
   "lastOpenFiles": [
     "outreach/the-introduction.md",
+    "outreach/overview.md",
     "outreach/leverage-your-network.md",
     "notes/TODO.md",
-    "outreach/overview.md",
     "outreach/cold-message.md",
     "mindset/confidence.md",
     "mindset/thinking-long-term.md",

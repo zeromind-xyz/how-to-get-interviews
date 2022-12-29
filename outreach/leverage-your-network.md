@@ -233,4 +233,4 @@ I'd recommend 3 sections to your update:
 3. Asks (usually for more introductions).
 4. Random cool things you came across (in postscript - after your signature).
 
-I'd recommend sticking to your update schedule consistently unless you absolutely have nothing to show for that 2 week period (which honestly should never be the case). But if you have nothing to show, don't send an update.
+Stick to your update schedule consistently unless you absolutely have nothing to show for that 2 week period (which honestly should never be the case). But if you have nothing to show, don't send an update.
