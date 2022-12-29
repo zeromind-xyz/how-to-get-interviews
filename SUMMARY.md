@@ -13,7 +13,7 @@
 * [Resume](prepare/resume.md)
 * [Website](prepare/website.md)
 
-## Approach
+## Outreach
 - [Overview](outreach/overview.md)
 * [Leverage your network](outreach/leverage-your-network.md)
 * [The introduction](outreach/the-introduction.md)
