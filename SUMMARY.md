@@ -14,11 +14,12 @@
 * [Website](prepare/website.md)
 
 ## Approach
-- [Overview](overview.md)
-* [Leverage your network](leverage-your-network.md)
-* [Cold message](cold-message.md)
-* [Drop into offices](drop-into-offices.md)
-* [Approach strangers](approach-strangers.md)
+- [Overview](outreach/overview.md)
+* [Leverage your network](outreach/leverage-your-network.md)
+* [The introduction](outreach/the-introduction.md)
+* [Cold message](outreach/cold-message.md)
+* [Drop into offices](outreach/drop-into-offices.md)
+* [Approach strangers](outreach/approach-strangers.md)
 
 ## Close
 - (TODO: talk about persistently following up)
