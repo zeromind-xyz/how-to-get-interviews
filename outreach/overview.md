@@ -30,25 +30,12 @@ This leads to an exponential growth in your network. And not only just growth, b
 
 It really is a small world. A single, well crafted, cold email really can change your life.
 
-### Asks
-
-When you reach out to someone, you must have a specific ask. A generic "let's grab coffee" is one of the least effective ways to reach out to someone who you don't know really well.
-
-What your ask is depends on how close you are to them, and whether they work at a company that you’re planning to apply to, or they know people that do work at such companies.
-
-I like to categorize asks into 4 buckets:
-
-| Ask | Desired outcome | For who? |
-| --- | --- | --- |
-| Pitch yourself to ask for an interview | Get interview. | In-network & warm. Or completely out of network. |
-| Request introductions to people they know. | Grow network. | In-network & warm. |
-| Request time to get their advice on job hunting, how they’ve made their career decisions, and feedback on your thought process. | Warm up an existing connection. Can then follow-up with a more direct ask: for introductions & pitch for interview. | In-network, but haven’t caught up in a while. |
-| Request time to connect over mutual interest. | No outcome in the short term. Build relationship for the long-run. | In-network / out-of-network with shared interest. |
+### Channels
 
 This section will show you the 3 main channels to utilize and grow your network to earn interviews:
-1. Milk your network
-2. Cold message
-3. Approach people in person (Approach strangers, Drop into offices)
+1. Leverage your network: connect with those you know and get introductions to folks they know to grow your network.
+2. Cold message: directly reach out to engineers / engineering managers to pitch yourself to them for a job interview.
+3. Approach people in person (Approach strangers, Drop into offices, meet people at events, etc.) to grow your network.
 
 ### Managing the outreach process
 

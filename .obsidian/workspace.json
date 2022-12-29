@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "90f099d99718fbc0",
+        "id": "81d365f51f1e5b0e",
         "type": "tabs",
         "children": [
           {
-            "id": "54b195675f4dc23f",
+            "id": "59afeb54656b5088",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "outreach/approach-strangers.md",
+                "file": "outreach/overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "outreach/approach-strangers.md",
+                "file": "outreach/overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "outreach/approach-strangers.md",
+                "file": "outreach/overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "outreach/approach-strangers.md"
+                "file": "outreach/overview.md"
               }
             }
           }
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "54b195675f4dc23f",
+  "active": "59afeb54656b5088",
   "lastOpenFiles": [
-    "outreach/drop-into-offices.md",
-    "outreach/cold-message.md",
     "outreach/leverage-your-network.md",
     "outreach/the-introduction.md",
+    "outreach/approach-strangers.md",
+    "outreach/drop-into-offices.md",
+    "outreach/cold-message.md",
     "outreach/overview.md",
     "notes/TODO.md",
     "mindset/confidence.md",
     "mindset/thinking-long-term.md",
-    "mindset/general-tips.md",
-    "mindset/make-it-easy-to-help-you.md"
+    "mindset/general-tips.md"
   ]
 }
