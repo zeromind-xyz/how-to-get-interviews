@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "outreach/leverage-your-network.md",
+                "file": "outreach/overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,25 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "outreach/Introductions.md",
+                "file": "outreach/the-introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6c1381f594209425",
+            "id": "0969aa08b4ca5db5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/TODO.md",
+                "file": "outreach/leverage-your-network.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,17 +162,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3ba49cc6bf68d89e",
+  "active": "0969aa08b4ca5db5",
   "lastOpenFiles": [
-    "notes/TODO.md",
-    "outreach/Introductions.md",
+    "outreach/the-introduction.md",
     "outreach/leverage-your-network.md",
+    "notes/TODO.md",
+    "outreach/overview.md",
     "outreach/cold-message.md",
     "mindset/confidence.md",
     "mindset/thinking-long-term.md",
     "mindset/general-tips.md",
     "mindset/make-it-easy-to-help-you.md",
-    "mindset/handling-rejection.md",
-    "outreach/drop-into-offices.md"
+    "mindset/handling-rejection.md"
   ]
 }

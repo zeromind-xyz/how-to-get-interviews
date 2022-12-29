@@ -182,3 +182,55 @@ If you had a chance to talk about your project / most impressive past experience
 
 **References from conversation**
 If there were any follow-ups from the conversation: e.g. you referenced an article / book / film / video, etc., it would be nice to include that here.
+
+### Gently nudge if they forget
+
+It's common for people to take a while to respond at times because of how busy they are. 
+
+Give people at least a week to respond, and then send them a gentle reminder.
+
+For example, if they don't reply to the follow-up email, you can send: "Hey Alice, hope you're doing well. I know you're really busy, but just wanted to gently remind you about the profiles of friends you can introduce me to. I'll send you tailored emails you can forward to them in one click. Thanks!"
+
+Make sure to be respectful of their time, and use a tone that makes it clear that you're doing your best to minimize effort on their end. You aren't entitled to anything, and they're doing you a huge favor by making these introductions.
+
+### Build long-term relationships
+
+I recommend following up with everyone you've had a warm-up meeting with once every two weeks to keep them posted on your progress whether it's interview prep, finding companies, or anything related to your job hunt.
+
+By taking people with you on your journey, you keep your relationship with them warm. The next time you meet them / chat with them, they'll likely have a lot more context about what you've been up to.
+
+Also, by showing the effort you're putting into your job hunt, you make people want to help you out. People have an innate desire to help those that are diligently working towards something. It's human nature. By showing the effort you're putting in on a regular basis, you'll attract greater support.
+
+Here's a simple "update" template you can use to send your network.
+
+----
+
+Subject: (your_name) Update
+
+Hey Alice,
+
+Hope you're well, here's a quick update of what I've been up to over the past couple of weeks:
+
+Job hunting:
+- Had my first technical interview at Disney!
+- Had conversations with engineers at Acme, and Bacme.
+- Cold emailed engineers and managers from 15 companies and heard back positively from 2, looking to hop on a call with them this upcoming week.
+
+I finally made time to update the landing page for my app: <>. I improved the marketing copy, and gained 5 new users.
+
+Lastly, I'd greatly appreciate introductions to folks at tech companies that you think I'd be a good fit at. And please do send any essays / books / videos you think would help me.
+
+Thanks,
+Karthik
+
+p.s. Best thing I read recently: <>.
+
+----
+
+I'd recommend 3 sections to your update:
+1. Job hunting (offer > interviews > conversations > cold outreach responses > number of people you reached out to).
+2. Project updates (any updates you've made to your project. Any new outcomes? e.g. new users, or perhaps you got some good feedback from a user and will implement it after job hunting, etc.).
+3. Asks (usually for more introductions).
+4. Random cool things you came across (in postscript - after your signature).
+
+I'd recommend sticking to your update schedule consistently unless you absolutely have nothing to show for that 2 week period (which honestly should never be the case). But if you have nothing to show, don't send an update.
