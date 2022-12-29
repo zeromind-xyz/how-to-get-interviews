@@ -26,7 +26,8 @@
 
 ![[Screenshot 2022-12-24 at 5.10.31 PM.png]]
 -> This is a neat interface to show an improvement. Can use for something like explaining cold email messaging, etc.: by starting with a bad example, and iterating on it to something solid.
-
+![[email-template-design.jpg]]
+- ^ This is a powerful way to represent a cold email template. Might steal design, but make it more minimal, and better.
 - When it's time to actually build out a custom reading experience (only after many iterations w/ a simple Gitbook draft), will want to be able to embed a Notion template in the middle of the article. E.g. like at the bottom of: https://www.assemblyai.com/blog/how-to-run-openais-whisper-speech-recognition-model/ (there's an embedded Airtable).
 	- And "ideally" would have a thing that turns markdown into html. And have special tags that generate web components to generate things like the visual above (green border for correct iteration of a message). This would greatly reduce iteration speed because then you don't have to edit an image in Figma when you want to update a message or something. But this is definitely overkill and I should NEVER do this. lol.
 

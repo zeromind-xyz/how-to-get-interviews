@@ -46,7 +46,7 @@ Hey Alice,
 
 (ask) I'm currently job hunting for a software engineering role at startups and would greatly appreciate a chance to learn from you about job hunting, becoming a better engineer and absorb any advice you may have on building a career in Tech in general.
 
-(specific meeting proposal) Would you have time for a coffee right next to your office (or anywhere that's convenient for you), this Friday? Say, at 4pm? 
+(specific meeting proposal) Would you have time for a 20 minute coffee right next to your office (or anywhere that's convenient for you), this Saturday? Say, at 4pm?
 
 Regards,
 Karthik
@@ -58,11 +58,19 @@ Karthik
 If this is someone you've met before / chatted with before, bring up something relevant to show that you've taken the effort to look up what they've been up to. Given how public information is these days, you should at least know where someone works and ideally what they're working on as well.
 
 **Ask**
-This is where you propose what you'd appreciate from them: an opportunity to absorb their advice on job hunting / some other generally broad discussion area that leaves room for a longer conversation and doesn't feel like restricted, specific agenda.
+Propose what you want: an opportunity to absorb their advice on job hunting / some other generally broad discussion area that still leaves room for a broader conversation. So rather than a specific question that can be answered in 5 minutes, ask something more along the lines of "career advice", etc.
+
+I believe it's incredibly important to be transparent about your ask. If you reach out asking to talk about some other topic (say some project), but in the middle of the conversation talk about how you're job hunting and nudge the conversation towards job hunting, it discredits your interest in that other topic. (TODO: need to think about this more... there's definitely a better way of phrasing this).
+
+The better approach is to start by sharing that you're job hunting, so that you put it out there and the recipient knows that's the top issue on your mind. It doesn't matter if you barely talk about it during the conversation, but at least they know.
 
 **Meeting proposal**
 It helps to propose a specific time and place because it reduces the decision making burden on 
-them. But you have to be careful not to come off as dictating the time and place. This is a proposal to make it easy for them, not to make it easy for you.
+them. But don't come off as dictating the time and place. This is a proposal to make it easy for them, not to make it easy for you.
+
+Make sure to specify the duration and keep your ask to under 30 minutes. Personally I prefer asking for 20 minutes: it feel short enough to say yes to quickly. 30 minutes is on the edge of what is a "short" meeting, and will require more thought on their end.
+
+I also prefer to ask for meetings on the weekends because people are less likely to have to get back to work right after the meeting. This means that if it goes well, they're more likely to be able to extend it.
 
 Pick a place close to where they are, ideally a cafe. A walk & talk is the next best thing (if weather permits). Avoid proposing dinner / lunch unless you know them well enough: it feels like a larger commitment that they can't bounce from if the conversation isn't going well. Coffee catch-ups feel like a much smaller commitment that they can leave early if they don't feel like it's working out for some reason - making it easier for them to say yes to.
 
@@ -85,7 +93,8 @@ Some questions I love to ask (of course tailor to their particular situation):
 - What's at the top of your mind these days?
 - What led you to joining your Acme (insert their company)? How did you decide where to work?
 
-### Logistics
+### Get there early
+
 If your meeting is in-person and at a cafe, make sure to get there 10 minutes early. This gives you time to get settled into the environment and be there to receive the person you're meeting.
 
 2 minutes before the scheduled meeting time, send them a message: "Hey, is there anything you'd like to drink? I can order now since I'm in line.". You want to be the one buying the coffee / whatever they want. 
@@ -97,22 +106,79 @@ Showing gratitude with actions is more powerful than simply saying "I'm so grate
 If the meeting is a video call, join the meeting 5 minutes in advance and greet them with a warm smile :). Always be there early. From their perspective: joining a call to help someone only to be the first one in the call is annoying.
 
 ### Conversation
-- Aim is to create an emotional connection.
-- Follow the excitement.
-- Present, and let them choose.
-- Read their body language and make adjustments accordingly.
 
+This is how many of my warm-up meetings go. This might not be how yours goes, but the goal isn't to follow some pre-determined path, but rather to find the method that works for you to build that foundational emotional connection.
 
-### What NOT to do
-- Just
+I will usually start with small talk: "How was your day?" - just something easy to help us both settle in.
+
+Some folks aren't a fan of small talk and you can tell by the way they answer that question: they'll give a short, quick answer and feel ready to pounce on the conversation that actually matters. Others actually do need the time to settle. 
+
+When it feels natural to move on, usually in a minute or two, I'll re-iterate what I emailed them about (to ask them for this meeting), but nudge it in the direction that I think is where the excitement lies: 
+
+"As I mentiond, I'm actively looking for software engineering roles right now. Thanks for taking the time to chat with me, I know I have a lot to learn from you. But before jumping into that I'd love to learn more about your work at Acme: I saw your tweet about the new app you just launched to early users, how's that going?".
+
+Since you're the one asking for the meeting, it's your responsibility to set the initial direction. Here, I usually re-iterate the ask that I reached out to them in the first place "advice on building a career in Tech", but then jump into the question I'm more interested in which is about what they're working on.
+
+And that's it. Once someone starts talking about what's exciting to them, if it's exciting for you as well, then just let it flow.
+
+With many conversations, you'll begin to develop a feel for how to nudge conversations in ways that energize both of you.
+
+I've found that even topics that I thought were boring, when described by someone passionate about it, becomes exciting. So by simply nudging someone to talking about what they find exciting, will likely energize you as well.
+
+Eventually, because you set the context at the beginning, they'll usually bring the conversation back to the job hunting. But it's perfectly fine if they don't. 
+
+In fact, in the best warm-up meeting I had we didn't even have time to talk about job hunting because we went deep into some project they were working on for hours: turning a coffee meeting into a lunch and long walk.
+
+But if it does come back to job hunting, I usually throw a general question to them that gives them space to choose the most interesting thing to tell you. Something along the lines of "If you could give the new grad you advice on job hunting / thinking about how to build your career, what would you tell them?". 
+
+I love these kinds of questions because people are a lot more hestitant to give others their strong opinions on job hunting because they don't fully know the other person's context and constraints, but when asked to give advice to their former self, they can be very opinionated, and rightly so since they have full context.
+
+And it's these unfiltered, strongly opinionated advice to former selves that I think is actually most valuable as well because our situations are actually far more similar than we seem to believe.
+
+Lastly, they might push the conversation to what you've done in the past, at which point be prepared to go into your most impressive experience / project. Treat this like an interview because it is! If you can demonstrate that you have competence and are promising, this person is far more likely to be able to help you by offering to introduce you to friends, or offer a referral at their company.
+
+Don't explain your project in fancy, impressive sounding words. Just say it as it is: in simple words that makes it clear what your project is. Be ready to answer any questions (see: [[projects]]) they have about your project.
+
+You likely won't have any time beyond this.
+
+If things went well, they'll be the ones to bring up ways in which they can help you, or in some cases, they'll ask you how they can help. If they realized they're running late and had to bounce quickly, you might not even reach this stage in the conversation, which is totally fine because you'll be following up later anyways.
+
+But if they do ask you what you're looking for, have an ask ready: **"Would you be able to connect me to any engineer friends so that I can pick their brains as well?"**. They'll almost definitely say yes. 
+
+By this point if they're able to offer you a referral, they'll offer it. If they don't offer it, then they're not able to, and there's no point pushing for it. If you push for a referral, even if they say they will refer you out of the awkwardness of deying your request, it won't be a strong referral anyways, and you'll likely hurt your relationship with this person.
+
+Shake their hand. Thank them for their time.
 
 ### Follow-up
 
-### Keep them posted
-- etc. and to have them on your job hunting journey by keeping them updated on your progress (e.g. landing interviews, getting offers, etc.).
+Hey Alice,
+
+It was great catching up earlier.
+
+(proposing introduction process) Thanks for offering to introduce me to your friends. When you can, could you share the profiles of the friend you can introduce me to? I'll craft an email tailored to each and send to you, which you can easily forward to each to see if they're interested.
+
+(emphasize their control) Let me know if you'd prefer another approach / if there's anything else I can do to make this easy for you.
+
+(link to your project) <>: this is the app that I built that lets you annotate articles you read on the internet. Hope you're able to try it out! Would greatly appreciate any feedback.
+
+(references from conversation) Also, this is is the article I referred to in our conversation about desigining decentralized social platforms: <>.
+
+Thanks,
+Karthik
+https://zeromind.xyz
 
 ----
 
-### References
-- https://en.wikipedia.org/wiki/Six_degrees_of_separation
-- 
+**Proposing introduction process**
+When someone agrees to introduce you to their friends, and hasn't yet given specific names of the people they're willing to introduce you to (perhaps because they still need to think about it), you can gently remind them to send you their profiles.
+
+Having profiles of the people you'll be introduced to is important: it's the first step to kickstarting the introduction process (TODO: link chapter). It enables you to craft a tailored message to that person so that they're more likely to, and more excited to, respond to the request for an introduction.
+
+**Emphasize their control** 
+You're proposing things to make it easier for them, not to assert some kind of control over the process. They are the ones that have full power over how they want to help you (obviously). By emphasizing their control, you re-iterate this feeling that you're willing to do whatever's necessary to make it easy for them to help you.
+
+**Link to your project**
+If you had a chance to talk about your project / most impressive past experience, make sure to link it in this follow-up email. Make it easy for them to try it out and play with it.
+
+**References from conversation**
+If there were any follow-ups from the conversation: e.g. you referenced an article / book / film / video, etc., it would be nice to include that here.

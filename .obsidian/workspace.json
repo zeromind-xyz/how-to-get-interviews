@@ -20,7 +20,19 @@
             }
           },
           {
-            "id": "e8fbaea1dda0d18d",
+            "id": "72f784b1e7f7bf68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "outreach/Introductions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c1381f594209425",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/TODO.md",
+                "file": "outreach/leverage-your-network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/TODO.md",
+                "file": "outreach/leverage-your-network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/TODO.md"
+                "file": "outreach/leverage-your-network.md"
               }
             }
           }
@@ -150,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e8fbaea1dda0d18d",
+  "active": "3ba49cc6bf68d89e",
   "lastOpenFiles": [
-    "outreach/leverage-your-network.md",
-    "outreach/approach-strangers.md",
-    "mindset/general-tips.md",
     "notes/TODO.md",
-    "poop.md",
-    "SUMMARY.md",
+    "outreach/Introductions.md",
+    "outreach/leverage-your-network.md",
     "outreach/cold-message.md",
-    "outreach/overview.md",
-    "outreach/drop-into-offices.md",
-    "rules/get-interview.md"
+    "mindset/confidence.md",
+    "mindset/thinking-long-term.md",
+    "mindset/general-tips.md",
+    "mindset/make-it-easy-to-help-you.md",
+    "mindset/handling-rejection.md",
+    "outreach/drop-into-offices.md"
   ]
 }

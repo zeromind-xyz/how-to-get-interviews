@@ -1,0 +1,4 @@
+- What is this.
+- How to ask for an introduction
+- Research (understand the background of the person you're being connected to)
+- Make it easy to help you (minimize effort for the person making the introduction)
