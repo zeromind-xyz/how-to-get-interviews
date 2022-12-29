@@ -2,7 +2,7 @@ The goal of outreach is to pitch yourself to engineers or engineering managers a
 
 Outreach is the process of reaching out to people with a specific ask. What your ask is depends on how close you are to them, and whether they work at a company that you’re planning to apply to, or they know people that do work at such companies.
 
-The first step in outreach is to build the Outreach List: a spreadsheet of people to reach out to. The initial seed for this list is your "network". 
+The first step in outreach is to build the Outreach List: a spreadsheet of people to reach out to. The initial seed for this list is your "network".
 
 Think of your network as a graph of nodes with each node representing a person, and an edge between two nodes represents a connection between them (i.e. knowing each other). The distance between the two nodes is proportional to how well they know each other. For example, if you met someone at a conference a year ago, but haven't talked to since, you're "far away" from this node in your network. On the other hand, a close friend / colleague who you work(ed) with day in and day out for an extended period of time would be very "close" in your network.
 
