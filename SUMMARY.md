@@ -1,4 +1,4 @@
- # Table of contents
+# Table of contents
 * [Intro](README.md)
 
 ## Rules of the game
@@ -22,12 +22,11 @@
 * [Approach strangers](outreach/approach-strangers.md)
 
 ## Close
-- (TODO: talk about persistently following up)
 * [Convert losses to wins](close/convert-losses-to-wins.md)
 
-## Mindset
-* [Confidence](mindset/confidence.md)
-* [Make it easy to help you](mindset/make-it-easy-to-help-you.md)
-* [Handling rejection](mindset/handling-rejection.md)
-* [Thinking long-term](mindset/thinking-long-term.md)
-* [Outro](Outro.md)
+## Appendix
+- [Tips](appendix/tips.md)
+- [Resources](appendix/resources)
+
+
+* [outro](outro.md)

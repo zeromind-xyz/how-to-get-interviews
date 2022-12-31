@@ -1,1 +1,0 @@
-- Basic video call setup if this is your primary means of talking to people. Use your phone camera (it's better than your laptop's). Visual clarity goes a long way.

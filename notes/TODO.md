@@ -1,5 +1,6 @@
 **To talk about**
-- There's a good chapter on "Ask for help" in general: 
+- Need to really bring clarity to the high level timeline and heuristics on how to spend your time (e.g. if you don't have an impressive project, etc.).
+- There's a good chapter on "Ask for help" in general (I think all of these tidbits of advice can fall into a "Tips" section - which could be clubbed together with "Mindset" advice as well).
 	- **Don't feel like you're a burden**
 		When I first moved to San Francisco right after dropping out of college, looking to join an exciting startup, I was shocked, surprised and deeply moved by how complete strangers were willing to listen to my ideas, offer their feedback and extend help. I felt I didn't deserve it, and I didn't even understand why they'd take time out of their busy lives to help me with anything. Therefore I'd feel nervous to even ask for help or set up warm-up meetings. As I gained experience and found myself able to offer feedback & advice to others, I learned that supporting others and being able to help others on their paths is a deeply fulfilling and satisfying experience. If I had experientially understood the benefits of supporting others sooner in my career, I think I would have asked way more people for coffees / catch-ups without fearing that I was taking up too much of their time. Sooner or later, you'll be able to offer help in return, and I hope as you build your fulfilling career, you too will find the joy in helping those that are earlier than you in their careers.
 
@@ -36,6 +37,11 @@
 - Emphasize that recruiters chimed in on the playbook (and they did! I had at least 5 - 10 conversations with recruiters in 2019 about this).
 - https://rauno.me/ ... omg, the font, the background color, spacing. It oozes a premium feel. I'm in love with it. Amen.
 - https://twitter.com/cristicrtu/status/1530986605862952961?s=20&t=mMNYmTuiz3FVi0DDqhPZQA (study their thought process on how they designed their site. Could use some principles for this playbook presentation).
+- https://twitter.com/splinetool -> 3d animation that can be controlled with user input: scroll / with cursor.
+- Another thought is to have the book open up on scroll down from the hero. This is good in that it gets straight into it. I actually really, really like this. Damn... hmm... need to think about that experience.
+- Powerful landing page inspirations:
+	- https://www.arpaldsn.com
+	- https://twitter.com/sekachov/status/1600500027180421122?s=20&t=M8G887MXvcGZgCieKMyrvw (really cool button animations).
 
 **Fonts**
 - https://klim.co.nz/buy/soehne/
@@ -43,3 +49,7 @@
 
 **Search** (obv not for the playbook, but once there is enough content):
 - https://cmdk.paco.me/ (Using hte command+k interface to search for any piece of content that I've created. This would be powerful).
+
+**Other education inspirations**
+- https://www.dive.club/
+- https://visualizevalue.com/blogs/feed/how-to-build-leverage

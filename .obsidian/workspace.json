@@ -4,23 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "81d365f51f1e5b0e",
+        "id": "371e5197ffff0cab",
         "type": "tabs",
         "children": [
           {
-            "id": "59afeb54656b5088",
+            "id": "d99db2ef73638b63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "outreach/overview.md",
+                "file": "outreach/cold-message.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c82af28646ef70e8",
+            "id": "17474d07d78bfba6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ea2c87de77f6c64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "outro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "536d48ac7bce6b05",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,17 +174,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c82af28646ef70e8",
+  "active": "536d48ac7bce6b05",
   "lastOpenFiles": [
-    "outreach/overview.md",
-    "outreach/leverage-your-network.md",
-    "outreach/the-introduction.md",
-    "outreach/approach-strangers.md",
-    "outreach/drop-into-offices.md",
+    "outro.md",
+    "appendix/tips.md",
+    "appendix/resources.md",
+    "appendix/make-it-easy-to-help-you.md",
+    "appendix/confidence.md",
+    "appendix/thinking-long-term.md",
+    "appendix/handling-rejection.md",
+    "SUMMARY.md",
     "outreach/cold-message.md",
-    "notes/TODO.md",
-    "mindset/confidence.md",
-    "mindset/thinking-long-term.md",
-    "mindset/general-tips.md"
+    "notes/TODO.md"
   ]
 }
