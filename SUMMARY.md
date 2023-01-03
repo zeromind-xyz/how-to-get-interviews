@@ -27,6 +27,4 @@
 ## Appendix
 - [Tips](appendix/tips.md)
 - [Resources](appendix/resources)
-
-
 * [outro](outro.md)

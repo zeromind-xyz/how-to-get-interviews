@@ -5,3 +5,6 @@
 ### Handling rejection
 
 ### Video call setup
+
+### Move to a Tech hub
+- If possible, at least temporarily move to a Tech hub.

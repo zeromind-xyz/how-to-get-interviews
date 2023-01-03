@@ -18,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "17474d07d78bfba6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/TODO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ea2c87de77f6c64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "outro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "536d48ac7bce6b05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SUMMARY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "outreach/cold-message.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "outreach/cold-message.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md"
+                "file": "outreach/cold-message.md"
               }
             }
           }
@@ -174,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "536d48ac7bce6b05",
+  "active": "d99db2ef73638b63",
   "lastOpenFiles": [
-    "outro.md",
+    "outreach/overview.md",
+    "outreach/cold-message.md",
     "appendix/tips.md",
+    "notes/TODO.md",
+    "outro.md",
+    "SUMMARY.md",
     "appendix/resources.md",
     "appendix/make-it-easy-to-help-you.md",
     "appendix/confidence.md",
-    "appendix/thinking-long-term.md",
-    "appendix/handling-rejection.md",
-    "SUMMARY.md",
-    "outreach/cold-message.md",
-    "notes/TODO.md"
+    "appendix/thinking-long-term.md"
   ]
 }

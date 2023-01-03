@@ -16,7 +16,7 @@ Both approaches are incredibly useful.
 
 If your network is weak (you don't know many engineers / they don't work at the companies that you want to work at / they're not well connected to people that work at the companies you want to work at), then it's incredibly difficult and time consuming to use your network to reach the people you want to reach.
 
-This is when cold outreach is invaluable: it's a technique to reach people that are completely outside of your network that would have been difficult / impossible to reach through people you already know.
+This is when cold outreach is invaluable: it's a technique to reach people that are outside of your network that would have been difficult / impossible to reach through people you already know.
 
 Introductions through your network have a much higher response rate than cold outreach. But cold outreach can be life changing because all you need is to make one connection with the right person to open yourself to an entire new network of people that you'd be grateful to engage with.
 
@@ -26,9 +26,9 @@ Therefore, through cold outreach if you can connect with a stellar engineer / te
 And then 3 more from each of those 3 connections ( = 9)
 And then 3 more from each of those 9 ( = 27)
 
-This leads to an exponential growth in your network. And not only just growth, but high quality growth because people that are great at what they do tend to be clustered together, so by connecting with one great person, you're now one degree separated from the entire Great Network. 
+This leads to an exponential growth in your network. And not only just growth, but high quality growth because people that are great at what they do tend to be clustered together, so by connecting with one great person, you're now one degree separated from the entire "People-that-are-great-at-what-they-do Network"
 
-It really is a small world. A single, well crafted, cold email really can change your life.
+It really is a small world. A single, well crafted, cold message really can change your life.
 
 ### Channels
 
