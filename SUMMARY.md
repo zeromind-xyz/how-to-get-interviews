@@ -19,7 +19,7 @@
 * [The introduction](outreach/the-introduction.md)
 * [Cold message](outreach/cold-message.md)
 * [Drop into offices](outreach/drop-into-offices.md)
-* [Approach strangers](outreach/approach-strangers.md)
+* [Approach people in person](outreach/approach-in-person.md)
 
 ## Close
 * [Convert losses to wins](close/convert-losses-to-wins.md)

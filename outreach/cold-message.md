@@ -71,6 +71,8 @@ It helps to dig deep: read a few of their essays / tweets / videos, anything, to
 
 ----
 
+**Subject**: An opportunity to show what I can bring to your team
+
 Hi Alice,
 
 (specific ask) Hope you're well. I came across the job listing on your team for an Android engineer, and would appreciate a chance to demonstrate what I can bring to the table.
@@ -80,7 +82,7 @@ Hi Alice,
 (tailored line) I came across your essay on moving over to Kotlin, and wish I had read it before I had started work on my app. I faced most of the challenges you mentioned and wasted a couple of weeks porting over.
 
 (signature)
-Regards,
+Thanks in advance,
 Karthik U
 (more links) more work + essays: https://zeromind.xyz/
 
@@ -110,11 +112,19 @@ After your signature, share your personal website so that they can deep dive int
 
 ### Follow-up
 
-If they don't respond, then so
+If they don't respond within a week, gently follow-up. The best way to follow-up is to have an update to share: e.g. an update to your project, an essay that you wrote, etc. This is especially powerful when you follow up repeatedly with more updates to share: in a way it signals your productivity.
 
+"Hey Alice, hope you're well. Hoping to take just a few minutes of your time to chat about how I can effectively contribute on your team. Thanks in advance!
+
+-- Karthik
+
+p.s. <> - an essay I recently published on advice to folks who are just getting started with iOS development."
+
+If you don't have any update, still follow-up with just the reminder.
 
 ### Tips
+Use an email read tracker to know when a cold email has been opened. This is important to undestand  whether people are even opening your email.
 
+If very few people are actually opening your email, you have a subject line issue. If they're opening your email, but not responding, you'll likely have to tweak your messaging some way, or improve how you pitch your proof of competence.
 
-References
-- https://sriramk.com/coldemail (great advice. Adapt it.)
+But sometimes, it just takes a few rounds of following up in order to get a response.

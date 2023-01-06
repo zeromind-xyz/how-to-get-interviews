@@ -17,8 +17,10 @@
 - Special projects: https://twitter.com/pie6k/status/1606371846219304961?s=20&t=SKoB2GzGXpdEmxtlUbi4_w (really cool.)
 - The power of writing essays: https://perell.com/podcast/patrick-mckenzie-internet-famous/ 
 	- "But if the only thing you got out of writing an essay about whatever the topic is for you is that the next time you’re doing a job search when you are writing cold emails to hiring managers for whatever the position is that you’re going after, you can use that one essay that you wrote back in the as a proof-of-work on like, “Hey, I have clearly thought about this more than most people who are sending you a cold email with a link to a resume that you’re gonna skim for 30 seconds.” -> this is genius.
+- https://twitter.com/hiangelali/status/1611056476537356292?s=20&t=Pkj7aDZCSh8QrBiTgG0Snw -> Job hunting is incredibly stressful. The people reading this playbook are probably going through their most stressful phase in life yet. Write with care.
 
 **Visual**
+- https://manual.withcompound.com/chapters/early-exercising-and-83-b-elections?collection=early-stage-founder -> this is the format that I want. I think the "share" links at the top are absolutely genius. It enables each essay to have its own traction that then raises all the other essays in the playbook. A powerful approach.
 - I definitely need to have a separate visual language to point out feedback on text such as email templates, etc. I don't see a way around designing this in Figma and exporting. It's such a huge explanation value-add, that it's worth the additional effort. Done.
 - **Visual language for textual analysis** - want to use this throughout the playbook (esp in the Resume, cold emailing, warm introductions sections). This is absolutely essential to analyze sentences well.
 - https://getcoleman.com/ -> incredible way to present a morphing pitch. Might make sense to steal this format. If not, then at least present it in a beautiful way (Figma export rather than just as text in the page. Emphasize each pitch version and make it look beautiful).
