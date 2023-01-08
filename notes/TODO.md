@@ -35,6 +35,7 @@
 	- And "ideally" would have a thing that turns markdown into html. And have special tags that generate web components to generate things like the visual above (green border for correct iteration of a message). This would greatly reduce iteration speed because then you don't have to edit an image in Figma when you want to update a message or something. But this is definitely overkill and I should NEVER do this. lol.
 
 **Landing page**
+- https://shiftnudge.com/#reviews (woah)
 - Have a section to showcase the visual design in the playbook (this is a major selling point. Encapsulate each "major" point in a diagram and showcase in this section of the landing page) - do this AFTER the beta reader feedback. Amen.
 - Emphasize that recruiters chimed in on the playbook (and they did! I had at least 5 - 10 conversations with recruiters in 2019 about this).
 - https://rauno.me/ ... omg, the font, the background color, spacing. It oozes a premium feel. I'm in love with it. Amen.

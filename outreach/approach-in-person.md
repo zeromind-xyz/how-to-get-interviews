@@ -1,6 +1,6 @@
 Making friends in Tech is a great way to build your network. Meeting new people will expose you to new ideas, perspectives and opportunities that will help you far beyond just landing your next job.
 
-Need to rewrite this and base it on:
+TODO: Need to rewrite this and base it on:
 1. You are the average of the people you surround yourself with. If you want to become great at a skill it'll serve you incredibly well to surround yourself with folks that are great at that skill. This is the reason why people with shared interests congregate in densely packed "hubs" for their domains. Fortunately there are many Tech hubs in the world, so you don't have to grab a flight to San Francisco necessarily to take advantage of this, but I still highly recommend finding a way to a Tech hub.
 2. Many benefits to building this skill outside of just job hunting.
 

@@ -1,14 +1,19 @@
-"Here's what I did. I found a couple of engineering firms that I would be interested in working for and I went in for a visit, resume in hand. When I did, I didn't ask for the hiring manager, because often they would be an HR person with no background in engineering and no interest in talking to me. I would ask for one of the head engineers that would be give a me a couple minutes to tell me about the company.
+An almost guaranteed way to get noticed by a company is to drop off a letter in which you pitch yourself for an opportunity at the company - at the company's office.
 
-Sometimes I would get to sit down right then, sometimes no one would have the time but I would schedule a sit down at a later date, sometimes they only had the time to shake my hand and say hello. In any case, I made sure that I gave them my resume and let them know that I was out of college and looking for a position. All of them told me that they didn't have anything available and probably wouldn't upon first meeting.
+Almost always your letter will be read. And since it's a physical letter, the recipient is likely to spend more time on it than an email (since they likely get a ton of emails).
 
-I gathered about 5 engineering firms that I did that with. Then, the next month or so, I would go to those same five, ask for the same person, say hello, and drop off my most up to date resume. And I would add a new firm or two each time I went out. Once a month, I would make the rounds and have a couple new meetings with a firm.
+The downside to this approach is that it can take time to physically visit the offices of companies you're applying to, and due to covid restrictions some offices have been shut down / not fully functioning. 
 
-An easy way to make new contacts in other firms is to ask people that you sit down with if they know someone else that would be willing to sit down and talk to you. When you make that appointment and meet the next contact, ask them the same thing.
+Choose a Tech hub that you're able to visit.
 
-After a few months, most of my contacts knew me by sight and/or by name. My resume, name face were always fresh in their memory. It takes persistence but every single engineer that I talked to me said "you're going about your job search the right way. And you will find a job."
+Make a list of the companies there that meet your criteria (TODO link to: "Qualifying companies") that are headquartered in this Tech hub. You can make a list by using tools like Angellist, LinkedIn, Googling.
 
-And I did. After about 6 months, I walked into a firm and my contact said "I was just thinking about you." Two weeks later I had a job." - graffsquatch (https://www.reddit.com/r/engineering/comments/23e4df/entry_level_engineers_who_are_now_hired_what_got/)
+For each company, identify an engineering manager on a team that's hiring.
 
--> https://www.psypost.org/2022/12/psychology-researchers-find-that-a-simple-talking-to-strangers-intervention-is-surprisingly-effective-64561 (lol, what timing).
+Craft a message directed to that hiring manager. You can use the methodology in "Cold Message" (Link to: "Cold Message") to craft your message to pitch yourself. Print it out. In addition to the message, make sure to include your phone number and email address so that they know how to reach you.
+
+Put the printed message, and your resume in an envelop directed to the engineering manager at the company that you're looking to get an interview at.
+
+Walk into the office. Most offices have a reception area that is responsible for checking in guests and handling deliveries. You can directly hand them your envelop mentioning that it's for the hiring manager you addressed it to. If asked what it is, you can openly mention that you're applying for a position and that the envelop contains my resume and a pitch for why you think you'd be a great fit. 
+
 
