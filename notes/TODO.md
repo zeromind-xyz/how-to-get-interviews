@@ -1,3 +1,12 @@
+**Gautam feedback** (to incorporate).
+- Drop into offices / mailing a letter to an office is more complicated than expected... I'm considering leaving out this chapter for now.
+- Emphasized the need to clearly define the "bar" for impressiveness. This needs to be explained really well.
+- Move "Find & qualify companies" to prepare/ or even outreach/ -> def doesn't belong in rules of the game.
+- Need to talk about career fairs (including how you should try to sneak into the ones for prestigious institutions).
+- For projects:
+	- Verifiable social proof: (stars on Github / # of downloads on the play store / testimonials on Twitter). 
+	- Open source project hack: find where you're the most needed, projects that have distribution, but need engineering effort: refactoring code for papers, etc. Don't undermine the impact of such projects because refactoring code is actually super important and impressive if you can do it well. Most of your time coding will be reading and refactoring, yet some people feel that it's not that impressive.
+
 **To talk about**
 - Need to really bring clarity to the high level timeline and heuristics on how to spend your time (e.g. if you don't have an impressive project, etc.).
 - There's a good chapter on "Ask for help" in general (I think all of these tidbits of advice can fall into a "Tips" section - which could be clubbed together with "Mindset" advice as well).

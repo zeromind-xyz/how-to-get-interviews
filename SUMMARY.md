@@ -4,14 +4,14 @@
 ## Rules of the game
 * [How companies hire](rules/how-companies-hire.md)
 * [How to get an interview](rules/get-interview.md)
-- [Find companies](rules/how-to-find-companies.md)
-* [Qualify](qualifying-companies.md)
+- [Verifiable proof of competence](rules/verifiable-proof-of-competence.md)
 
 ## Prepare
 * [3s-30s-30m Rule](prepare/3s-30s-30m-rule.md)
 * [Projects](prepare/projects.md)
 * [Resume](prepare/resume.md)
 * [Website](prepare/website.md)
+- [Find and qualify companies](prepare/find-and-qualify-companies.md)
 
 ## Outreach
 - [Overview](outreach/overview.md)

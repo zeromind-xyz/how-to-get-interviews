@@ -4,34 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "b88d8de22cacd373",
+        "id": "061f9d8c8fe7f62c",
         "type": "tabs",
         "children": [
           {
-            "id": "9120efd8f32e2c75",
+            "id": "206b85d29f3a72f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "outreach/drop-into-offices.md",
+                "file": "outro.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ead5e36924f29d1c",
+            "id": "a0f0f0e88556a510",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "outreach/approach-in-person.md",
+                "file": "prepare/find-and-qualifying-companies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ef24d5d4544a210",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SUMMARY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4239d7e2e46d9214",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/verifiable-proof-of-competence.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "outreach/drop-into-offices.md",
+                "file": "rules/verifiable-proof-of-competence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "outreach/drop-into-offices.md",
+                "file": "rules/verifiable-proof-of-competence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "outreach/drop-into-offices.md"
+                "file": "rules/verifiable-proof-of-competence.md"
               }
             }
           }
@@ -159,17 +184,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9120efd8f32e2c75",
+  "active": "4239d7e2e46d9214",
   "lastOpenFiles": [
-    "outreach/approach-in-person.md",
-    "outreach/drop-into-offices.md",
-    "notes/TODO.md",
-    "appendix/tips.md",
     "SUMMARY.md",
-    "outreach/cold-message.md",
-    "Old draft (2019).md",
-    "outreach/overview.md",
+    "rules/verifiable-proof-of-competence.md",
+    "prepare/find-and-qualifying-companies.md",
+    "rules/how-to-find-companies.md",
+    "notes/TODO.md",
     "outro.md",
-    "appendix/resources.md"
+    "appendix/tips.md",
+    "outreach/drop-into-offices.md",
+    "outreach/approach-in-person.md",
+    "outreach/cold-message.md"
   ]
 }
