@@ -1,4 +1,11 @@
-**Competence**  = Your ability to help the company create value by positively impacting their process 
+1. What is it
+2. Why is it important (bec. it's the bare minimum for what companies need to see if you have no brand names)
+3. What is the minimum bar (what to have before you can expect to hear back from companies)
+	1. What people think it is.
+	2. What it actually is.
+4. How to build verifiable proof of competence alongside job hunting (e.g. Build landing page first so that you can start pitching it and talking about it) -> treat it as an iterative project, not a one time thing that you build up front and don't change.
+-----
+**Competence**  = Your ability to help the company create value by positively impacting their process.
 
 **Proof** = Work that you've done that demonstrates your competence. This could be past work experiences, contributions to projects, apps / products you've built, etc.
 
@@ -37,6 +44,5 @@ In addition to having a project like this, you'll need to present it well: by fo
 - The various approaches you can use to build verifiable proof of competence.
 - Treat it as an iterative process (alongside applying to companies). Bec. you don't know the market until you test it. 
 
-### 
 
 

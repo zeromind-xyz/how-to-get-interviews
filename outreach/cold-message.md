@@ -67,6 +67,12 @@ You want to find the point you can use for the tailored opener in your message.
 
 It helps to dig deep: read a few of their essays / tweets / videos, anything, to get a better sense of what they're thinking about.
 
+(todo: incorporate)
+- Github
+- Company engineering blogs
+- LinkedIn posts
+- You just need one response. This is huge.
+
 ### Craft message (pitch for role)
 
 ----

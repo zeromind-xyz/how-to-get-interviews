@@ -16,4 +16,15 @@ Put the printed message, and your resume in an envelop directed to the engineeri
 
 Walk into the office. Most offices have a reception area that is responsible for checking in guests and handling deliveries. You can directly hand them your envelop mentioning that it's for the hiring manager you addressed it to. If asked what it is, you can openly mention that you're applying for a position and that the envelop contains my resume and a pitch for why you think you'd be a great fit. 
 
+----
 
+Gautam's notes:
+1. Walk in ask receptionist if you can meet an engineer, if you meet an engineer prepare a pitch.
+2. IF not: ask if you can drop off your resume - direct it to the hiring manager (that you've researched beforehand).
+	1. Have some common ground with the hiring manager.
+3. Sometimes they don't even accept packages / letters. In that case you can mail it to them  (directed hiring manager - attach cover letter (tailored message) + resume).
+4. Don't be shy to walk into the same company multiple times esp when there are many folks that work there.
+5. Don't worry about the haters, there are many lovers.
+
+Techniques:
+- Cover letter: 
