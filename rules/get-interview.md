@@ -1,4 +1,4 @@
-Job hunting is similar to sales. You're selling your ability to create value - to companies. The best strategy is to bypass the direct application process by convincing a hiring manager / engineer directly that you're worth interviewing.
+Effective job hunting is sales. You're selling your ability to create value - to companies. The best strategy is to bypass the direct application process by convincing a hiring manager / engineer directly that you're worth interviewing.
 
 The rest of the playbook will elaborate on the steps outline below:
 

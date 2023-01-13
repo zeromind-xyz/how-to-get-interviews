@@ -4,47 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "061f9d8c8fe7f62c",
+        "id": "562d583d5cda2cb1",
         "type": "tabs",
         "children": [
           {
-            "id": "206b85d29f3a72f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "outro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0f0f0e88556a510",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "prepare/find-and-qualifying-companies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ef24d5d4544a210",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SUMMARY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4239d7e2e46d9214",
+            "id": "a0ba6355419af06d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4239d7e2e46d9214",
+  "active": "a0ba6355419af06d",
   "lastOpenFiles": [
-    "SUMMARY.md",
+    "Untitled.md",
     "rules/verifiable-proof-of-competence.md",
-    "prepare/find-and-qualifying-companies.md",
-    "rules/how-to-find-companies.md",
+    "rules/get-interview.md",
+    "rules/how-companies-hire.md",
     "notes/TODO.md",
+    "prepare/projects.md",
+    "todop.md",
+    "SUMMARY.md",
     "outro.md",
-    "appendix/tips.md",
-    "outreach/drop-into-offices.md",
-    "outreach/approach-in-person.md",
-    "outreach/cold-message.md"
+    "prepare/find-and-qualifying-companies.md"
   ]
 }
