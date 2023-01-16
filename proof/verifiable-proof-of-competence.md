@@ -1,22 +1,16 @@
-1. What is it
-2. Why is it important (bec. it's the bare minimum for what companies need to see if you have no brand names)
-3. What is the minimum bar (what to have before you can expect to hear back from companies)
-	1. What people think it is.
-	2. What it actually is.
-4. How to build verifiable proof of competence alongside job hunting (e.g. Build landing page first so that you can start pitching it and talking about it) -> treat it as an iterative project, not a one time thing that you build up front and don't change.;
-5. **Starting your own project vs. contributing to an existing project.**;
------
-**Competence**  = Your ability to help the company create value by positively impacting their process.
+**Proof of competence** = Work that you've done that demonstrates your ability to create value for a company. 
 
-**Proof** = Work that you've done that demonstrates your competence. This could be past work experiences, contributions to projects, apps / products you've built, etc.
+"Value" is measured by the outcomes generated: users served, revenue generated, etc. People incorrectly assume that complicated engineering efforts are impressive, whereas a simple project with actual users is far more impressive than a complex project that doesn't solve any problem that people have (or doesn't solve it well enough to get users).
+
+Proof of competence could be shown through: past work experiences, contributions to projects, apps / products you've built, etc.
 
 **Verifiable** = Ability for someone to check that your proof of competence is accurate, and real - with minimal effort.
 
+Words on their own are weak. If you say you've built an app that has a certain number of users but don't share the link to your app on the app store, and / or share its source code, then people aren't likely to believe that your app exists / that you've built your app.
+
 If you haven't worked at a reputed company (a company that the companies you're applying to knows about and has respect for), and haven't graduated from a prestigious institution (top tier computer science college), then you need some kind of verifiable proof of competence to gain interviews at companies. 
 
-From a company's perspective, interviewing candidates is expensive. There is absolutely no reason to give you an interview if you have nothing that tangibly demonstrates your competence. Having **verifiable proof of competence** is a core ingredient of successful job hunting. If you can pitch yourself well, but have nothing worth pitching, then your pitching won't lead to results.
-
-Proof of competence and verifiability are both important. They're like two wings of a bird, if one is weak, then you can't fly.
+From a company's perspective, interviewing candidates is super expensive, so there's no reason to give you an interview if you have nothing that tangibly demonstrates your competence. Having **verifiable proof of competence** is a core ingredient of successful job hunting. If you can pitch yourself well, but have nothing worth pitching, then your pitching won't lead to results.
 
 Let's understand verifiable proof of competence with some examples.
 
@@ -34,16 +28,30 @@ This is a much more powerful pitch because it clearly shows proof of competence:
 
 ### The minimum bar
 
-I recommend having a software project that you've built / contributed to in a meaningful way, that is used by other people, before you start aggressively reaching out to companies.
+Meaningfully contributing to a project that has dozens of users is a minimum bar. 
 
-The number of users doesn't have to be in the millions, or hundreds of thousands, or even thousands. Having dozens / hundreds of people that have used your work is more than enough. And that's a lot easier to tangibly obtain.
+By "meaningfully", I mean a contribution that is part of the actual functionality of the project, beyond just adding a few test cases or writing documentation.
 
-In addition to having a project like this, you'll need to present it well: by focusing on its most impressive aspect quickly, to hold the reader's attention.
+Having users is the most important piece of this puzzle. It's not impressive to have a complex technical project without having a clear use-case that it's built for, and without any users.
 
-### How to build verifiable proof of competence.
+### Paths to building proof
 
-- The various approaches you can use to build verifiable proof of competence.
-- Treat it as an iterative process (alongside applying to companies). Bec. you don't know the market until you test it. 
+There are different types of projects you can pursue to build verifiable proof of competence. Through products (apps that you build and get users for), open source software libraries / projects, company tailored projects (that you create for a specific company you're applying to), or even through content creation: if you can demonstrate a deep understanding of technology / products.
 
+A big decision you'll need to make is whether to create a project from scratch, or to contribute to an existing one.
 
+Contributing to an existing project with users is advantageous because you don't have to worry about getting users as that's already taken care of. You can simply focus on building features / fixing bugs / refactoring the codebase to improve the software for its users.
 
+At the same time, the barrier to contributing can be high based on the popularity, size and complexity of the project.
+
+### Planning
+
+So what's the best plan of action if you don't have any verifiable proof of competence? 
+
+I believe an iterative approach to buidling proof of competence, alongside executing the job hunting framework is the best approach because it ensures that you're always practicing your pitch and building your network so that when you do have the proof of competence, your network will be ready to help you get interviews.
+
+Also, talking to engineers at companies is a great way to gain supporters who will not only help you get interviews, but may also be in a position to help you build proof of competence, by recommending you as a collaborator on their friends' projects.
+
+For example, let's say you want to contribute to an open source project as a means to build verifiable proof of competence. Then the right approach would be to successfully submit an easy pull request (one that you can do in a week or two), add that contribution to your pitch and reach out to companies. And in parallel to reaching out, you can then add more contributions to that repository, to build an impressive history of commits to a repository that has users.
+
+In the following chapters of this section, we'll explore in detail the different approaches you can take to buildling proof of competence.

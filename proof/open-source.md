@@ -1,1 +1,1 @@
-- Start your own / contribute to an existing open source 
+An open source project

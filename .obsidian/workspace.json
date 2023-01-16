@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b458df00ed8118b3",
+        "id": "ff45ed46697879f3",
         "type": "tabs",
         "children": [
           {
-            "id": "1a5e7c43b55b4a37",
+            "id": "9492ff8f2b63a07e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,31 @@
             }
           },
           {
-            "id": "f3f54d2855af417e",
+            "id": "d1a0743c56608add",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "proof/open-source.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80935d7fc3fe4c3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "proof/alternate-approaches.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97c158930b33718f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,17 +184,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3f54d2855af417e",
+  "active": "97c158930b33718f",
   "lastOpenFiles": [
     "proof/verifiable-proof-of-competence.md",
     "proof/open-source.md",
-    "proof/product.md",
-    "SUMMARY.md",
-    "proof/company-tailored-project.md",
     "proof/alternate-approaches.md",
-    "proof-of-competence/create-a-project.md",
+    "SUMMARY.md",
+    "prepare/find-and-qualifying-companies.md",
     "prepare/projects.md",
-    "prepare/How to create a project.md",
-    "outreach/drop-into-offices.md"
+    "proof/product.md",
+    "proof/company-tailored-project.md",
+    "proof-of-competence/create-a-project.md",
+    "prepare/How to create a project.md"
   ]
 }
