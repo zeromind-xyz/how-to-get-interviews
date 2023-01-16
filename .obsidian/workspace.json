@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "562d583d5cda2cb1",
+        "id": "b458df00ed8118b3",
         "type": "tabs",
         "children": [
           {
-            "id": "a6ec6a8235762d36",
+            "id": "1a5e7c43b55b4a37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "proof/verifiable-proof-of-competence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3f54d2855af417e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,17 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6ec6a8235762d36",
+  "active": "f3f54d2855af417e",
   "lastOpenFiles": [
-    "prepare/projects.md",
-    "outreach/drop-into-offices.md",
-    "prepare/How to create a project.md",
-    "outreach/cold-message.md",
-    "outreach/the-introduction.md",
-    "outreach/leverage-your-network.md",
-    "outreach/approach-in-person.md",
-    "rules/verifiable-proof-of-competence.md",
+    "proof/verifiable-proof-of-competence.md",
+    "proof/open-source.md",
+    "proof/product.md",
     "SUMMARY.md",
-    "images/company-priority.png"
+    "proof/company-tailored-project.md",
+    "proof/alternate-approaches.md",
+    "proof-of-competence/create-a-project.md",
+    "prepare/projects.md",
+    "prepare/How to create a project.md",
+    "outreach/drop-into-offices.md"
   ]
 }

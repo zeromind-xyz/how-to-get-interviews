@@ -4,11 +4,17 @@
 ## Rules of the game
 * [How companies hire](rules/how-companies-hire.md)
 * [How to get an interview](rules/get-interview.md)
-- [Verifiable proof of competence](rules/verifiable-proof-of-competence.md)
+
+## Have proof
+- [Verifiable proof of competence](proof/verifiable-proof-of-competence.md)
+- [Open source](proof/open-source.md)
+- [Product](proof/product.md)
+- [Company tailored project](proof/company-tailored-project.md)
+- [Alternate approaches](proof/alternate-approaches.md)
 
 ## Prepare
 * [3s-30s-30m Rule](prepare/3s-30s-30m-rule.md)
-* [Projects](prepare/projects.md)
+- [Create a project](prepare/)
 * [Resume](prepare/resume.md)
 * [Website](prepare/website.md)
 - [Find and qualify companies](prepare/find-and-qualify-companies.md)

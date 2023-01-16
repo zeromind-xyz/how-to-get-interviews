@@ -3,7 +3,8 @@
 3. What is the minimum bar (what to have before you can expect to hear back from companies)
 	1. What people think it is.
 	2. What it actually is.
-4. How to build verifiable proof of competence alongside job hunting (e.g. Build landing page first so that you can start pitching it and talking about it) -> treat it as an iterative project, not a one time thing that you build up front and don't change.
+4. How to build verifiable proof of competence alongside job hunting (e.g. Build landing page first so that you can start pitching it and talking about it) -> treat it as an iterative project, not a one time thing that you build up front and don't change.;
+5. **Starting your own project vs. contributing to an existing project.**;
 -----
 **Competence**  = Your ability to help the company create value by positively impacting their process.
 
