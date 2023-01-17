@@ -1,3 +1,12 @@
+A company tailored project is to create something for a specific company in order to demonstrate that you can create value for that company.
+
+(example)
+
+### Levels of effort
+
+
+
+----
 - Building something to solve a problem that a company actually has.
 - Advantage of being in Tech is that the products companies build are usually out in the open for you to interact with and analyze. You can build a strong understanding of a product from a user's perspective, and propose solutions.
 - What you should want to demonstrate.

@@ -10,7 +10,6 @@
 - [Open source](proof/open-source.md)
 - [Product](proof/product.md)
 - [Company tailored project](proof/company-tailored-project.md)
-- [Alternate approaches](proof/alternate-approaches.md)
 
 ## Prepare
 * [3s-30s-30m Rule](prepare/3s-30s-30m-rule.md)

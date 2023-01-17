@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "624e43d7a8e77d20",
+        "id": "eecc855fae307405",
         "type": "tabs",
         "children": [
           {
-            "id": "3f95695d9ac1f91e",
+            "id": "a6176f18487bf44b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "proof/company-tailored-project.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "proof/company-tailored-project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "proof/company-tailored-project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "proof/company-tailored-project.md"
+              }
             }
           }
         ],
@@ -139,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f95695d9ac1f91e",
+  "active": "a6176f18487bf44b",
   "lastOpenFiles": [
-    "proof/product.md",
+    "SUMMARY.md",
     "proof/company-tailored-project.md",
+    "images/company-priority.png",
+    "proof/product.md",
+    "proof/open-source.md",
+    "proof/alternate-approaches.md",
+    "proof/verifiable-proof-of-competence.md",
     "prepare/projects.md",
     "outreach/leverage-your-network.md",
-    "proof/open-source.md",
-    "proof/verifiable-proof-of-competence.md",
-    "notes/TODO.md",
-    "opne sou.md",
-    "images/Screenshot 2022-12-24 at 5.10.31 PM.png",
-    "proof/alternate-approaches.md"
+    "notes/TODO.md"
   ]
 }
