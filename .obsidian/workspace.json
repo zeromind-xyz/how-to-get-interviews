@@ -4,55 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6fb4ce9795ba48d1",
+        "id": "624e43d7a8e77d20",
         "type": "tabs",
         "children": [
           {
-            "id": "0af428389d45d13f",
+            "id": "3f95695d9ac1f91e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "proof/open-source.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1dd5059838c00941",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "outreach/leverage-your-network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf7827e83e50a34e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "proof/product.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a57e537a076c92d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "proof/company-tailored-project.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -121,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "proof/open-source.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "proof/open-source.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "proof/open-source.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -183,17 +139,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0af428389d45d13f",
+  "active": "3f95695d9ac1f91e",
   "lastOpenFiles": [
+    "proof/product.md",
+    "proof/company-tailored-project.md",
+    "prepare/projects.md",
     "outreach/leverage-your-network.md",
     "proof/open-source.md",
-    "proof/company-tailored-project.md",
-    "proof/product.md",
     "proof/verifiable-proof-of-competence.md",
     "notes/TODO.md",
     "opne sou.md",
     "images/Screenshot 2022-12-24 at 5.10.31 PM.png",
-    "proof/alternate-approaches.md",
-    "SUMMARY.md"
+    "proof/alternate-approaches.md"
   ]
 }
