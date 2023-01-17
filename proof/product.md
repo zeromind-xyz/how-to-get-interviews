@@ -1,0 +1,5 @@
+- What is a product
+- How to choose the right product to build
+- Focus on getting users, not on building something complex for the sake of it.
+- This effort will usually be from scratch.
+- 
