@@ -8,11 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c25cb291adbb313a",
+            "id": "0af428389d45d13f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "proof/open-source.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf7827e83e50a34e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "proof/product.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a57e537a076c92d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "proof/company-tailored-project.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 215.5,
+    "collapsed": true
   },
   "right": {
     "id": "d6fed44b275469d3",
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "proof/open-source.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "proof/open-source.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "proof/open-source.md"
+              }
             }
           }
         ],
@@ -139,17 +172,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c25cb291adbb313a",
+  "active": "0af428389d45d13f",
   "lastOpenFiles": [
-    "prepare/projects.md",
-    "SUMMARY.md",
-    "proof/alternate-approaches.md",
+    "proof/company-tailored-project.md",
     "proof/product.md",
     "proof/open-source.md",
     "proof/verifiable-proof-of-competence.md",
-    "prepare/find-and-qualifying-companies.md",
-    "proof/company-tailored-project.md",
-    "proof-of-competence/create-a-project.md",
-    "prepare/How to create a project.md"
+    "notes/TODO.md",
+    "opne sou.md",
+    "images/Screenshot 2022-12-24 at 5.10.31 PM.png",
+    "proof/alternate-approaches.md",
+    "SUMMARY.md",
+    "prepare/projects.md"
   ]
 }

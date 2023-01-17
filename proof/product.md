@@ -1,5 +1,5 @@
 - What is a product
 - How to choose the right product to build
-- Focus on getting users, not on building something complex for the sake of it.
-- This effort will usually be from scratch.
-- 
+	- Focus on getting users, not on building something complex for the sake of it.
+- Ideally something that you and your friends will use -> so that you can build an audience for it.
+- **Presentation**: landing page, demo, etc.

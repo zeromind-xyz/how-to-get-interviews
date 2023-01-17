@@ -1,4 +1,5 @@
 - Update intro "who is this for": to clearly specify the "minimum bar" of competence you need to be at for this playbook to make any sense to you. This needs to be up front and center. Qualify readers at the start.
+- https://thenetworkstate.com/the-network-state-in-one-thousand-words -> This is how you can present a book well. Hot damn.
 
 **Gautam feedback** (to incorporate).
 - Drop into offices / mailing a letter to an office is more complicated than expected... I'm considering leaving out this chapter for now.

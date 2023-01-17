@@ -4,7 +4,7 @@
 
 Proof of competence could be shown through: past work experiences, contributions to projects, apps / products you've built, etc.
 
-**Verifiable** = Ability for someone to check that your proof of competence is accurate, and real - with minimal effort.
+**Verifiable** = Ability for someone to check that your proof of competence is accurate, and real - with minimal effort. (TODO: need a much better definition here.)
 
 Words on their own are weak. If you say you've built an app that has a certain number of users but don't share the link to your app on the app store, and / or share its source code, then people aren't likely to believe that your app exists / that you've built your app.
 
@@ -48,10 +48,10 @@ At the same time, the barrier to contributing can be high based on the popularit
 
 So what's the best plan of action if you don't have any verifiable proof of competence? 
 
-I believe an iterative approach to buidling proof of competence, alongside executing the job hunting framework is the best approach because it ensures that you're always practicing your pitch and building your network so that when you do have the proof of competence, your network will be ready to help you get interviews.
+I believe an iterative approach to buidling proof of competence, alongside executing the job hunting framework is the best approach because it ensures that you're always practicing your pitch and building your network so that when you do have the proof of competence, your network will be built, warmed up, and ready to get you interviews. \
 
-Also, talking to engineers at companies is a great way to gain supporters who will not only help you get interviews, but may also be in a position to help you build proof of competence, by recommending you as a collaborator on their friends' projects.
+As you talk to engineers at companies, you can bring up this project you're working on for their thoughts and feedback. You might get valuable tips for how to improve it / get connected to people that are working on something similar.
 
-For example, let's say you want to contribute to an open source project as a means to build verifiable proof of competence. Then the right approach would be to successfully submit an easy pull request (one that you can do in a week or two), add that contribution to your pitch and reach out to companies. And in parallel to reaching out, you can then add more contributions to that repository, to build an impressive history of commits to a repository that has users.
+For example, let's say you want to contribute to an open source project as a means to build verifiable proof of competence. Then the right approach would be to successfully submit an easy pull request (one that you can do in a week or two), add that contribution to your pitch and reach out to companies. And in parallel to reaching out, you can then add more contributions to that repository, to build an impressive history of commits.
 
 In the following chapters of this section, we'll explore in detail the different approaches you can take to buildling proof of competence.

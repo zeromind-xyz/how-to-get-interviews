@@ -1,0 +1,8 @@
+- Building something to solve a problem that a company actually has.
+- Advantage of being in Tech is that the products companies build are usually out in the open for you to interact with and analyze. You can build a strong understanding of a product from a user's perspective, and propose solutions.
+- What you should want to demonstrate.
+- Multiple levels:
+	- Quick analysis essay: what's the problem, how do you know it's a problem, how would you fix it.
+	- Designs.
+	- Actual prototype.
+- 
