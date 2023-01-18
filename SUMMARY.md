@@ -1,7 +1,7 @@
 # Table of contents
 
 ## Quickstart
-* [Intro](quickstart/intro.md)
+* [Intro](quickstart/Intro.md)
 - [Playbook as a sentence](quickstart/playbook-sentence.md)
 - [Playbook in 500 words](quickstart/playbook-500.md)
 
