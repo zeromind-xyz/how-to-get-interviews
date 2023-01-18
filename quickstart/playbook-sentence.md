@@ -1,1 +1,1 @@
-Find companies that are urgently hiring and pitch yourself to hiring managers there with tangible proof that you can create value for their company.
+Find companies that are hiring with urgency and pitch yourself to hiring managers there with tangible proof that you can create value for them.

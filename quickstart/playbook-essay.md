@@ -1,1 +1,0 @@
-Companies hire people to help them serve their customers better, and generate greater revenue. Therefore applying to companies is about pitching yourself to convince them 

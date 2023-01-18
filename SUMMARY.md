@@ -3,7 +3,7 @@
 ## Quickstart
 * [Intro](quickstart/intro.md)
 - [Playbook as a sentence](quickstart/playbook-sentence.md)
-- [Playbook in 500 words](quickstart/playbook-essay.md)
+- [Playbook in 500 words](playbook-500.md)
 
 ## Rules
 * [How companies hire](rules/how-companies-hire.md)
