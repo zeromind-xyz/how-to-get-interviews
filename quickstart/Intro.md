@@ -2,15 +2,15 @@ Over the past few years, I've helped dozens of engineers strategize and execute 
 
 I've noticed that most people don't understand the art of job hunting. I feel sad when I see an engineer who's technically sound, spends hours practicing interview questions, and yet fails to even get interviews to able to showcase their competence that they've worked so hard to craft. 
 
-A tragedy. 
+A tragedy.
 
 **For most of you, your biggest challenge isn't interviewing, it's getting interviews.**  
 
-This playbook will show you a system you can execute to **consistently** generate interviews for you.
+This playbook is a framework that will consistently generate interviews.
 
 ### Who is this for?
 
-This playbook is for you if you are a college student (or self-learner) / new grad / junior software engineer with 0 - 2 years of experience, haven't had internships at famous Tech companies and therefore are struggling to get interviews at the companies you want to work at. 
+This playbook is for you if you are a college student (or self-learner) / new grad / junior software engineer with 0 - 2 years of experience, haven't had internships at prestigious Tech companies and therefore are struggling to get interviews at the companies you want to work at.
 
 ### How long will it take to start getting interviews?
 

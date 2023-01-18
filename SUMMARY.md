@@ -1,11 +1,15 @@
 # Table of contents
-* [Intro](README.md)
 
-## Rules of the game
+## Quickstart
+* [Intro](quickstart/intro.md)
+- [Playbook as a sentence](quickstart/playbook-sentence.md)
+- [Playbook in 500 words](quickstart/playbook-essay.md)
+
+## Rules
 * [How companies hire](rules/how-companies-hire.md)
 * [How to get an interview](rules/get-interview.md)
 
-## Have proof
+## Proof
 - [Verifiable proof of competence](proof/verifiable-proof-of-competence.md)
 - [Open source](proof/open-source.md)
 - [Product](proof/product.md)
@@ -26,10 +30,8 @@
 * [Drop into offices](outreach/drop-into-offices.md)
 * [Approach people in person](outreach/approach-in-person.md)
 
-## Close
-* [Convert losses to wins](close/convert-losses-to-wins.md)
-
 ## Appendix
 - [Tips](appendix/tips.md)
 - [Resources](appendix/resources.md)
+- [Acknowledgements](appendix/acknowledgements.md)
 * [outro](outro.md)

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "eecc855fae307405",
+        "id": "4d93719acd3aa1fd",
         "type": "tabs",
         "children": [
           {
-            "id": "a6176f18487bf44b",
+            "id": "2dfd09da93fbb515",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "proof/company-tailored-project.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "proof/company-tailored-project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "proof/company-tailored-project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "proof/company-tailored-project.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,17 +139,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6176f18487bf44b",
+  "active": "2dfd09da93fbb515",
   "lastOpenFiles": [
     "SUMMARY.md",
-    "proof/company-tailored-project.md",
-    "images/company-priority.png",
+    "close/convert-losses-to-wins.md",
+    "quickstart/playbook-essay.md",
+    "quickstart/playbook-sentence.md",
+    "quickstart/Intro.md",
+    "appendix/resources.md",
+    "appendix/acknowledgements.md",
+    "README.md",
     "proof/product.md",
-    "proof/open-source.md",
-    "proof/alternate-approaches.md",
-    "proof/verifiable-proof-of-competence.md",
-    "prepare/projects.md",
-    "outreach/leverage-your-network.md",
-    "notes/TODO.md"
+    "prepare/resume.md"
   ]
 }
